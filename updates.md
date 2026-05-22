@@ -1,50 +1,34 @@
-# Project Update Preferences
+# Update Rules
 
-Use this whenever creating a project update.
+Use this for project updates.
 
-## Default Shape
+## Shape
 
-Keep the update to a single-screen executive view unless asked for detail.
-
-Preferred structure:
-
-1. One-line status summary.
-2. Small milestone table.
-3. Top 3-5 risks or decisions.
-4. Manual-fill gaps only where source data is missing.
+- One screen.
+- Start with status.
+- Use one small table.
+- Show top 3-5 risks or choices.
+- Link only key proof.
+- Say `manual fill` when data is missing.
 
 ## Style
 
-- Be succinct and decision-oriented.
-- Lead with the message, not the research trail.
-- Use RAG only where it helps scanning.
-- Prefer one table over multiple sections.
-- Include only the strongest evidence links.
-- Do not convert every risk into an ask for the recipient; many decisions can be made by Deepak.
-- Make asks specific, bounded, and only for items where the recipient can unblock, decide, or sponsor.
-- Avoid long background, long issue lists, and verbose explanations.
+- Short.
+- Clear.
+- Decision first.
+- No long story.
+- No ticket dump.
+- No fake dates.
+- No fake cost.
+- No ask unless the person can help.
 
-## Milestone Table
-
-Use columns like:
+## Table
 
 | Milestone | RAG | ETA | Status | Ask / Decision |
 | --- | --- | --- | --- | --- |
 
-If useful, add a short cost/spend signal, but do not invent currency values. If rate or allocation data is missing, mark it as manual fill.
+## Proof
 
-## Missing Data
-
-If source data is incomplete:
-
-- Use `missing` or `manual fill needed`.
-- Do not fabricate dates, owners, costs, or impact metrics.
-- Mention only the missing items that materially affect the update.
-
-## Evidence
-
-Evidence should be light:
-
-- Link the main Jira filter or Confluence page.
-- Link only key blocker tickets.
-- Avoid dumping every related ticket.
+- Main Jira filter.
+- Key blocker tickets.
+- Key Confluence page.

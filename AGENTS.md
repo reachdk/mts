@@ -1,7 +1,10 @@
-# Agent Instructions
+# Agent Rules
 
-When the user asks to "create a project update", first read `updates.md` in this project root and follow those preferences. If a prompt casually says `update.md`, treat that as referring to `updates.md`.
+When user says `create a project update`:
 
-When an update is for a specific person, consult the `Profiles/` folder before drafting or updating the message. Use the person's profile to tune level of detail, tone, asks, and evidence.
+1. Read `updates.md`.
+2. Keep it one screen.
+3. If update is for a person, read `Profiles/`.
+4. Use that person style.
 
-Default to concise, single-screen updates unless the user explicitly asks for a detailed report.
+If user says `update.md`, use `updates.md`.
