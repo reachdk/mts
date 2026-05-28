@@ -9,6 +9,7 @@ Path: `/Users/deepak/githubProjects/mts`
 - `Profiles/` = people style.
 - `Projects/` = project context.
 - `Trackers/` = tracking.
+- `Profiles/deepak-mail-persona.md` = Deepak email intervention and reply style.
 
 ## Update Rule
 
@@ -59,3 +60,7 @@ https://zeta-tm.atlassian.net/wiki/spaces/EON/pages/5054726173/EON+-+CTO+Visibil
 ## Resume
 
 Read `AGENTS.md`, then `memory.md`, then `activity-log.md`.
+
+## Mail Persona
+
+Use `Profiles/deepak-mail-persona.md` when scanning inbox threads for mails where Deepak should intervene.

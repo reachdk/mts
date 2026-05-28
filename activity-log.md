@@ -60,3 +60,12 @@ Keep both:
 - central Codex memory.
 
 Local travels. Central helps this machine.
+
+Date: 2026-05-28
+
+## Mail Persona
+
+- Reviewed latest 100 Outlook Sent Items visible in browser.
+- Range: 2026-05-27 to 2026-04-01.
+- Added `Profiles/deepak-mail-persona.md`.
+- Added pointer in `memory.md`.
