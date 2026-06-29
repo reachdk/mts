@@ -64,3 +64,5 @@ Read `AGENTS.md`, then `memory.md`, then `activity-log.md`.
 ## Mail Persona
 
 Use `Profiles/deepak-mail-persona.md` when scanning inbox threads for mails where Deepak should intervene.
+
+Global skill: `sweep-mails` handles Outlook unread sweeps and uses `Profiles/`.

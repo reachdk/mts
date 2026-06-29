@@ -69,3 +69,12 @@ Date: 2026-05-28
 - Range: 2026-05-27 to 2026-04-01.
 - Added `Profiles/deepak-mail-persona.md`.
 - Added pointer in `memory.md`.
+
+Date: 2026-06-03
+
+## sweep-mails Skill
+
+- Created global Codex skill: `/Users/deepak/.codex/skills/sweep-mails`.
+- Skill uses Outlook browser sweep.
+- Reads and updates MTS `Profiles/`.
+- Mark-read step requires approval.
