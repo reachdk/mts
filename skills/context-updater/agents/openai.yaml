@@ -1,0 +1,4 @@
+interface:
+  display_name: "Context Updater"
+  short_description: "Scan Outlook and Teams into MTS context"
+  default_prompt: "Use $context-updater to scan recent Outlook and Teams activity and update the MTS context trackers for review."
