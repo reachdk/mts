@@ -9,13 +9,25 @@ Use this skill as a manual runbook. Do not create a scheduler, service, database
 
 ## Core Rules
 
-- Use the Codex browser for Outlook and Microsoft Teams.
+- Use the Codex browser for Outlook and Microsoft Teams, OR use a Teams digest file produced by the Power Automate flow in `teams-flow-runbook.md` (preferred for Teams when available).
 - Keep each run bounded; do not scan all history.
 - Prefer the existing `context/` files in this repo over new files.
 - Never invent missing owner, ETA, priority, impact, cost, or stakeholder intent.
 - Use `manual fill` when a necessary fact is absent.
 - Keep quoted evidence short; prefer source-backed paraphrase.
 - Stop and ask before a deeper scan if any cap is hit.
+
+## Digest Mode (Teams)
+
+When Deepak provides a Teams digest file (OneDrive path, email-forwarded body, or pasted markdown) matching the schema in `teams-flow-runbook.md`, use it INSTEAD of browser-scanning Teams:
+
+- Treat each `## Chats` / `## Channels` / `## Mentions` entry as a Teams source item, same as a browsed Teams thread.
+- Apply the same Extract Only rules and Caps below.
+- Set `Source: Teams` in evidence-log entries; use the digest's thread label as the `Thread` field.
+- Update `context/scan-state.md` with the digest run timestamp as the Teams "Last seen" marker.
+- If the digest is missing or stale, fall back to browser scan for Teams; do not silently skip Teams.
+
+Outlook scanning is unchanged in digest mode.
 
 ## Read First
 
@@ -79,7 +91,7 @@ Use the saved state in `context/scan-state.md` to bound the run. If state is mis
 3. Outlook flagged or important emails.
 4. Outlook emails from key people in `context/people.md`.
 5. Outlook sent items from the last 14 days where Deepak asked for something.
-6. Teams unread chats.
+6. Teams unread chats (browser scan, OR Teams digest file per Digest Mode above).
 7. Teams mentions.
 8. Teams chats from key people in `context/people.md`.
 9. Teams threads linked to active projects in `context/projects.md`.
