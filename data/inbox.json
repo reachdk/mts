@@ -5,6 +5,17 @@
   "fetchedCount": 282,
   "conversationDedupedCount": 193,
   "ignoredCount": 134,
-  "needsAction": [],
+  "needsAction": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzbAAA=",
+      "fromName": "Minerva",
+      "fromAddress": "noreply@myabsorb.com",
+      "subject": "Course past due notification for Understanding & Managing Unconscious Bias",
+      "receivedAt": "2026-08-29T10:35:30Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Mandatory Minerva course Understanding & Managing Unconscious Bias is past due. System reminder; will repeat until completed. Several older identical nags also unread.",
+      "draftReply": "No reply — complete Understanding & Managing Unconscious Bias in Minerva. It will keep nagging until the course is done."
+    }
+  ],
   "unsure": []
 }
