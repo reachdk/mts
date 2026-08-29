@@ -1,0 +1,8 @@
+node_modules
+dist
+.env
+.env.*
+.DS_Store
+data/inbox.live.json
+apps/inbox-dashboard/node_modules
+apps/inbox-dashboard/dist
