@@ -1,1 +1,10 @@
-PLACEHOLDER
+{
+  "generatedAt": "2026-08-29T17:58:45Z",
+  "mailbox": "deepak@zeta.tech",
+  "unreadFolderCount": 282,
+  "fetchedCount": 282,
+  "conversationDedupedCount": 193,
+  "ignoredCount": 134,
+  "needsAction": [],
+  "unsure": []
+}
