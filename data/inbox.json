@@ -137,5 +137,466 @@
       "draftReply": "No reply — review O-ORZN-000046282 (Akil A, software, 1909.2) in EKA and approve or reject."
     }
   ],
-  "unsure": []
+  "unsure": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzdAAA=",
+      "fromName": "Saroj Javeri",
+      "fromAddress": "sarojjav@zeta.tech",
+      "subject": "Re: Zeta<>Signzy @ Fri, Oct 4, 2024 12:30pm – 1:00pm (GMT+05:30)",
+      "receivedAt": "2026-08-29T14:35:28Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Vamsi and Signzy team,    Hope you are doing well; it's been a while since we last connected    Are you available on Monday for a brief connect? My colleague Neha from product (added on this thread), has a use case with an ongoing prospect which she wa",
+      "whyUnsure": "CC-only on Signzy reconnect; may still want him on the Monday call given identity/KYC is Pixel-adjacent."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzcAAA=",
+      "fromName": "GitHub",
+      "fromAddress": "noreply@github.com",
+      "subject": "[GitHub] A first-party GitHub OAuth application has been added to your account",
+      "receivedAt": "2026-08-29T10:56:12Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV6vzzcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hey deepak_Zeta!    A first-party GitHub OAuth application (GitHub MCP Server - STDIO) with gist, notifications, project, read:org, read:user, repo, user:email, and write:packages scopes was recently authorized to access your account.  Visit https://githu",
+      "whyUnsure": "Security-looking GitHub notice (first-party OAuth GitHub MCP Server added). Probably expected; confirm it was you."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeK4AAA=",
+      "fromName": "Aarif H",
+      "fromAddress": "aarif.h@hdfc.bank.in",
+      "subject": "Re: UAT Status - Pixel Master Card transaction monitoring through PRM",
+      "receivedAt": "2026-08-28T13:17:29Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeK4AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Classification - Internal    Hi @Muskan Mehrotra / @Kirti Tiwari,    Please update on the current open defects and provide ETA    TRC-36600  Master card || PRM || POS & ECOM || Trancode “10” is being received for Preauth transaction.  TRC-36601  Master ca",
+      "whyUnsure": "CC-only. Bank (Aarif) chasing Pixel PRM MasterCard UAT defects/ETAs from Muskan/Kirti."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeK1AAA=",
+      "fromName": "Hemanth  MYLI",
+      "fromAddress": "mylihemanthk@zeta.tech",
+      "subject": "Re: Spike in Pixel Repayment failures on 25th August ",
+      "receivedAt": "2026-08-28T11:01:38Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeK1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Looping @caps-sre-internal @caps-sro-internal as this on Shadowcard related .    @Neha Yadav can you ack here if there were any issue noticed related to Shadowcard between 5:00 pm IST to 7:00 PM IST on 25th august.    Thanks,  Hemanth.      ______________",
+      "whyUnsure": "CC-only. Pixel repayment-failure spike; Shadowcard ack still asked of Neha — no ack on this unread."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeKyAAA=",
+      "fromName": "Sandeep Ratan",
+      "fromAddress": "sandeepra@zeta.tech",
+      "subject": "Re: ZAPP BLOCK ISSUE ",
+      "receivedAt": "2026-08-28T10:27:05Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVzHeKyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Cc @Sharath P @Rajiv Tandon @Deepak Kumar",
+      "whyUnsure": "On To but the asks are to Karthik/Prasanna/Pranay. Leadership looped on ZAPP/PRM card-block (CSI-3144) with no question to you."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ_WAAA=",
+      "fromName": "Sachin Ramchandani",
+      "fromAddress": "sachin@zeta.tech",
+      "subject": "Sachin Ramchandani shared \"FIS-Zeta-India-Onsite-Agenda-Oct-2026-v0.3\" with you",
+      "receivedAt": "2026-08-27T17:00:28Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ%2BWAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sachin Ramchandani invited you to view a file    Here's the document that Sachin Ramchandani shared with you.            FIS-Zeta-India-Onsite-Agenda-Oct-2026-v0.3          This invite will only work for you and people with existing access.  Open         ",
+      "whyUnsure": "Sachin shared FIS-Zeta India onsite agenda Oct 2026. No ask, but you may need to be on that trip."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ_FAAA=",
+      "fromName": "Sai Sudha, CEO",
+      "fromAddress": "ceo@indiafintechfoundation.com",
+      "subject": "MEITY's DPDP Masterclass Take away & Pictures | 20 August",
+      "receivedAt": "2026-08-27T11:28:12Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ%2BFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear members,    Thank you for your overwhelming participation in the Fintech DPDP Preparedness Workshop, chaired by Shri.S.Krishnan, Secretary, MeitY on 20th August at Electronics Niketan. We had 35+ participants comprising of Fintech founders, co-founde",
+      "whyUnsure": "Industry/association blast (IFF DPDP masterclass recap). You may want to comment/share internally."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ_CAAA=",
+      "fromName": "Monami Dasgupta",
+      "fromAddress": "monami.dasgupta@faceofindia.org",
+      "subject": "Re: Request for feedback on Draft Reserve Bank of India (NBFC – Credit Facilities) Amendment Directions, 2026",
+      "receivedAt": "2026-08-27T10:51:34Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ%2BCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "(Please ignore the previous email)    Dear Members,    We are sharing our draft feedback (attached below) on the RBI's restriction on revolving credit for NBFCs. Request our members to kindly go through it and send us your comments by 12 noon tomorrow (Fr",
+      "whyUnsure": "FACE asking members for feedback on RBI NBFC revolving-credit draft. You are not To/CC; might still comment."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ95AAA=",
+      "fromName": "Neha Gutgutia",
+      "fromAddress": "nehagut@zeta.tech",
+      "subject": "Neha Gutgutia shared \"CLOU for Vyapaar\" with you",
+      "receivedAt": "2026-08-27T08:10:41Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ95AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Neha Gutgutia invited you to view a file    Here's the document that Neha Gutgutia shared with you.            CLOU for Vyapaar          This invite will only work for you and people with existing access.  Open            Share      This email is generate",
+      "whyUnsure": "Neha shared CLOU for Vyapaar. No explicit ask; likely needs your read as Pixel/CLOU lead."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ90AAA=",
+      "fromName": "Karthik Raman",
+      "fromAddress": "karthikram@zeta.tech",
+      "subject": "Karthik Raman shared \"CLOU_Vyapar_Rewritten_Proposal\" with you",
+      "receivedAt": "2026-08-27T06:09:36Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ90AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Karthik Raman invited you to edit a file    Here's the document that Karthik Raman shared with you.            CLOU_Vyapar_Rewritten_Proposal          This invite will only work for you and people with existing access.  Open            Share      This ema",
+      "whyUnsure": "Karthik shared rewritten CLOU_Vyapar proposal (edit access). Might need your review/steer."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9tAAA=",
+      "fromName": "Atharva Shringarpure",
+      "fromAddress": "atharva.shringarpure@faceofindia.org",
+      "subject": "Re: (Reminder) Invitation: RBI led Senior Leaders Interaction with GM, BIS & RBI Finquiry Session",
+      "receivedAt": "2026-08-27T05:45:01Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9tAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear Members,    This is a gentle reminder to mark your interest for the upcoming RBI-led interactions at GFF 2026.    FinTech Leaders Interaction with Mr. Pablo Hernández de Cos, General Manager, BIS  10 Sep 2026 | 12:30–1:30 pm  Interest Form: https://f",
+      "whyUnsure": "FACE reminder: RBI-led senior leaders / BIS GM session at GFF. CXO-level; you may want in."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9sAAA=",
+      "fromName": "Muskan Mehrotra",
+      "fromAddress": "muskanm@zeta.tech",
+      "subject": "Muskan Mehrotra shared \"PRM Bugs Tracker\" with you",
+      "receivedAt": "2026-08-27T05:39:37Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9sAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Muskan Mehrotra invited you to view a file    Here's the document that Muskan Mehrotra shared with you.            PRM Bugs Tracker          This invite will only work for you and people with existing access.  Open            Share      This email is gene",
+      "whyUnsure": "Muskan shared PRM Bugs Tracker — supporting the bank PRM ETA chase. No ask, but your mandate."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9lAAA=",
+      "fromName": "Sharath P",
+      "fromAddress": "sharath@zeta.tech",
+      "subject": "Re: Action Required from SaaS SRE: Analysis of Tenant Resource Configuration (RSD) Differences in HDFC Zones – Olympus Home / Control Center",
+      "receivedAt": "2026-08-27T03:04:00Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9lAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Naveen,    Pl document & share understanding / WOW aligned, once done.    - - - -    I  I Am  ________________________________  From: Naveen Jahagirdar <naveenj@zeta.tech>  Sent: 26 August 2026 21:16  To: Deepak Kumar <deepak@zeta.tech>; Eswar Kumar Pe",
+      "whyUnsure": "On To of SaaS SRE RSD/HDFC tenant-config thread. Latest asks Naveen to document; you had already flagged the SIT gap."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9OAAA=",
+      "fromName": "Rampirabhu R",
+      "fromAddress": "rampirabhu@zeta.tech",
+      "subject": "Rampirabhu R shared \"Product Chapter - HC - COPY\" with you",
+      "receivedAt": "2026-08-26T13:23:57Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9OAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Rampirabhu R invited you to view a file    Here's the document that Rampirabhu R shared with you.            Product Chapter - HC - COPY          This invite will only work for you and people with existing access.  Open            Share      This email is",
+      "whyUnsure": "Rampirabhu shared Product Chapter HC copy. No ask; 8.0/chapter material you may need to mark up."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9JAAA=",
+      "fromName": "Allwyn Vaz",
+      "fromAddress": "allwynv@zeta.tech",
+      "subject": "Re: Pixel - Ongoing Incidents Aug'26",
+      "receivedAt": "2026-08-26T11:53:47Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9JAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hello Mani    The Incident impact is being discussed on separate forums internally to identify the RC and A will follow    While most of the below incidents are already resolved and closed , we have undertaken the tasks of actioning the tickets that fell ",
+      "whyUnsure": "CC-only. Bank (Manikandan) saying Pixel incidents should be Sev-0; Allwyn responding. Escalation, no ack from you."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9GAAA=",
+      "fromName": "Allwyn Vaz",
+      "fromAddress": "allwynv@zeta.tech",
+      "subject": "Re: UPI Cooling Period Changes Going Live Tonight",
+      "receivedAt": "2026-08-26T11:35:40Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9GAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Thanks  @Pradyoth K  @Priya S @Anshika Jain- pls check impact to PX along with PZ and inform bank teams of  metrics and NPS impact  due to this    @Vinay Murthy- Trust  you will take this up in the APP full health review discussion as this being under  'k",
+      "whyUnsure": "On To. UPI cooling went live ~25 Aug; Priya/Anshika/Vinay named to execute. Deadline passed; PX NPS impact may still need you."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9DAAA=",
+      "fromName": "Pradyoth K",
+      "fromAddress": "pradyothk@zeta.tech",
+      "subject": "Pradyoth K shared \"ZavyCredit_Vyapar_Deck\" with you",
+      "receivedAt": "2026-08-26T11:12:27Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ9DAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Pradyoth K invited you to edit a file    Here's the document that Pradyoth K shared with you.            ZavyCredit_Vyapar_Deck          This invite will only work for you and people with existing access.  Open            Share      This email is generate",
+      "whyUnsure": "Pradyoth shared ZavyCredit_Vyapar deck (edit). Might need your review."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ87AAA=",
+      "fromName": "'Kajal Jain (IN)' via FACE All Members Group",
+      "fromAddress": "share@faceofindia.org",
+      "subject": "RBI Update | Reserve Bank of India (Non-Banking Financial Companies – Concentration Risk Management) Fourth Amendment Directions, 2026",
+      "receivedAt": "2026-08-26T10:17:10Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ87AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "On 25 August 2026, the Reserve Bank of India (RBI) issued the Reserve Bank of India (Non-Banking Financial Companies – Concentration Risk Management) Fourth Amendment Directions, 2026. The amendment revises the large exposure framework applicable to Infra",
+      "whyUnsure": "FACE/RBI NBFC concentration-risk amendment blast. Association mail you might comment on."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ84AAA=",
+      "fromName": "Karthik Raman",
+      "fromAddress": "karthikram@zeta.tech",
+      "subject": "Karthik Raman shared \"CLOU_Vyapar_Proposal\" with you",
+      "receivedAt": "2026-08-26T09:44:29Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVnOQ84AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Karthik Raman invited you to edit a file    Here's the document that Karthik Raman shared with you.            CLOU_Vyapar_Proposal          This invite will only work for you and people with existing access.  Open            Share      This email is gene",
+      "whyUnsure": "Karthik shared CLOU_Vyapar_Proposal (edit). Same CLOU/Vyapaar decision stack."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfwAAA=",
+      "fromName": "Aditi Verma",
+      "fromAddress": "aditi.verma@faceofindia.org",
+      "subject": "Re: Membership Renewal for FY 2026-27 | Submit the renewal form",
+      "receivedAt": "2026-08-25T12:16:49Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear All    This is a gentle reminder to please complete your FACE membership renewal for FY 2026-27, if not already done.    We will shortly be initiating the election process for the Board seat in September 2026. To be eligible to nominate yourself as a",
+      "whyUnsure": "FACE membership renewal FY 2026-27 reminder. Not To/CC; you might still need to renew."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfgAAA=",
+      "fromName": "Akansha Mishra",
+      "fromAddress": "akansham@zeta.tech",
+      "subject": "Re: Available Credit Limit: Formulae Update for immediate release on Repayment Done during EOD",
+      "receivedAt": "2026-08-25T10:08:03Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "++ @Raghavendra s  ________________________________  From: Ginni Gupta1 <ginni.gupta1@hdfc.bank.in>  Sent: 20 August 2026 23:44  To: Arun Prakash <arunpr@zeta.tech>; SANJEEVI V S <sanjeevi.vs@hdfc.bank.in>; Navakanth Kanapala <navakanthk@zeta.tech>; Allwy",
+      "whyUnsure": "CC-only. Bank (Ginni) chasing UAT done + prod release timeline on Available Credit Limit formulae."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkffAAA=",
+      "fromName": "Vidhi Bhatt",
+      "fromAddress": "vidhi@lightcred.com",
+      "subject": "Re: FACE Draft Note on UPI Meta/Checkout Framework",
+      "receivedAt": "2026-08-25T09:43:58Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkffAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Saishya,    I hope our company name is there is Annexure as we are TPAP.    Annexure is not attached in document, so just confirming.    BR,  Vidhi Bhatt    On 25 Aug 2026, at 2:51 PM, Saishya Duggal <saishya.duggal@faceofindia.org> wrote:    Dear Memb",
+      "whyUnsure": "FACE draft note on UPI Meta/Checkout — members asked to review. You might comment."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfdAAA=",
+      "fromName": "Arun Prakash",
+      "fromAddress": "arunpr@zeta.tech",
+      "subject": "Re: Requesting issue closure - Billing Cycle Change - Gap days logic ",
+      "receivedAt": "2026-08-25T09:27:44Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Prasad,    We will share the fix by 31-Aug in UAT for this change. Currently the fix is in showroom and QA is in progress.    Regards,  Arun Prakash  ________________________________  From: THIRUMALAI DEVI PRASAD A N <thirumalaideviprasad.an@hdfc.bank.",
+      "whyUnsure": "CC-only. Bank (Prasad) calling billing-cycle gap-days a regulatory miss; Arun committed UAT 31-Aug. May need steer if it slips."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfUAAA=",
+      "fromName": "Ravi Verma",
+      "fromAddress": "raviv@zeta.tech",
+      "subject": "Re: Prod Readiness – Platform Services Required for EON Packs Setup",
+      "receivedAt": "2026-08-25T08:44:39Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi @Divyansh / @SUBHAKAR    Please update on the ETA for the deployment of the Hub related changes    Thanks,  Ravi Verma  ________________________________  From: Abhishek Bhardwaj <abhishekbhar@zeta.tech>  Sent: 20 August 2026 16:26  To: Ravi Verma <ravi",
+      "whyUnsure": "On To. EON Packs prod-readiness; Ravi asking Divyansh/Subhakar for Hub deploy ETA. Your name is on the To, no question to you."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfJAAA=",
+      "fromName": "Sheeba P",
+      "fromAddress": "sheebap@zeta.tech",
+      "subject": "Sheeba P shared \"Pixel Operations & Customer Support (July 2026)\" with you",
+      "receivedAt": "2026-08-25T06:35:27Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sheeba P invited you to edit a file    Here's the document that Sheeba P shared with you.            Pixel Operations & Customer Support (July 2026)          This invite will only work for you and people with existing access.  Open            Share      T",
+      "whyUnsure": "Sheeba shared Pixel Ops & CS July deck (edit). Monthly pack — you may still need to review."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfFAAA=",
+      "fromName": "JYOTISHMAN MISHRA",
+      "fromAddress": "jyotishmanm@zeta.tech",
+      "subject": "Re: Action Required: Pending Inputs for RDS Cleanup | Project Quinto",
+      "receivedAt": "2026-08-25T06:00:23Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQkfFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Team,    As part of Project Quinto, we are planning to migrate the below-mentioned RDS instances to Aurora I/O-Optimized in the Common Prod environment, early morning tomorrow.  Activity Details:      *  Date: 26 August 2026    *  Time:       *  26-Aug",
+      "whyUnsure": "On To of a large DL: Project Quinto RDS cleanup “action required”. Unclear if any instance is yours."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQke1AAA=",
+      "fromName": "Prasanna Gottapu",
+      "fromAddress": "gottapup@zeta.tech",
+      "subject": "Re: Authentication success rate analysis | Pixel",
+      "receivedAt": "2026-08-25T04:13:36Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVYQke1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Rekha,    On 6 digit OTP, we have identified a bug and it is now resolved. CMR is getting created and we are targeting deployment in the next couple of days. I’ll keep the group informed on the progress    Hi @Ravada Surendradikshith    As we discussed",
+      "whyUnsure": "CC-only. Bank chasing 6-digit OTP go-live (was expected ~11 Aug). Prasanna says bug fixed, CMR in days."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVKmyLNAAA=",
+      "fromName": "Atharva Shringarpure",
+      "fromAddress": "atharva.shringarpure@faceofindia.org",
+      "subject": "Interest/nomination for interaction with RBI DG Shri Rohit Jain, 9 Sep 2026, 5-6 pm",
+      "receivedAt": "2026-08-21T03:16:32Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAVKmyLNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear Members,      1.  The RBI FinTech Department is seeking interest of FinTech Founders/CEOs/CXOs for an interaction with Shri Rohit Jain, Deputy Governor, RBI. It is scheduled for 9 Sep 2026, from 5-6 pm, at the Jio Convention Centre, Mumbai, on the si",
+      "whyUnsure": "FACE: interest/nomination for RBI DG Rohit Jain interaction 9 Sep. CXO-level; you may want a seat."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRwFAAA=",
+      "fromName": "Tanya Tayal",
+      "fromAddress": "tanyat@zeta.tech",
+      "subject": "Re: Credit Line on UPI: Production Issue",
+      "receivedAt": "2026-08-20T13:25:27Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRwFAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi @NIMISH,    For points 1- 4, we are reviewing the data and will get back to you.    For point 5, for the ReqListAccount request received from the VPA \"919820508984@okicici\" (GPay), we responded with the MBEBA flag set to YES. We may need to check with ",
+      "whyUnsure": "On To. HDFC (Nimish) CLOU/UPI production issues; Tanya/Karthik already answering. Bank prod on your mandate, no ask to you on the latest."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRwCAAA=",
+      "fromName": "Karthik Raman",
+      "fromAddress": "karthikram@zeta.tech",
+      "subject": "Re: SFTP file transfer Pixel Times",
+      "receivedAt": "2026-08-20T12:00:49Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRwCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "++ @Soumya Prusty @Samar Anand help with manually pushing the data.    Regards,  Karthik Raman  +91 9649964232  ________________________________  From: Ulaganathan Baskaran <ulaganathan.baskaran@hdfc.bank.in>  Sent: Thursday, August 20, 2026 5:19 PM  To: ",
+      "whyUnsure": "On To. Bank cannot see Pixel Times SFTP files; Karthik looping SRE to push. Bank-facing Times, others executing."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRv5AAA=",
+      "fromName": "Navakanth Kanapala",
+      "fromAddress": "navakanthk@zeta.tech",
+      "subject": "Re: Confirmation on Revised Proposal for Migration [Issuance on MasterCard alone]",
+      "receivedAt": "2026-08-20T10:35:25Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRv5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi @Shashikumar Premkumar @Shankey Kapoor @THIRUMALAI DEVI PRASAD A N,    A high-level summary based on our discussion today        1.  MasterCard as default Issuance & decouple Rupay - 28 Aug - UAT    2.  Rupay upsell in DIY         *  One click Issuance",
+      "whyUnsure": "CC-only. Revised migration proposal — MasterCard-only issuance. Bank-facing Pixel/Times mandate."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRvtAAA=",
+      "fromName": "Dhruv Shah",
+      "fromAddress": "dhruvsh@zeta.tech",
+      "subject": "Dhruv Shah shared \"Business Cards Feature Analysis\" with you",
+      "receivedAt": "2026-08-20T07:28:38Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRvtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dhruv Shah invited you to edit a file    Here's the document that Dhruv Shah shared with you.            Business Cards Feature Analysis          This invite will only work for you and people with existing access.  Open            Share      This email is",
+      "whyUnsure": "Dhruv shared Business Cards Feature Analysis (edit). No ask; may need your read."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRvkAAA=",
+      "fromName": "Naziya Warsi",
+      "fromAddress": "naziyaw.tml@cs.zeta.tech",
+      "subject": "Re: Assistance Required – Jira ID CSI-2996 || Unable to Set/Reset Pixel Credit Card PIN|| 111644820 || ankush jaiswal || Credit cards - GRC Location",
+      "receivedAt": "2026-08-20T05:35:25Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRvkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi @Priya S,    Kindly provide an update on the incident -HIN-580059 as TAT is already breached.    Regards,  Naziya  Escalation Desk Specialist – HDFC Bank Pixel Credit Card Unit  ________________________________  From: Naziya Warsi <naziyaw.tml@cs.zet",
+      "whyUnsure": "CC-only. CSI-2996 / HIN-580059 PIN reset — TAT already breached, escalation desk chasing Priya."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRvHAAA=",
+      "fromName": "Sarvesh Pande",
+      "fromAddress": "sarveshpa@zeta.tech",
+      "subject": "Re: Fraud Demo Part 2",
+      "receivedAt": "2026-08-19T12:12:44Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRvHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi Mike and Mitchell,    We've put together the attached document that addresses each of the four workflow points you raised during our incident and case management walkthrough:    1. \"Get Next\" analyst workflow  2. Dynamic prioritisation  3. Automatic ca",
+      "whyUnsure": "CC-only. Sarvesh sent Vervent Fraud Demo Part 2 write-up. External fraud thread you might still own."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRu3AAA=",
+      "fromName": "Priya M",
+      "fromAddress": "priyama@zeta.tech",
+      "subject": "Load wallet using UPI: Wallet to Wallet transactions",
+      "receivedAt": "2026-08-19T09:57:19Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRu3AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hi @Divyansh Joshi,    We have recently noticed instances where users are attempting to load their wallets through other wallets (e.g., CRED and PhonePe) using UPI instruments linked to Current, Savings, NRE, and NRO accounts ; however the load transactio",
+      "whyUnsure": "CC-only. PayZapp wallet-to-wallet UPI load issue assigned to Divyansh. Adjacent to your world."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRuuAAA=",
+      "fromName": "NPCI Partners",
+      "fromAddress": "npci.partners@npci.org.in",
+      "subject": "UPI OC 141 E - Addendum to NPCI/UPI/OC-141/2021-22 Safeguarding users on UPI",
+      "receivedAt": "2026-08-19T05:51:54Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRuuAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear Sir/Madam,    Please find the attached Circular: NPCI/UPI/OC-141 E/2026-27, pertaining to “Addendum to NPCI/UPI/OC-141/2021-22 Safeguarding users on UPI” for your reference.      Warm Regards,  NPCI Partner Program Team  https://partner.npci.org.in/",
+      "whyUnsure": "NPCI UPI OC-141 E circular (safeguarding users). Industry/regulatory blast you might comment on."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU_JRueAAA=",
+      "fromName": "Hari Madineni",
+      "fromAddress": "hariprasadma@zeta.tech",
+      "subject": "Hari Madineni shared \"Pluxee business metrics\" with you",
+      "receivedAt": "2026-08-19T04:08:19Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAU%2BJRueAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Hari Madineni invited you to view a file    Here's the document that Hari Madineni shared with you.            Pluxee business metrics          This invite will only work for you and people with existing access.  Open            Share      This email is g",
+      "whyUnsure": "Hari shared Pluxee business metrics. No ask; may still want a look."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvotAAA=",
+      "fromName": "Sidhant Jain",
+      "fromAddress": "sidhantj@zeta.tech",
+      "subject": "Re: *Important* Pixel Play Mastercard Demo for GFF",
+      "receivedAt": "2026-08-18T15:45:02Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvotAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "+ @Mehul Mistry    ________________________________  From: Sharath P <sharath@zeta.tech>  Sent: Tuesday, August 18, 2026 19:08  To: THIRUMALAI DEVI PRASAD A N <thirumalaideviprasad.an@hdfc.bank.in>; Rekha Nayak <rekha.nayak@hdfc.bank.in>; SANJEEVI V S <sa",
+      "whyUnsure": "CC-only. Pixel Play Mastercard demo for GFF — costing fork with bank. GFF week, your world."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvohAAA=",
+      "fromName": "Gireesh Subramaniam",
+      "fromAddress": "gireesh@zeta.tech",
+      "subject": "Reporting Changes",
+      "receivedAt": "2026-08-18T10:56:40Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvohAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Siva, Naveen,    Below are the reporting changes from me to respective new leaders per 8.0.    We can make the changes in darwinbox when you see appropriate.    Copying the new coaches . Communication to new managers and the employees is done.          1.",
+      "whyUnsure": "CC-only. Gireesh 8.0 reporting: Rampirabhu, Mustafa, Sharath P, Aditya P to be coached by you. Informational; Darwinbox not updated until Siva/Naveen move."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvofAAA=",
+      "fromName": "Amisha Gupta",
+      "fromAddress": "amishag@zeta.tech",
+      "subject": "Amisha Gupta shared \"Product Wise Revision cases\" with you",
+      "receivedAt": "2026-08-18T10:01:35Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvofAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Amisha Gupta invited you to view a file    Here's the document that Amisha Gupta shared with you.            Product Wise Revision cases          This invite will only work for you and people with existing access.  Open            Share      This email is",
+      "whyUnsure": "Amisha shared Product Wise Revision cases. No ask; may need your read."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvodAAA=",
+      "fromName": "manoj suryawanshi",
+      "fromAddress": "manoj.suryawanshi@faceofindia.org",
+      "subject": "Re: Review of loan documents in digital lending",
+      "receivedAt": "2026-08-18T09:13:34Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvodAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear NBFCs & LSPs Members,    Thank you for your responses and inputs on the captioned activity.    We are extending the activity until 31 August 2026 and request the remaining members to submit the required loan documents (here) at the earliest.      reg",
+      "whyUnsure": "FACE extending digital-lending loan-document review to 31 Aug. Association; you might comment."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvnwAAA=",
+      "fromName": "Aditya Padmawar",
+      "fromAddress": "adityap@zeta.tech",
+      "subject": "Aditya Padmawar shared \"Reporting Line\" with you",
+      "receivedAt": "2026-08-17T10:48:56Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUyWvnwAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Aditya Padmawar invited you to view a file    Here's the document that Aditya Padmawar shared with you.            Reporting Line          This invite will only work for you and people with existing access.  Open            Share      This email is genera",
+      "whyUnsure": "Aditya shared Reporting Line (with you + Ramesh). 8.0 org; related to the coaching map."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUcifnQAAA=",
+      "fromName": "Sivaram Kowta",
+      "fromAddress": "sivaram@zeta.tech",
+      "subject": "Sivaram Kowta shared \"Payzapp  8.0 mapping\" with you",
+      "receivedAt": "2026-08-13T03:52:01Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUcifnQAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sivaram Kowta invited you to edit a file    Here's the document that Sivaram Kowta shared with you.            Payzapp 8.0 mapping          This invite will only work for you and people with existing access.  Open            Share      This email is gener",
+      "whyUnsure": "Sivaram shared Payzapp 8.0 mapping (edit). Directly related to the Neha/Santosh coaching call."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwoAAA=",
+      "fromName": "Monami Dasgupta",
+      "fromAddress": "monami.dasgupta@faceofindia.org",
+      "subject": "Re: Requesting feedback on the draft Guidance on Regulatory Expectations for Data Governance",
+      "receivedAt": "2026-08-12T10:18:53Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Dear Members,    PFA our WIP response to the draft ‘Guidance on Regulatory Expectations for Data Governance, 2026’ for your review (both attached). We have received limited feedback on this draft guidance document. In case any members would like to send u",
+      "whyUnsure": "FACE draft response on RBI data-governance guidance. Association; limited member feedback so far."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwkAAA=",
+      "fromName": "Anjali Ravindran",
+      "fromAddress": "anjalir@zeta.tech",
+      "subject": "Anjali Ravindran shared \"Bill Autopay using CASA -5-Aug\" with you",
+      "receivedAt": "2026-08-12T08:38:46Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Anjali Ravindran invited you to edit a file    Here's the document that Anjali Ravindran shared with you.            Bill Autopay using CASA -5-Aug          This invite will only work for you and people with existing access.  Open            Share      Th",
+      "whyUnsure": "Anjali shared Bill Autopay using CASA deck (edit). AutoPay is a live bank thread; you may need to review."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwjAAA=",
+      "fromName": "Pankhuri Mehrotra",
+      "fromAddress": "pankhurime@zeta.tech",
+      "subject": "Pankhuri Mehrotra shared \"pankhuri-mehrotra-af3-log \" with you",
+      "receivedAt": "2026-08-12T07:55:05Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAUU6WwjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Pankhuri Mehrotra invited you to view a file    Here's the document that Pankhuri Mehrotra shared with you.            pankhuri-mehrotra-af3-log          This invite will only work for you and people with existing access.  Open            Share      This ",
+      "whyUnsure": "Pankhuri shared AF3 log with you + Asutosh/Mustafa/Priyam. Unclear if this needs a decision from you."
+    }
+  ]
 }
