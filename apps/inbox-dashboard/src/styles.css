@@ -30,7 +30,7 @@ th, td { text-align: left; vertical-align: top; padding: 10px 12px; border-botto
 th { position: sticky; top: 0; background: #1d232b; color: var(--muted); font-weight: 600; white-space: nowrap; }
 tr:last-child td { border-bottom: none; }
 .from { white-space: nowrap; }
-.from small { display: block; color: var(--muted); font-size: 11px; }
+.from small, .chat small { display: block; color: var(--muted); font-size: 11px; }
 .subject { font-weight: 600; min-width: 180px; }
 .when { white-space: nowrap; color: var(--muted); }
 .context, .draft, .why { min-width: 220px; line-height: 1.45; }

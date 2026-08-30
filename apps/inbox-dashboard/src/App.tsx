@@ -86,11 +86,7 @@ function Copy({ text }: { text: string }) {
 }
 
 function coverageLine(notes?: Record<string, unknown>) {
-  if (!notes) return "";
-  if (typeof notes.test_scope === "string") return notes.test_scope;
-  return Object.entries(notes)
-    .map(([k, v]) => `${k.replace(/_/g, " ")}: ${typeof v === "object" ? JSON.stringify(v) : String(v)}`)
-    .join(" · ");
+  return typeof notes?.test_scope === "string" ? notes.test_scope : "";
 }
 
 function InboxTab({ generated }: { generated: string }) {
@@ -214,7 +210,7 @@ function TeamsTab() {
                 <tr>
                   <th>Who</th>
                   <th>Chat</th>
-                  <th>When</th>
+                  <th>When (IST)</th>
                   <th>What they asked</th>
                   <th>Why you</th>
                   <th>Draft angle</th>
@@ -223,9 +219,9 @@ function TeamsTab() {
               </thead>
               <tbody>
                 {needs.map((row, i) => (
-                  <tr key={row.rank ?? `${row.who}-${row.when_ist}-${i}`}>
+                  <tr key={`${row.rank}-${row.who}-${row.when_ist}-${i}`}>
                     <td className="from">{row.who}</td>
-                    <td className="from">
+                    <td className="chat">
                       {row.title}
                       <small>{chatTypeLabel(row.chat_type)}</small>
                     </td>
@@ -267,7 +263,7 @@ function TeamsTab() {
               <tbody>
                 {ignore.map((row, i) => (
                   <tr key={`${row.title}-${i}`}>
-                    <td className="from">
+                    <td className="chat">
                       {row.title}
                       <small>{chatTypeLabel(row.chat_type)}</small>
                     </td>

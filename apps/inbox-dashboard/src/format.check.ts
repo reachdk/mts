@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { chatTypeLabel, displayIst, hottestFirst } from "./format.ts";
+import { chatTypeLabel, displayIst, hottestFirst, snapshotWhen } from "./format.ts";
 
 assert.equal(chatTypeLabel("oneOnOne"), "1:1");
 assert.equal(chatTypeLabel("group"), "group");
@@ -13,6 +13,9 @@ assert.equal(
 assert.doesNotThrow(() => displayIst("not-a-date"));
 assert.equal(displayIst("not-a-date"), "not-a-date");
 assert.match(displayIst("2026-08-30T05:10:00Z"), /30 Aug/);
+assert.equal(displayIst("2026-08-30 10:18"), "2026-08-30 10:18");
+assert.match(snapshotWhen("2026-08-30T05:10:00Z"), /IST/);
+assert.equal(snapshotWhen("2026-08-30 10:40 IST"), "2026-08-30 10:40 IST");
 
 const sorted = hottestFirst([
   { heat: "medium", rank: 2, title: "b" },

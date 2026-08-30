@@ -2,6 +2,8 @@ const HEAT: Record<string, number> = { hot: 0, medium: 1, warm: 2, cold: 3 };
 
 export function displayIst(value: string | undefined): string {
   if (!value) return "";
+  // ISO / offset only. "2026-08-30 10:18 IST" and bare local stamps stay as-is.
+  if (!/T|[zZ]|[+-]\d{2}:\d{2}/.test(value)) return value;
   const parsed = Date.parse(value);
   if (Number.isNaN(parsed)) return value;
   return new Date(parsed).toLocaleString("en-IN", {
