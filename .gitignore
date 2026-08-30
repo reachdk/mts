@@ -4,5 +4,7 @@ dist
 .env.*
 .DS_Store
 data/inbox.live.json
+data/teams.live.json
 apps/inbox-dashboard/node_modules
 apps/inbox-dashboard/dist
+*.tsbuildinfo
