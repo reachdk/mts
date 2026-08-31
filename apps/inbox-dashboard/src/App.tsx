@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useState } from "react";
 import data from "./inbox.json";
 import teamsData from "./teams.json";
 import { chatTypeLabel, displayIst, hottestFirst, snapshotWhen } from "./format";
@@ -39,7 +39,6 @@ type NeedReply = {
   title?: string;
   who?: string;
   when_ist?: string;
-  unread?: boolean;
   what_they_asked?: string;
   why_needs_him?: string;
   suggested_reply_angle?: string;
@@ -54,18 +53,14 @@ type IgnoreRow = {
 
 type Teams = {
   generated_at?: string;
-  signed_in_as?: { name?: string; email?: string };
   needs_reply?: NeedReply[];
   ignore?: IgnoreRow[];
   skipped_hin_count?: number;
-  skipped_hin_titles?: string[];
   coverage_notes?: Record<string, unknown>;
-  mode?: string;
 };
 
 const inbox = data as Inbox;
 const teams = teamsData as Teams;
-const ist = displayIst;
 
 function Copy({ text }: { text: string }) {
   const [done, setDone] = useState(false);
@@ -122,7 +117,7 @@ function InboxTab({ generated }: { generated: string }) {
                       <small>{row.fromAddress}</small>
                     </td>
                     <td className="subject">{row.subject}</td>
-                    <td className="when">{ist(row.receivedAt)}</td>
+                    <td className="when">{displayIst(row.receivedAt)}</td>
                     <td className="context">{row.context}</td>
                     <td className="draft">{row.draftReply}</td>
                     <td>
@@ -166,7 +161,7 @@ function InboxTab({ generated }: { generated: string }) {
                       <small>{row.fromAddress}</small>
                     </td>
                     <td className="subject">{row.subject}</td>
-                    <td className="when">{ist(row.receivedAt)}</td>
+                    <td className="when">{displayIst(row.receivedAt)}</td>
                     <td className="context">{row.context}</td>
                     <td className="why">{row.whyUnsure}</td>
                     <td>
@@ -281,7 +276,6 @@ function TeamsTab() {
 
 export default function App() {
   const [tab, setTab] = useState<"inbox" | "teams">("inbox");
-  const generated = useMemo(() => ist(inbox.generatedAt), []);
   return (
     <div className="page">
       <h1>Monitoring the situation</h1>
@@ -293,7 +287,7 @@ export default function App() {
           Teams
         </button>
       </nav>
-      {tab === "inbox" ? <InboxTab generated={generated} /> : <TeamsTab />}
+      {tab === "inbox" ? <InboxTab generated={displayIst(inbox.generatedAt)} /> : <TeamsTab />}
     </div>
   );
 }

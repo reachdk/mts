@@ -7,8 +7,7 @@ Monitoring the situation.
 - `context/` — personal context pack for agents. Edit by hand. Durable profile changes need approval via `context/memory-inbox.md`.
 - `skills/` — reusable skills, including `context-updater`.
 - `apps/inbox-dashboard` — local Inbox | Teams dashboard. Default tab is Inbox.
-- `data/inbox.json` — inbox snapshot. Keep identical to `apps/inbox-dashboard/src/inbox.json`.
-- `data/teams.json` — Teams snapshot. Keep identical to `apps/inbox-dashboard/src/teams.json`.
+- `apps/inbox-dashboard/src/{inbox,teams}.json` — snapshot path. Producers write there.
 
 Keep the repo private, or strip snapshot files before sharing.
 
