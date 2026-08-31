@@ -84,11 +84,11 @@ function coverageLine(notes?: Record<string, unknown>) {
   return typeof notes?.test_scope === "string" ? notes.test_scope : "";
 }
 
-function InboxTab({ generated }: { generated: string }) {
+function InboxTab() {
   return (
     <>
       <p className="meta">
-        {inbox.mailbox} · snapshot {generated} IST · {inbox.needsAction.length} need action ·{" "}
+        {inbox.mailbox} · snapshot {displayIst(inbox.generatedAt)} IST · {inbox.needsAction.length} need action ·{" "}
         {inbox.unsure.length} unsure
       </p>
 
@@ -287,7 +287,9 @@ export default function App() {
           Teams
         </button>
       </nav>
-      {tab === "inbox" ? <InboxTab generated={displayIst(inbox.generatedAt)} /> : <TeamsTab />}
+
+      {tab === "inbox" ? <InboxTab /> : <TeamsTab />}
+
     </div>
   );
 }
