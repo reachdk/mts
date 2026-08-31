@@ -287,7 +287,9 @@ export default function App() {
           Teams
         </button>
       </nav>
+
       {tab === "inbox" ? <InboxTab /> : <TeamsTab />}
+
     </div>
   );
 }
