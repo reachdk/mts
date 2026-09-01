@@ -1,1 +1,72 @@
-PLACEHOLDER
+{
+  "generatedAt": "2026-09-01T03:55:40Z",
+  "mailbox": "deepak@zeta.tech",
+  "unreadFolderCount": 12,
+  "fetchedCount": 12,
+  "conversationDedupedCount": 11,
+  "ignoredCount": 6,
+  "needsAction": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszUzAAA=",
+      "fromName": "Neo Tasket",
+      "fromAddress": "notifications@neo.work",
+      "subject": "3 Tasks, 0 Intake, 0 Update in Tasket",
+      "receivedAt": "2026-09-01T02:16:39Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszUzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Neo Tasket nag to Deepak only: 3 open tasks ~2 weeks old — (1) respond to Gajendra's questions, (2) submit requisite documents to Gajendra, (3) check with CRM on tax filing for the firm. 0 intake / 0 update. Do-not-reply system mail.",
+      "draftReply": "No reply — Tasket still shows 3 open items (~2w): reply to Gajendra, submit docs to Gajendra, check CRM on firm tax filing."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV-3DyjAAA=",
+      "fromName": "Suprotik Das",
+      "fromAddress": "suprotikd@zeta.tech",
+      "subject": "Re: GFF2026 | Your Session Details – Platform-Led Solutions from Zeta: How We Solved Complex Banking Challenges | 09 Sep 2026 | Jio World Convention Centre, Mumbai",
+      "receivedAt": "2026-08-31T16:22:07Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV%2F3DyjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Deepak is a GFF 2026 speaker (session 9 Sep 14:25–15:05 IST, Jio World). Badge-collection windows still open: IAMAI Vikhroli/Worli through 3 Sep; else JWCC 5–7 Sep 10:00–17:00 IST; or Speaker Desk on event days. Suprotik's latest just +@Sarath Kumar Nair on Aafia's thread looping Violet for collection. Badge still uncollected.",
+      "draftReply": "Aafia/Violet/Sarath — please collect my GFF speaker badge. IAMAI Vikhroli or Worli through 3 Sep; else JWCC 5–7 Sep 10:00–17:00 IST. Send the authorisation letter and I'll sign. Session 9 Sep 14:25–15:05 IST at Jio World."
+    }
+  ],
+  "unsure": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV-3DynAAA=",
+      "fromName": "Automation for Jira (Jira)",
+      "fromAddress": "jira@zeta-saas.atlassian.net",
+      "subject": "[JIRA] (SPB-16273) Autopay CASA -  vault properties are not being injected in prod",
+      "receivedAt": "2026-08-31T18:38:58Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV%2F3DynAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Jira automation ageing ping on SPB-16273 Autopay CASA vault properties not injected in prod. To Deepak only. Ageing days field looks bogus (6061). No human ask in the mail.",
+      "whyUnsure": "Automation-for-Jira ageing notification only. Unclear if Deepak owns the next fix vs just watch; no explicit ask."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV-3DymAAA=",
+      "fromName": "Vinay Murthy",
+      "fromAddress": "baluvaneraluv@zeta.tech",
+      "subject": "Re: HINU-4368 Sev-2 Incident Blocking Autopay Delivery for Pixel",
+      "receivedAt": "2026-08-31T17:50:21Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV%2F3DymAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sev-2 HINU-4368 Autopay UAT blockers open since 28 Jul. Anjali asked Eby/Vinay for support; Vinay's latest +Aravindan/Velmani to look into it. Deepak on CC. Older unread (Anjali's ask) in same thread dropped via conversation-dedup.",
+      "whyUnsure": "CC-only. Latest ask is to Aravindan/Velmani (and prior to Eby/Vinay), not a question to Deepak."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV-3DygAAA=",
+      "fromName": "Anjali Ravindran",
+      "fromAddress": "anjalir@zeta.tech",
+      "subject": "Re: AutoPay Updates",
+      "receivedAt": "2026-08-31T15:22:35Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV%2F3DygAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Anjali status to HDFC (Srividhya/Kuzhali): AutoPay open bugs 5, open prod incident 1; closed 10; pending deploy 2. Deepak on CC.",
+      "whyUnsure": "CC-only bank status update. Ask/update directed at Kuzhali, not Deepak."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV-3DyfAAA=",
+      "fromName": "Siddhesh Dhumal",
+      "fromAddress": "siddheshdh@zeta.tech",
+      "subject": "HDFC exception reports snapshot: CBU- 30th Aug 2026",
+      "receivedAt": "2026-08-31T15:21:28Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAV%2F3DyfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Siddhesh HDFC exception snapshot for CBU 30 Aug. Asks PSS team to create exception reports for lines 51–56. Deepak on CC (pixel-ops-internal).",
+      "whyUnsure": "CC-only. Explicit ask is to PSS team, not Deepak."
+    }
+  ]
+}
