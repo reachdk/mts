@@ -1,1 +1,335 @@
-PLACEHOLDER
+{
+  "mode": "reply_vs_ignore_snapshot",
+  "generated_at": "2026-09-01 09:20 IST",
+  "signed_in_as": {
+    "name": "Deepak Kumar",
+    "email": "deepak@zeta.tech",
+    "jobTitle": "Vice President",
+    "id": "d629b243-dc5d-4bdd-9649-d96b875cd2f0"
+  },
+  "needs_reply": [
+    {
+      "rank": 1,
+      "heat": "high",
+      "chat_type": "group",
+      "title": "HDFC Pitch - Lending to Vyapar Merchants",
+      "who": "Pradyoth K",
+      "when_ist": "2026-08-31 21:49 IST",
+      "unread": false,
+      "what_they_asked": "Deepak Kumar please check and list your feedback if any. Tanya Tayal please use this to flatten for your story. (on Vibhore's updated vyaparv2.netlify.app flow after Pradyoth's instant-settlement copy tweak)",
+      "why_needs_him": "Unanswered @mention overnight — Pradyoth explicitly asked Deepak for feedback on the updated Vyapar lending flow.",
+      "suggested_reply_angle": "Review the netlify flow + Pradyoth's 1% copy note; reply with feedback or 'LGTM' so Tanya can flatten the story.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A65f30512208044b8acd28f3908602d4e%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "rank": 2,
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Nishant Sahu",
+      "who": "Nishant Sahu",
+      "when_ist": "2026-08-31 20:19 IST",
+      "unread": true,
+      "what_they_asked": "Provided the details Deepak asked for: Max already approved for some teammates; building Pixel-level Jira Hygiene Tracker needing deep iteration; Copilot insufficient; Claude Max has EON dashboard context. Explicitly requests Claude Max approval for the tracker and related PM automation.",
+      "why_needs_him": "Ball back with Deepak — Nishant answered the 'more details' ask and is waiting on Claude Max approve/deny.",
+      "suggested_reply_angle": "Approve, deny, or propose Copilot-only/path with clear next step; reference his hygiene-tracker justification.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad629b243-dc5d-4bdd-9649-d96b875cd2f0_d67d0ff4-73ce-4e28-b9a5-6b23073ce873%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    }
+  ],
+  "ignore": [
+    {
+      "title": "Rampirabhu R",
+      "chat_type": "oneOnOne",
+      "why": "Overnight FYI: skipping the dinner / catchup. No question for Deepak."
+    },
+    {
+      "title": "Uttam Rao",
+      "chat_type": "oneOnOne",
+      "why": "Dropped Vyapar.xlsx at 13:56 IST with no question; pitch feedback ask is in the Vyapar group instead."
+    },
+    {
+      "title": "Nikhil Mangal, Sivaram Kowta, Uttam Rao, Tony Simon, Ramesh Javvaji",
+      "chat_type": "group",
+      "why": "Stale Aug 26 Org 8.0 immersion attendee-list ask (due 1:30 PM that day). Window passed."
+    },
+    {
+      "title": "Sheeba P, Nishant Sahu, Shreya Sharma, Sharath P",
+      "chat_type": "group",
+      "why": "Stale Jun 1 Pixel deck share @Deepak; no remaining ask."
+    },
+    {
+      "title": "Pratyush Sinha",
+      "chat_type": "oneOnOne",
+      "why": "Still waiting on Pratyush — last human is him ('I will check and get back to you' on Work IQ MCP / Graph app-registration). No new ask of Deepak."
+    },
+    {
+      "title": "Zeta Partnerships",
+      "chat_type": "group",
+      "why": "Unchanged — Scienaptic done; Deepak deferred partnerships; Priyanshu Ack. No new Deepak-directed ask overnight."
+    },
+    {
+      "title": "Deepak + EA team",
+      "chat_type": "group",
+      "why": "Last human is Deepak (23:00 IST) asking 'No dinner tomorrow right?' — ball with EA, not him. Flights/hotel earlier still FYI."
+    },
+    {
+      "title": "Neha Gutgutia",
+      "chat_type": "oneOnOne",
+      "why": "Scienaptic vs Ramki BRE; she said thanks; closed. No overnight traffic."
+    },
+    {
+      "title": "Rukmani Vinod",
+      "chat_type": "oneOnOne",
+      "why": "Farewell-dinner thank-you; event over. No overnight traffic."
+    },
+    {
+      "title": "Rachna Thakurel, Dolly Rohira, Sheetal Bhalla",
+      "chat_type": "group",
+      "why": "Last message is Deepak's (22:59 IST) offering to create a slot — waiting on them."
+    },
+    {
+      "title": "[In-person] Zeta 8.0 - Leadership Immersion",
+      "chat_type": "meeting",
+      "why": "Mithun posted Slido link this morning (09:08 IST). Broadcast/event chat; no direct ask of Deepak."
+    },
+    {
+      "title": "Workflows / Hippo Bot / Jira Cloud / ServiceBot / BlogIn 1:1s",
+      "chat_type": "oneOnOne",
+      "why": "Email-digest and app bots overnight (Workflows unread-mail digest ~08:03 IST, Jira Cloud). No human ask."
+    },
+    {
+      "title": "UPI Help 2.0 - Working Group(GFF 2026)",
+      "chat_type": "group",
+      "why": "Last human is Janith U; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Recent meeting chats (system/empty/ACL)",
+      "chat_type": "meeting",
+      "why": "6 meeting chats with no usable human ask (ACL or empty). No human ask of Deepak."
+    },
+    {
+      "title": "ACI Engagement",
+      "chat_type": "group",
+      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "[Working Group] HDFC UAT for SIB Demo",
+      "chat_type": "group",
+      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "HDFC PRODUCTION - EOD RUNS",
+      "chat_type": "group",
+      "why": "Last human is Nizampet Rohith; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "ZOPS-39867-[Sev-2]-Offer Work Bench || Unable to process bulk offer creation and bulk offer invite",
+      "chat_type": "group",
+      "why": "Last human is Hippo; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Design Team for GFF",
+      "chat_type": "group",
+      "why": "Last human is Salil Ravindran; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "EON Development Group",
+      "chat_type": "group",
+      "why": "Last human is Shah Mazumder; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "[Working Group] Migration",
+      "chat_type": "group",
+      "why": "Last human is Omkar Amilkanthwar; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Platform Led Solutions Demo GFF ",
+      "chat_type": "meeting",
+      "why": "Last human is Suprotik Das; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "HDFC Clearing",
+      "chat_type": "meeting",
+      "why": "Last human is Deboday Shome; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Times Migration - Deployments",
+      "chat_type": "group",
+      "why": "Last human is Rishabh Khandelwal; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "APSIS [Migration] Managers",
+      "chat_type": "group",
+      "why": "Last human is Navakanth Kanapala; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "[Working Group] Selene Demo to Anjani Rathod",
+      "chat_type": "group",
+      "why": "Last human is Sidhant Jain; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Vera / ADA Portfolio Engagement",
+      "chat_type": "group",
+      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Metabase Issue Tracker – Ops/DBRE HDFC PROD",
+      "chat_type": "group",
+      "why": "Last human is Prajakta Kadam; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Sivaram Kowta, Uttam Rao",
+      "chat_type": "group",
+      "why": "Last human message is Deepak's (2026-08-31 17:39 IST). Ball not with him."
+    },
+    {
+      "title": "Narayan's Farewell: Until next time ",
+      "chat_type": "meeting",
+      "why": "Last human is Pallavi Shukla; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Zeta<>HDFC: GL Entry/Provisioning for Anyday Loan",
+      "chat_type": "unknownFutureValue",
+      "why": "Last human is Shruti Pandey7; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Anjali Ravindran",
+      "chat_type": "oneOnOne",
+      "why": "Last human message is Deepak's (2026-08-31 13:04 IST). Ball not with him."
+    },
+    {
+      "title": "Neha Gutgutia, Ramki Gaddipati, Pankaj Sonaiya, Shashank Mehrotra",
+      "chat_type": "group",
+      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Varun Kamath, Nishant Sahu, Rajiv Tandon, Divya Das",
+      "chat_type": "group",
+      "why": "Last human is Nishant Sahu; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Neha Gutgutia, Shashank Mehrotra",
+      "chat_type": "group",
+      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Sarvesh Pande, Neha Gutgutia",
+      "chat_type": "group",
+      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
+    },
+    {
+      "title": "Sivaram Kowta, Nandini Chandra, Aafia Feroze, Neha Gutgutia, Priyanshu Upadhyay",
+      "chat_type": "group",
+      "why": "Last human is Salil Ravindran; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Pankaj Sonaiya, Neha Gutgutia, Abhishek Nair",
+      "chat_type": "group",
+      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "SANTHOSH NAGARAJAN, Rashmi Aich, Neha Gutgutia, Senthil V",
+      "chat_type": "group",
+      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
+    },
+    {
+      "title": "Rukmani Vinod, Vinayak Das, Sivaram Kowta, Violet Fernandes, Pralay Khan",
+      "chat_type": "group",
+      "why": "Last human is Rukmani Vinod; ask not directed at Deepak (no @mention/direct question to him)."
+    }
+  ],
+  "skipped_hin_count": 339,
+  "skipped_hin_titles": [
+    "HIN-626386-[Sev-4]-HDFC LZ Prod | Pixel | Repayments | Repayment | PXREP001 is Impacted",
+    "HIN-615890-[Sev-3]-HDFC LZ Prod | Pixel | Card Management | Card Hotlist  Permanent Block  ReIssue Flow | PZ0322 is Impacted",
+    "HINU-4306-[Sev-2]-HDFC LZ UAT | Tachyon Credit | EoD Center | EOD Operability | EDCOPR is Impacted",
+    "HINU-4328-[Sev-2]-HDFC LZ UAT | Turbo Repayments | Setting up autopay | PZ0349 is Impacted",
+    "HINU-4486-[Sev-1]-HDFC LZ UAT | Tachyon Credit | EoD Center | CoA Extracts | EDCCOA is Impacted",
+    "HINU-4368-[Sev-2]-HDFC LZ UAT | Turbo Repayments | Setting up autopay | PZ0349 is Impacted",
+    "HIN-609346-[Sev-2]-HDFC LZ Prod | Cipher ACS | Card Authentication | Credit Rupay Card Txn BEPG AuthN | CACS021 is Impacted",
+    "HINU-4482-[Sev-4]-HDFC LZ UAT | Tachyon Credit | Operations Center Workbench | Accounts WB | Accounts Console | View Account Holder | OCCAWBACC02 is Impacted",
+    "HIN-575699-[Sev-4]-HDFC LZ Prod | Tachyon ITP | Transaction Processing | VISA India Authorization | TP001 is Impacted",
+    "HINU-4221-[Sev-2]-HDFC LZ UAT | Turbo Card Management | View Card Details | PZ0310 is Impacted",
+    "HINU-4271-[Sev-3]-HDFC LZ UAT | Tachyon Credit | Report Center | Scheduled Report Generation | RECSRG is Impacted",
+    "HIN-591803-[Sev-2]-HDFC LZ Prod | Cipher IAM | Access Control | Access via Accessor Policy | CIAM008 is Impacted",
+    "HIN-548881-[Sev-3]-HDFC LZ Prod | PayZapp | Others | Transactions  Detailed view of a transaction | PZ0059 is Impacted",
+    "HIN-617793-[Sev-1]-HDFC LZ Prod | Pixel | Card and Account Management | Dispute Management | PXCAM007 is Impacted",
+    "HIN-614597-[Sev-1]-HDFC LZ Prod | Tachyon Credit | Operations Center Workbench | Accounts WB | RD | Credit Account Closure | OCCAWBRDIN14 is Impacted",
+    "HIN-551249-[Sev-2]-HDFC LZ Prod | Photon PG | UPI Payment | Transactions  SmartBuy Merchant Transaction Via UPI Intent | PZ0209 is Impacted",
+    "HINU-4290-[Sev-1]-HDFC LZ UAT | Onboarding New Users | Onboarding  ETB users doing verification using card digits | PZ0012 is Impacted",
+    "HIN-550809-[Sev-2]-HDFC LZ Prod | Tachyon Credit | Issuance | JAZZ Bundle Issuance | TX0045 is Impacted",
+    "HIN-576932-[Sev-4]-HDFC LZ Prod | Pixel | Card Management | Raise Dispute  helpcenter flow via Help Center | PZ0329 is Impacted",
+    "HINU-4471-[Sev-4]-HDFC LZ UAT | Pixel | Card and Account Management | Limit Management | PXCAM009 is Impacted",
+    "HIN-600762-[Sev-1]-HDFC LZ Prod | Pixel | Payments | Payment Processing | PXPMT002 is Impacted",
+    "HIN-549523-[Sev-1]-HDFC LZ Prod | PayZapp | Others | Transactions  Filters | PZ0063 is Impacted",
+    "HIN-425715-[Sev-4]-HDFC LZ Prod | Tachyon Credit | EoD Center | EOD Observability | EDCOBS is Impacted",
+    "HIN-607866-[Sev-2]-HDFC LZ Prod | Pixel | Card and Account Management | Card Delivery Management | PXCAM004 is Impacted",
+    "HIN-591345-[Sev-2]-HDFC LZ Prod | Pixel | Card Management | Order Physical Card Flow | PZ0318 is Impacted",
+    "HIN-607740-[Sev-1]-HDFC LZ Prod | Pixel | Card and Account Management | RBI Guidelines Adherence | PXCAM008 is Impacted",
+    "HIN-594352-[Sev-1]-HDFC LZ Prod | Photon UPI PSP | UPI Payment | P2P  Pay to VPA | PZ0160 is Impacted",
+    "HIN-617073-[Sev-1]-HDFC LZ Prod | Pixel | Card Management | RBI MD 37 days395 days  Card Closure Backend | PZ0332 is Impacted",
+    "HIN-298054-[Sev-1]-HDFC LZ Prod | Pixel | Payment | Transactions extracts | PXPMT004 is Impacted",
+    "HIN-609345-[Sev-4]-HDFC LZ Prod | Tachyon Credit | Report Center | View and Download Reports | RECVDR is Impacted",
+    "HINU-4412-[Sev-2]-HDFC LZ UAT | Turbo Card Management | View Card Details | PZ0310 is Impacted",
+    "HIN-550539-[Sev-4]-HDFC LZ Prod | JAZZ issue bundle failing in prod — Crux Vault config not loading in demand-deposit-bundle",
+    "HINU-4310-[Sev-2]-HDFC LZ UAT | Tachyon Credit | Loan Account Processing | Conversion Loan Cancellation | LAPCAN is Impacted",
+    "HIN-580059-[Sev-2]-HDFC LZ Prod | PayZapp | Others | Accounts  Reset mPin for a linked bank Account Set new Mpin | PZ0147 is Impacted",
+    "HINU-4324-[Sev-2]-HDFC LZ UAT | Pixel | Embossing | Embossing Files  Checklist Transfer | PXEMC001 is Impacted",
+    "HIN-502287-[Sev-4]-HDFC LZ Prod | Orcus | Case Management System | Payer transactions done by user across all the transaction types | ORCUS036 is Impacted",
+    "HIN-591876-[Sev-1]-HDFC LZ Prod | Photon UPI PSP | UPI Payment | P2P  Self Transfer to accounts | PZ0172 is Impacted",
+    "Incident Discussion - HINU-4486",
+    "HIN-562860-[Sev-2]-HDFC LZ Prod | PayZapp | Others | Accounts  Set payment limits on wallet transactions | PZ0081 is Impacted",
+    "HIN-404632-[Sev-2]-HDFC LZ Prod | Pixel | EMI | Loan Info Consumption | PXEMI001 is Impacted",
+    "HIN-342384-[Sev-2]-HDFC LZ Prod | Pixel | Rewards | Reward Redemption | PXREW003 is Impacted",
+    "HIN-448672-[Sev-4]-HDFC LZ Prod | Photon UPI PSP | UPI Payment | P2M UPI  Pay via UPI intent | PZ0193 is Impacted",
+    "HINU-4459-[Sev-2]-HDFC LZ UAT | Tachyon Credit | EoD Center | EOD Operability | EDCOPR is Impacted",
+    "SFTP setup HINU :4070",
+    "HINU-4441-[Sev-2]-HDFC LZ UAT | Turbo Onboarding | Application Initiation Apply  CIF  Dedupe | PZ0300 is Impacted",
+    "HIN-562814-[Sev-2]-HDFC LZ Prod | PayZapp | Bill Payment | RCBP  Autopay Management | PZBP006 is Impacted",
+    "HIN-557893-[Sev-1]-HDFC LZ Prod | Tachyon ITP | Transaction Processing | VISA India Authorization | TP001 is Impacted",
+    "HIN-571883-[Sev-2]-HDFC LZ Prod | PayZapp | Onboarding New Users | Login Authentication | PZ0231 is Impacted",
+    "HINU-4332-[Sev-2]-HDFC LZ UAT | Turbo Onboarding | Application Initiation Apply  CIF  Dedupe | PZ0300 is Impacted",
+    "HINU-4366-[Sev-2]-HDFC LZ UAT | Operation Center Accounts | Post Repayment | OC0003 is Impacted"
+  ],
+  "coverage_notes": {
+    "chats_listed": 1812,
+    "chats_cap_pages": 80,
+    "page_size_requested": 50,
+    "nextLink_remaining": true,
+    "chats_scanned_messages": 48,
+    "message_fetch_errors": 1,
+    "cutoff_utc": "2026-08-31T14:06:00Z",
+    "last_snapshot_ist": "2026-08-31 19:36 IST",
+    "api_gaps": [
+      "Skipped channel APIs as instructed (they 403 without Channel.ReadBasic.All). Chats only.",
+      "GET /me/chats?$expand=members,lastMessagePreview&$top=50; pages=80, listed=1812, nextLink_remaining=True.",
+      "1 chats returned errors on GET messages (often meeting 403 InsufficientPrivileges/AclCheckFailed). Used lastMessagePreview for those.",
+      "HIN/HINU skip is title-based across the listing (345 chats).",
+      "HIN/HINU skip is title token/prefix (HIN-/HINU-/HINU digits), not substring 'hin' in Anything/Sachin. 7 title false-positives removed from skip list (AMA Anything x4, Sachin Ramchandani, Zeta AI Series); OSM-44144 kept (HINU4019). Those 6 chats were not re-fetched this run."
+    ],
+    "webUrl_on_needs_reply": true,
+    "no_messages_sent": true,
+    "morning_open_items": {
+      "Zeta_Partnerships": "stay ignore — Scienaptic done; partnerships deferred; Priyanshu Ack; no new ask overnight",
+      "HDFC_Pitch_Vyapar": "REOPENED needs_reply — Pradyoth @mentioned Deepak at 21:49 IST for feedback on updated flow",
+      "Pratyush_Sinha": "stay ignore — waiting on Pratyush (will check Graph app-registration / Work IQ MCP)",
+      "Nishant_Sahu": "REOPENED needs_reply — Nishant supplied Claude Max justification at 20:19 IST; awaiting Deepak decision",
+      "Neha_Gutgutia": "closed — thanks",
+      "Deepak_EA_team": "stay ignore — last msg Deepak asking EA about dinner; ball with EA",
+      "Rukmani_Vinod": "closed — farewell thank-you; event over"
+    },
+    "message_fetch_error_samples": [
+      {
+        "title": "Zeta<>HDFC: GL Entry/Provisioning for Anyday Loan",
+        "chat_type": "unknownFutureValue",
+        "status": 403,
+        "code": "Forbidden",
+        "message": "InsufficientPrivileges"
+      }
+    ],
+    "rate_limit_sleeps": 0,
+    "classification_notes": [
+      "Demoted false-positive needs_reply: Rampirabhu FYI dinner skip; Uttam file drop; Aug 26 immersion list (window passed); Jun 1 Sheeba deck (stale; matched via Nishant name substring in group title).",
+      "Preferentially scanned chats after cutoff 2026-08-31T14:06:00Z, unread, and named prior-open chats."
+    ]
+  }
+}
