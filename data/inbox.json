@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T03:53:11Z",
+  "generatedAt": "2026-09-02T04:12:13Z",
   "mailbox": "deepak@zeta.tech",
   "unreadFolderCount": 24,
   "fetchedCount": 24,
@@ -13,8 +13,8 @@
       "subject": "3 Tasks, 0 Intake, 0 Update in Tasket",
       "receivedAt": "2026-09-02T02:16:32Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVdAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Neo Tasket nag to Deepak only: 3 open tasks ~2 weeks old \u2014 (1) respond to Gajendra's questions, (2) submit requisite documents to Gajendra, (3) check with CRM on tax filing for the firm. 0 intake / 0 update. Do-not-reply system mail.",
-      "draftReply": "No reply \u2014 Tasket still shows 3 open items (~2w): reply to Gajendra, submit docs to Gajendra, check CRM on firm tax filing."
+      "context": "Neo Tasket nag to Deepak only: 3 open tasks ~2 weeks old — (1) respond to Gajendra's questions, (2) submit requisite documents to Gajendra, (3) check with CRM on tax filing for the firm. 0 intake / 0 update. Do-not-reply system mail.",
+      "draftReply": "No reply — Tasket still shows 3 open items (~2w): reply to Gajendra, submit docs to Gajendra, check CRM on firm tax filing."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVIAAA=",
@@ -23,8 +23,8 @@
       "subject": "Speaker Badge Collection and Speaker Advisory",
       "receivedAt": "2026-09-01T08:19:20Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "GFF 2026 speaker blast (Deepak is a speaker; To empty / BCC). Badge collection windows: IAMAI Vikhroli or Worli 31 Aug\u20133 Sep 2026; may authorise a representative with letter + photo ID. Session still 9 Sep at Jio World. Prior badge-collection thread with Suprotik/Aafia may still be open.",
-      "draftReply": "Aafia/Violet/Sarath \u2014 please collect my GFF speaker badge at IAMAI Vikhroli or Worli by 3 Sep (authorisation letter + photo ID). Confirm once collected. Session 9 Sep 14:25\u201315:05 IST at Jio World."
+      "context": "GFF 2026 speaker blast (Deepak is a speaker; To empty / BCC). Badge collection windows: IAMAI Vikhroli or Worli 31 Aug–3 Sep 2026; may authorise a representative with letter + photo ID. Session still 9 Sep at Jio World. Prior badge-collection thread with Suprotik/Aafia may still be open.",
+      "draftReply": "Aafia/Violet/Sarath — please collect my GFF speaker badge at IAMAI Vikhroli or Worli by 3 Sep (authorisation letter + photo ID). Confirm once collected. Session 9 Sep 14:25–15:05 IST at Jio World."
     }
   ],
   "unsure": [
@@ -35,14 +35,14 @@
       "subject": "[JIRA] (SPB-16273) Autopay CASA -  vault properties are not being injected in prod",
       "receivedAt": "2026-09-01T18:37:15Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Jira automation ageing ping on SPB-16273 Autopay CASA vault properties not injected in prod. To Deepak only. Ageing 61\u219262 days. No human ask in the mail.",
+      "context": "Jira automation ageing ping on SPB-16273 Autopay CASA vault properties not injected in prod. To Deepak only. Ageing 61→62 days. No human ask in the mail.",
       "whyUnsure": "Automation-for-Jira ageing notification only. Unclear if Deepak owns the next fix vs just watch; no explicit ask."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVaAAA=",
       "fromName": "Ayush Koul",
       "fromAddress": "ayush.koul@signzy.com",
-      "subject": "Re: Zeta<>Signzy @ Fri, Oct 4, 2024 12:30pm \u2013 1:00pm (GMT+05:30)",
+      "subject": "Re: Zeta<>Signzy @ Fri, Oct 4, 2024 12:30pm – 1:00pm (GMT+05:30)",
       "receivedAt": "2026-09-01T16:35:06Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Vendor Signzy thread. Latest from Ayush: Go platform access enabled for Priyanshu; API portal pending; asking help@signzy to create Neha Gutgutia account + enable PAN/Digilocker APIs. Deepak on CC. Older unread in same thread dropped via conversation-dedup.",
@@ -55,7 +55,7 @@
       "subject": "Autopay Phase 1 Bug Updates",
       "receivedAt": "2026-09-01T15:54:22Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Anjali new-thread status to Kuzhali: Autopay open bugs 5, open prod incident 1 (HIN-626386 mandate retry); 2 pending prod deploy 2 Sep (TRC-37142/37131). Mentions manual retry for a CUG test account labeled Deepak Kumar \u2014 not an ask to Deepak. Deepak on CC.",
+      "context": "Anjali new-thread status to Kuzhali: Autopay open bugs 5, open prod incident 1 (HIN-626386 mandate retry); 2 pending prod deploy 2 Sep (TRC-37142/37131). Mentions manual retry for a CUG test account labeled Deepak Kumar — not an ask to Deepak. Deepak on CC.",
       "whyUnsure": "CC-only bank status update. Directed at Kuzhali; no question to Deepak."
     },
     {
@@ -65,7 +65,7 @@
       "subject": "HDFC exception reports snapshot: CBU- 31st Aug 2026",
       "receivedAt": "2026-09-01T13:37:32Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Siddhesh HDFC exception snapshot for CBU 31 Aug. Asks PSS team to create exception reports for lines 51\u201356. Deepak on CC (pixel-ops-internal).",
+      "context": "Siddhesh HDFC exception snapshot for CBU 31 Aug. Asks PSS team to create exception reports for lines 51–56. Deepak on CC (pixel-ops-internal).",
       "whyUnsure": "CC-only. Explicit ask is to PSS team, not Deepak."
     },
     {
@@ -82,20 +82,20 @@
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVVAAA=",
       "fromName": "Khushboo Mehla",
       "fromAddress": "khushboom@zeta.tech",
-      "subject": "Re: Tachyon Credit \u2013 Ruby Cluster | Error Budget Risk & Attention Required",
+      "subject": "Re: Tachyon Credit – Ruby Cluster | Error Budget Risk & Attention Required",
       "receivedAt": "2026-09-01T11:27:36Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Khushboo SRE error-budget ping for Tachyon Credit Ruby cluster \u2014 breached Problem tickets blocking dual-governance CAB. Ask directed at Sathishkumar/Archit/Sahil. Deepak on CC.",
+      "context": "Khushboo SRE error-budget ping for Tachyon Credit Ruby cluster — breached Problem tickets blocking dual-governance CAB. Ask directed at Sathishkumar/Archit/Sahil. Deepak on CC.",
       "whyUnsure": "CC-only. Explicit ask is to cluster owners (Sathishkumar/Archit/Sahil), not Deepak."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVUAAA=",
       "fromName": "Khushboo Mehla",
       "fromAddress": "khushboom@zeta.tech",
-      "subject": "Re: Tachyon Credit \u2013 Auraapps Cluster | Error Budget Risk & Attention Required",
+      "subject": "Re: Tachyon Credit – Auraapps Cluster | Error Budget Risk & Attention Required",
       "receivedAt": "2026-09-01T11:24:39Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Khushboo SRE error-budget ping for Tachyon Credit Auraapps cluster \u2014 breached Problem tickets; may block Site SDM CAB. Ask to Sathishkumar/Archit/Arvind/Sahil. Deepak on CC.",
+      "context": "Khushboo SRE error-budget ping for Tachyon Credit Auraapps cluster — breached Problem tickets; may block Site SDM CAB. Ask to Sathishkumar/Archit/Arvind/Sahil. Deepak on CC.",
       "whyUnsure": "CC-only. Explicit ask is to cluster owners, not Deepak."
     },
     {
@@ -125,7 +125,7 @@
       "subject": "Re: Request: advance notice for CORS/header changes affecting Pixel and EON",
       "receivedAt": "2026-09-01T10:01:14Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Samrat raised recurring CORS/WAF/header breaks on Pixel/EON (incl. live Sev-2 HINU-4412). Latest: Naveen added HDFC, asked Ankit to open a Problem ticket, and Amol for CAB/escalation matrix. Deepak on CC. Older unread in same thread dropped via conversation-dedup.",
+      "context": "Samrat raised recurring CORS/WAF/header breaks on Pixel/EON. Latest: Naveen added HDFC, asked Ankit to open a Problem ticket, and Amol for CAB/escalation matrix. Deepak on CC. Older unread in same thread dropped via conversation-dedup.",
       "whyUnsure": "CC-only. Latest asks are to Ankit R and Amol (HDFC), not Deepak."
     },
     {
@@ -135,7 +135,7 @@
       "subject": "Re: Automation demo",
       "receivedAt": "2026-09-01T08:24:16Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszVJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "HDFC Arun asked Ashish for module-wise Allure reports on SharePoint/DPCFTP + test-case masters. Latest: Ashish ack \u2014 will start publishing from today. Deepak on CC. Older unread in same thread dropped via conversation-dedup.",
+      "context": "HDFC Arun asked Ashish for module-wise Allure reports on SharePoint/DPCFTP + test-case masters. Latest: Ashish ack — will start publishing from today. Deepak on CC. Older unread in same thread dropped via conversation-dedup.",
       "whyUnsure": "CC-only. Ask/ack is between Arun and Ashish; no question to Deepak."
     }
   ]
