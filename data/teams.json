@@ -1,6 +1,6 @@
 {
   "mode": "reply_vs_ignore_snapshot",
-  "generated_at": "2026-09-04 09:08 IST",
+  "generated_at": "2026-09-05 13:41 IST",
   "signed_in_as": {
     "name": "Deepak Kumar",
     "email": "deepak@zeta.tech",
@@ -9,60 +9,86 @@
   },
   "needs_reply": [
     {
+      "rank": 1,
+      "heat": "high",
+      "chat_type": "oneOnOne",
+      "title": "Neha Gutgutia",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-04 11:56 IST",
+      "unread": false,
+      "what_they_asked": "Hi Deepak, things are not working on UAT environment. I have looped you in on the UAT group. Pls intervene.",
+      "why_needs_him": "1:1 unanswered ask for Deepak to intervene on UAT.",
+      "suggested_reply_angle": "Ack Neha and say when you will jump into the UAT group.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aaf1d3119-a076-4133-860b-362509ecce68_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "rank": 2,
+      "heat": "high",
+      "chat_type": "oneOnOne",
+      "title": "Sayandip Bagchi",
+      "who": "Sayandip Bagchi",
+      "when_ist": "2026-09-04 12:20 IST",
+      "unread": true,
+      "what_they_asked": "Checking Meridian resourcing: IJP/hiring 2x PM1/PM2 after Aditya discussion (Prasoon/Vera replacement + second; Ryze backup).",
+      "why_needs_him": "1:1 last meaningful message from Sayandip waiting on Deepak.",
+      "suggested_reply_angle": "Confirm or adjust Meridian IJP/hiring plan with Sayandip.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A497711ee-b702-4a4e-ba8c-bfbf21f8cb62_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "rank": 3,
       "heat": "high",
       "chat_type": "group",
-      "title": "Deepak + EA team",
-      "who": "Pallavi Shukla",
-      "when_ist": "2026-09-03 20:46 IST",
-      "unread": false,
-      "what_they_asked": "Deepak Gentle reminder about tomorrow's meetings: Internal meetings: At 10:00 AM - [In-person] Product Chapter Immersion At 11:00 AM - [In-person] UX Chapter Immersion At 5:00 PM - Review on platform led solution and credit story for GFF FYI pls - You are optional on 11:30 AM cal...",
-      "why_needs_him": "Unanswered @mention/direct ask of Deepak.",
-      "suggested_reply_angle": "Ack Pallavi's gentle reminder; confirm/adjust today's Product Chapter (10:00) and UX Chapter (11:00) immersions.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A0ca6d67f25284a078de9ecf7f27897f5%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 1
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "US Sales Exploration Core Group",
+      "title": "SIB Demo Risk",
       "who": "Neha Gutgutia",
-      "when_ist": "2026-09-03 19:54 IST",
+      "when_ist": "2026-09-04 19:52 IST",
       "unread": false,
-      "what_they_asked": "Deepak Kumar , I think everyone already have too many things on their plate. We will need to discuss and revert on this item.",
-      "why_needs_him": "Unanswered @mention of Deepak.",
-      "suggested_reply_angle": "Reply to Neha on the US Sales Exploration item - discuss bandwidth and who owns the revert.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab1ffbe899d4b4578840f7e39540c8e97%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 2
+      "what_they_asked": "Tagged Deepak on HINU-4526 / HINU-4528 / HINU-4374 UAT items in SIB Demo Risk.",
+      "why_needs_him": "Unanswered @mention of Deepak on UAT HINU list.",
+      "suggested_reply_angle": "Ack Neha and confirm ownership or next step on the tagged HINUs.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A4849ed2f95b943658d516251757ec4af%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
+      "rank": 4,
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Mustafa Quilonwala",
+      "who": "Mustafa Quilonwala",
+      "when_ist": "2026-09-04 16:49 IST",
+      "unread": true,
+      "what_they_asked": "Please provide approval for Claude Pro when free (helpdesk ticket link).",
+      "why_needs_him": "1:1 approval ask waiting on Deepak.",
+      "suggested_reply_angle": "Approve or decline the Claude Pro helpdesk ticket.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aa7f6b95d-4c01-4c5e-ab1f-ac302cd64926_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "rank": 5,
       "heat": "medium",
       "chat_type": "group",
       "title": "Dolly Rohira, Rachna Thakurel, Sheetal Bhalla",
       "who": "Rachna Thakurel",
       "when_ist": "2026-09-03 16:00 IST",
       "unread": true,
-      "what_they_asked": "Hi Deepak , here's the updated template for the skills repository building exercise. Would be very helpful if you could share your inputs towards first collecting the meta skills/focus areas.",
+      "what_they_asked": "Updated skills repository template; wants inputs on meta skills/focus areas.",
       "why_needs_him": "Unanswered @mention/direct ask of Deepak.",
-      "suggested_reply_angle": "Share inputs on the skills-repository template / first collection that Rachna asked for.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A7d21dd9328f8408fa151faa772474969%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 3
+      "suggested_reply_angle": "Share meta-skills/focus inputs on Rachna skills-repo template.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A7d21dd9328f8408fa151faa772474969%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     }
   ],
   "ignore": [
-    {"title": "EON Development Group", "chat_type": "group", "why": "Last human is Manish Sharma; ask not directed at Deepak."},
-    {"title": "Recent meeting chats (system/empty/ACL)", "chat_type": "meeting", "why": "15 meeting chats with no usable human ask."},
-    {"title": "Pankaj Sonaiya", "chat_type": "oneOnOne", "why": "Sep 3 meet-now window passed overnight; stay ignore."},
+    {"title": "Deepak + EA team", "chat_type": "group", "why": "Last human is Deepak (2026-09-05 13:21 IST). Fri Pallavi immersion reminder superseded."},
+    {"title": "US Sales Exploration Core Group", "chat_type": "group", "why": "Shashank FYI lucid consolidation; no Deepak-directed question."},
+    {"title": "Vinay Murthy", "chat_type": "oneOnOne", "why": "Team meeting now; will ping if needed."},
+    {"title": "Rajiv Tandon", "chat_type": "oneOnOne", "why": "FYI supporting Neha for SI Bank demo."},
     {"title": "Nishant Sahu", "chat_type": "oneOnOne", "why": "Nishant will get back; ball with him."},
-    {"title": "Dhruv Shah", "chat_type": "oneOnOne", "why": "Ask closed in latest scan."},
+    {"title": "Pankaj Sonaiya", "chat_type": "oneOnOne", "why": "Call-check window passed."},
     {"title": "+80 more compact ignores", "chat_type": "group", "why": "Engineering/GFF/bots/FYI; no ask of Deepak."}
   ],
-  "skipped_hin_count": 343,
+  "skipped_hin_count": 346,
   "skipped_hin_titles": [],
   "coverage_notes": {
     "chats_listed": 1811,
     "webUrl_on_needs_reply": true,
     "no_messages_sent": true,
-    "ignore_truncated": true,
-    "restored_after_stub": true
+    "ignore_truncated": true
   }
 }
