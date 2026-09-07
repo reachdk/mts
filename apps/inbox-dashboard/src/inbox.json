@@ -1,1 +1,82 @@
-PLACEHOLDER_REPLACE
+{
+  "generatedAt": "2026-09-07T03:43:01Z",
+  "mailbox": "deepak@zeta.tech",
+  "unreadFolderCount": 13,
+  "fetchedCount": 13,
+  "conversationDedupedCount": 12,
+  "ignoredCount": 5,
+  "needsAction": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgSAAA=",
+      "fromName": "Neo Tasket",
+      "fromAddress": "notifications@neo.work",
+      "subject": "3 Tasks, 0 Intake, 0 Update in Tasket",
+      "receivedAt": "2026-09-07T02:16:30Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgSAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Neo Tasket digest to Deepak only: still 3 open tasks — Respond to all questions from Gajendrq (2w); Submit all requisite documents to Gajendra (3w); Check with CRM on tax filing for the firm (3w). 0 intake / 0 update.",
+      "draftReply": "No reply — still 3 open Tasket items (Gajendra questions/docs + CRM tax filing)."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgOAAA=",
+      "fromName": "Kirit Parmar",
+      "fromAddress": "kiritpa@zeta.tech",
+      "subject": "Re: S3 scope -product information",
+      "receivedAt": "2026-09-06T16:30:28Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgOAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Darshan (InfoSec) asked Kirit & Deepak to confirm TaPS/Tachyon ITP clusters for S3/Controlcase audit scope (Gwajax, gwathena, athena, tethys, harpocrates, photon-orcus, dispute, atlas, Acropolis). Kirit (To Deepak): Connections cluster also included; asks Abhilash Rao & Ashok Singh to confirm.",
+      "draftReply": "Confirming TaPS/ITP list for S3 scope — including Connections. Abhilash/Ashok, flag if anything else should be in or out."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgLAAA=",
+      "fromName": "Minerva",
+      "fromAddress": "noreply@myabsorb.com",
+      "subject": "Course past due notification for Understanding & Managing Unconscious Bias",
+      "receivedAt": "2026-09-06T10:38:09Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgLAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Minerva LMS to Deepak only: Understanding & Managing Unconscious Bias is past due; reminders continue until completed. System-generated, do not reply.",
+      "draftReply": "No reply — finish Unconscious Bias on Minerva (past due)."
+    }
+  ],
+  "unsure": [
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgTAAA=",
+      "fromName": "THIRUMALAI DEVI PRASAD A N",
+      "fromAddress": "thirumalaideviprasad.an@hdfc.bank.in",
+      "subject": "RE: 1A Customer Golive Plan - Tech & Process readiness",
+      "receivedAt": "2026-09-07T03:24:32Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "HDFC Prasad on Navakanth’s 1A go-live plan: asks Chandni if Phase1A dormant-customer comms sent; asks Jai Kumar if Pixel Times Mastercard plastics ready by 11 Sep. Deepak on large CC with Pixel/Zeta ETAs (HAPS/Pixel 10 Sep, IHA/ops 11 Sep).",
+      "whyUnsure": "CC-only. Explicit asks are to Chandni and Jai Kumar; Deepak awareness for Pixel 1A timing."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgPAAA=",
+      "fromName": "Kirit Parmar",
+      "fromAddress": "kiritpa@zeta.tech",
+      "subject": "Re: Automation of Clearance file upload process",
+      "receivedAt": "2026-09-06T17:41:17Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgPAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Kirit tells Uttam he cannot pick up clearance-file upload automation this quarter either; CCs Neha Gutgutia. Thread is risk/audit treatment for unencrypted PANs in T112. Deepak on CC.",
+      "whyUnsure": "CC-only. Decline/ownership is between Kirit, Uttam, Neha — no ask to Deepak."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgNAAA=",
+      "fromName": "Kirit Parmar",
+      "fromAddress": "kiritpa@zeta.tech",
+      "subject": "Re: Deployment freeze on UAT zone  for SIB Demo",
+      "receivedAt": "2026-09-06T15:30:14Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Kirit extends UAT deployment freeze for SIB workshop/demo through 8:30 pm Mon 7 Sep IST, all products incl. Nutrino and Olympus. Naveen/SRE own freeze; Neha confirms unfreeze. Deepak on CC.",
+      "whyUnsure": "CC-only FYI. Freeze owned by SRE/Naveen; no action asked of Deepak. Relevant today until 8:30 pm IST."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszX2AAA=",
+      "fromName": "Laxman Fatale",
+      "fromAddress": "laxmanf@zeta.tech",
+      "subject": "Re: FANG COA6 Batch issue",
+      "receivedAt": "2026-09-05T13:05:07Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWIszX2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Laxman status: COA-6 Active for 2 Sep 2026; will run for 5 Sep. Prior notes tagged Ashish on DAG. Deepak on CC with HDFC/Zeta distribution.",
+      "whyUnsure": "CC-only batch status. Ops owns; no ask to Deepak."
+    }
+  ]
+}
