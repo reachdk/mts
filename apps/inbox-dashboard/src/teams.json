@@ -1,1 +1,321 @@
-PLACEHOLDER_LOAD_FROM_FILE
+{
+  "mode": "reply_vs_ignore_snapshot",
+  "generated_at": "2026-09-10 09:06 IST",
+  "signed_in_as": {
+    "name": "Deepak Kumar",
+    "email": "deepak@zeta.tech",
+    "jobTitle": "Vice President",
+    "id": "d629b243-dc5d-4bdd-9649-d96b875cd2f0"
+  },
+  "needs_reply": [
+    {
+      "heat": "high",
+      "chat_type": "group",
+      "title": "SIB Demo Risk",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-04 19:52 IST",
+      "unread": false,
+      "what_they_asked": "HINU-4526-[Sev-2]-HDFC LZ UAT HINU-4528-[Sev-3]-HDFC LZ UAT HINU-4374-[Sev-2]-HDFC LZ UAT Deepak Kumar",
+      "why_needs_him": "Unanswered @mention of Deepak.",
+      "suggested_reply_angle": "Ack Neha's SIB Demo Risk HINU list tagged to Deepak; confirm ownership/next step.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A4849ed2f95b943658d516251757ec4af%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 1
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Pratyush Sinha",
+      "who": "Pratyush Sinha",
+      "when_ist": "2026-09-09 18:50 IST",
+      "unread": true,
+      "what_they_asked": "Please let me know if anything required",
+      "why_needs_him": "1:1 last meaningful message from Pratyush Sinha waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A22cd96ab-bba4-4592-b21c-ccacfe8027dd_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 2
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Aditya Padmawar",
+      "who": "Aditya Padmawar",
+      "when_ist": "2026-09-09 15:28 IST",
+      "unread": true,
+      "what_they_asked": "Hi Deepak, you will see a calibration invite for Prithvi R on your calendar this week. Want to give you context of why now- Prithvi R leads studio design team for Meridian engagements and reports to Bhavin. He also supported work on Neo and worked directly with that team for mean...",
+      "why_needs_him": "1:1 last meaningful message from Aditya Padmawar waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A6b92ab2a-031a-4709-bd70-35277f3c0a55_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 3
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Deepak + EA team",
+      "who": "Violet Fernandes",
+      "when_ist": "2026-09-09 08:37 IST",
+      "unread": false,
+      "what_they_asked": "Hi Deepak Good morning. Feedback noted and thank you for bringing this to our attention. I wanted to keep you updated on the situation. The Bloom team has faced some challenges due to the high volume of bookings, which has caused some confusion with the Zeta reservations. Manish ...",
+      "why_needs_him": "Unanswered @mention of Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A0ca6d67f25284a078de9ecf7f27897f5%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 4
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Rahul Mahale",
+      "who": "Rahul Mahale",
+      "when_ist": "2026-09-08 17:47 IST",
+      "unread": true,
+      "what_they_asked": "Hey Deepak, we got shifted to ground floor, where do you sit now?! hope its not super far",
+      "why_needs_him": "1:1 last meaningful message from Rahul Mahale waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Acdda19a3-46b3-4188-904e-70474a0f45be_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 5
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Shashank Mehrotra",
+      "who": "Shashank Mehrotra",
+      "when_ist": "2026-09-08 16:07 IST",
+      "unread": true,
+      "what_they_asked": "here are the JDs for the US based roles - one is abhijith / second from the market",
+      "why_needs_him": "1:1 last meaningful message from Shashank Mehrotra waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Abc11e11c-e77b-490c-840e-4640bd4007a0_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 6
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Dhruv Shah",
+      "who": "Dhruv Shah",
+      "when_ist": "2026-09-07 13:36 IST",
+      "unread": true,
+      "what_they_asked": "So if you list has relevant people marked for TAM then It will be good",
+      "why_needs_him": "1:1 last meaningful message from Dhruv Shah waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad629b243-dc5d-4bdd-9649-d96b875cd2f0_d8dd7798-d6b8-436b-ac4b-c98f924b2fb2%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 7
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Mustafa Quilonwala",
+      "who": "Mustafa Quilonwala",
+      "when_ist": "2026-09-04 16:49 IST",
+      "unread": false,
+      "what_they_asked": "Hi Deepak, can you please provide your approval for Claude Pro when you're free https://helpdesk.connect.zeta.tech/public/tickets/c480846af5d88b61f1c0c6e818856acbbeb424247d49ae0d6…",
+      "why_needs_him": "1:1 last meaningful message from Mustafa Quilonwala waiting on Deepak.",
+      "suggested_reply_angle": "Approve or decline Mustafa's Claude Pro helpdesk ticket when free.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aa7f6b95d-4c01-4c5e-ab1f-ac302cd64926_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 8
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Sheetal Bhalla, Rachna Thakurel, Dolly Rohira",
+      "who": "Rachna Thakurel",
+      "when_ist": "2026-09-03 16:00 IST",
+      "unread": false,
+      "what_they_asked": "Hi Deepak , here's the updated template for the skills repository building exercise. Would be very helpful if you could share your inputs towards first collecting the meta skills/focus areas.",
+      "why_needs_him": "Unanswered @mention/direct ask of Deepak.",
+      "suggested_reply_angle": "Share inputs on the skills-repository template / first meta skills collection Rachna asked for.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A7d21dd9328f8408fa151faa772474969%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 9
+    }
+  ],
+  "ignore": [
+    {
+      "title": "Pallavi Shukla",
+      "chat_type": "oneOnOne",
+      "why": "Stale Aug 26 Pallavi ask for Narayan farewell video/note; window long passed. Ignore unless she pings again."
+    },
+    {
+      "title": "Sivaram Kowta",
+      "chat_type": "oneOnOne",
+      "why": "Sivaram ack 'Yes coming'; ball not with Deepak."
+    },
+    {
+      "title": "Rampirabhu R",
+      "chat_type": "oneOnOne",
+      "why": "Rampirabhu WFH FYI; no ask of Deepak."
+    },
+    {
+      "title": "Salil Ravindran",
+      "chat_type": "oneOnOne",
+      "why": "Salil continuing design note ('pre-design, we'll put icons'); no open ask of Deepak."
+    },
+    {
+      "title": "Shubham Agarkar",
+      "chat_type": "oneOnOne",
+      "why": "Shubham only 'Hi Deepak' with no ask yet; wait for substance."
+    },
+    {
+      "title": "HDFC Pitch - Lending to Vyapar Merchants",
+      "chat_type": "group",
+      "why": "Karthik FYI on Shruti/GFF callback; no clear ask of Deepak. Stay ignore unless NEW ask."
+    },
+    {
+      "title": "19:d629b243-dc5d-4bdd-9649-d96b875cd2f0_",
+      "chat_type": "oneOnOne",
+      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
+    },
+    {
+      "title": "UPI Help 2.0 - Working Group(GFF 2026)",
+      "chat_type": "group",
+      "why": "Last human is Ganesh R; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "ICE - HDFC UAT EOD Issues",
+      "chat_type": "group",
+      "why": "Last human is Venu Dodla; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "HDFC PRODUCTION - EOD RUNS",
+      "chat_type": "group",
+      "why": "Last human is Mukesh Rongala; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Mercury Group",
+      "chat_type": "group",
+      "why": "Last human is Sachin Ramchandani; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "SIB Demo PLE Support",
+      "chat_type": "group",
+      "why": "Last human is Shivangi Agrawal; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Vervent Engagement",
+      "chat_type": "group",
+      "why": "Last human is Robert Keil; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Vera / ADA Portfolio Engagement",
+      "chat_type": "group",
+      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Mastercard POS enablement",
+      "chat_type": "meeting",
+      "why": "Last human is Nikhil Sharma; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "EON Development Group",
+      "chat_type": "group",
+      "why": "Last human is Samrat Mukherjee; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "OPSM-2597-[Sev-4]-Optum Prod | Nextorbit Banking | Nacha File Generation | Nacha File Generation | NOBSNACHA001 is Impacted",
+      "chat_type": "group",
+      "why": "Last human is Sejal Priya; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Recent meeting chats (system/empty/ACL)",
+      "chat_type": "meeting",
+      "why": "3 meeting chats with no usable human ask (ACL or empty). No human ask of Deepak."
+    },
+    {
+      "title": "[Weekly] Program Jazz",
+      "chat_type": "meeting",
+      "why": "Last human is Anjali Ravindran; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Bulk Closure",
+      "chat_type": "group",
+      "why": "Last human is Amit Padhy; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Times Migration - Deployments",
+      "chat_type": "group",
+      "why": "Last human is Tanuja V; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Audit Log related SPB Validations",
+      "chat_type": "group",
+      "why": "Last human is Siddharth Sharma; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Valkey Instance Size Upgrade Medium -> Large",
+      "chat_type": "group",
+      "why": "Last human is Mayank Kumar; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Tachyon ITP - Metis V3 adoption",
+      "chat_type": "meeting",
+      "why": "Last human is Deboday Shome; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Card Closure Automation",
+      "chat_type": "group",
+      "why": "Last human is Karthik Raman; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "HDFC-Domain Migration .com to .bank.in",
+      "chat_type": "group",
+      "why": "Last human is Arya S; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "Jazz Deployment & PVT",
+      "chat_type": "group",
+      "why": "Last human is Anjali Ravindran; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "ZOPS-39867-[Sev-2]-Offer Work Bench || Unable to process bulk offer creation and bulk offer invite",
+      "chat_type": "group",
+      "why": "Last human is Hippo; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "[Important] Bugs triaging and status : Mastercard P1s and P2s",
+      "chat_type": "meeting",
+      "why": "Last human is Muskan Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "[Critical] Bug Governance",
+      "chat_type": "group",
+      "why": "Last human is Divya D; ask not directed at Deepak (no @mention/direct question to him)."
+    },
+    {
+      "title": "+52 more compact ignores",
+      "chat_type": "group",
+      "why": "FYI/bots/engineering; no ask of Deepak."
+    }
+  ],
+  "skipped_hin_count": 346,
+  "skipped_hin_titles": [
+    "HIN-425715-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
+    "HINU-4328-[Sev-2]-HDFC LZ UAT | Turbo Repayments |",
+    "HIN-600762-[Sev-1]-HDFC LZ Prod | Pixel | Payments",
+    "HIN-609345-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
+    "HINU-4374-[Sev-2]-HDFC LZ UAT | Tachyon Credit | O",
+    "HIN-609346-[Sev-2]-HDFC LZ Prod | Cipher ACS | Car",
+    "HIN-580059-[Sev-2]-HDFC LZ Prod | PayZapp | Others",
+    "HINU-4368-[Sev-2]-HDFC LZ UAT | Turbo Repayments |",
+    "HIN-575699-[Sev-4]-HDFC LZ Prod | Tachyon ITP | Tr",
+    "HINU-4412-[Sev-2]-HDFC LZ UAT | Turbo Card Managem",
+    "HINU-4526-[Sev-2]-HDFC LZ UAT | Operation Center A",
+    "HINU-3504-[Sev-4]-HDFC LZ UAT | Others | Accounts "
+  ],
+  "webUrl_on_needs_reply": true,
+  "no_messages_sent": true,
+  "coverage_notes": {
+    "chats_listed": 1812,
+    "chats_cap_pages": 80,
+    "page_size_requested": 50,
+    "nextLink_remaining": true,
+    "chats_scanned_messages": 96,
+    "message_fetch_errors": 0,
+    "cutoff_utc": "2026-09-09T03:40:00Z",
+    "last_snapshot_ist": "2026-09-09 09:07 IST",
+    "api_gaps": [
+      "Skipped channel APIs as instructed (they 403 without Channel.ReadBasic.All). Chats only.",
+      "GET /me/chats?$expand=members,lastMessagePreview&$top=50; pages=80, listed=1812, nextLink_remaining=True.",
+      "HIN/HINU skip is title-based across the listing (346 chats)."
+    ],
+    "webUrl_on_needs_reply": true,
+    "no_messages_sent": true,
+    "rate_limit_sleeps": 0
+  }
+}
