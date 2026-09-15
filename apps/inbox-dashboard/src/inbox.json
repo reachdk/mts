@@ -1,28 +1,28 @@
 {
-  "generatedAt": "2026-09-14T03:47:11Z",
+  "generatedAt": "2026-09-15T03:41:59Z",
   "mailbox": "deepak@zeta.tech",
-  "unreadFolderCount": 190,
-  "fetchedCount": 190,
-  "conversationDedupedCount": 115,
-  "ignoredCount": 59,
+  "unreadFolderCount": 195,
+  "fetchedCount": 195,
+  "conversationDedupedCount": 119,
+  "ignoredCount": 62,
   "needsAction": [
     {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSanAAA=",
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAXDoSKZAAA=",
       "fromName": "Neo Tasket",
       "fromAddress": "notifications@neo.work",
       "subject": "3 Tasks, 0 Intake, 0 Update in Tasket",
-      "receivedAt": "2026-09-14T02:16:48Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSanAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Neo Tasket digest to Deepak only: still 3 open tasks — Respond to all questions from Gajendrq (3w); Submit all requisite documents to Gajendra (4w); Check with CRM on tax filing for the firm (4w).",
+      "receivedAt": "2026-09-15T02:16:57Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAXDoSKZAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Neo Tasket digest to Deepak only: still 3 open tasks — Respond to all questions from Gajendrq (4w); Submit all requisite documents to Gajendra (4w); Check with CRM on tax filing for the firm (4w).",
       "draftReply": "No reply — still 3 open Tasket items (Gajendra questions/docs + CRM tax filing)."
     },
     {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWyi1W5AAA=",
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSapAAA=",
       "fromName": "Minerva",
       "fromAddress": "noreply@myabsorb.com",
       "subject": "Course past due notification for Understanding & Managing Unconscious Bias",
-      "receivedAt": "2026-09-12T10:39:16Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWyi1W5AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "receivedAt": "2026-09-14T10:39:28Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSapAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Minerva system: Understanding & Managing Unconscious Bias is past due; reminders continue until completed. No reply expected.",
       "draftReply": "No reply — finish Unconscious Bias on Minerva (past due)."
     },
@@ -53,7 +53,7 @@
       "subject": "Re: Action Required: JDK 17 CI Support Ending – JDK 21+ Required from September 10th",
       "receivedAt": "2026-09-09T10:16:25Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMjzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Virendra reply on JDK 17 CI ending (required from 10 Sep) — points to Rapido monthly magazine for JDK 17/21 tags (OMS/commons). Deepak on To with Nanda/others; inventory/upgrade still open for QuikApp / OMS Common Services.",
+      "context": "Virendra reply on JDK 17 CI ending (required from 10 Sep) — points to Rapido monthly magazine for JDK 17/21 tags (OMS/commons). Deepak on To; inventory/upgrade still open for QuikApp / OMS Common Services (deadline Sep 10 passed — still unread).",
       "draftReply": "Noted — will check our Java 8/17 inventory on QuikApp and sequence JDK 21 upgrades (OMS Common Services / Rapido tags)."
     },
     {
@@ -89,14 +89,34 @@
   ],
   "unsure": [
     {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSalAAA=",
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAXDoSKYAAA=",
       "fromName": "Automation for Jira (Jira)",
       "fromAddress": "jira@zeta-saas.atlassian.net",
       "subject": "[JIRA] (SPB-16273) Autopay CASA -  vault properties are not being injected in prod",
-      "receivedAt": "2026-09-13T18:37:51Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSalAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "receivedAt": "2026-09-14T18:35:24Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAXDoSKYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Jira ageing watcher on SPB-16273 (Autopay CASA vault props in prod) — Ageing days blast, no explicit ask of Deepak.",
-      "whyUnsure": "Jira ageing watcher on SPB-16273 (Autopay CASA vault props in prod) — Ageing days blast, no explicit ask of Deepak."
+      "draftReply": "No reply — review when free."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSaqAAA=",
+      "fromName": "Ankit R",
+      "fromAddress": "ankitr@zeta.tech",
+      "subject": "HDFC CMR Review, Approval & CAB Guidelines– Cut-Off Timelines",
+      "receivedAt": "2026-09-14T11:24:20Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSaqAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Ankit R (CC Deepak): HDFC CMR Review/Approval & CAB Guidelines cut-off timelines for IT/BSG — FYI process; no direct ask to Deepak.",
+      "draftReply": "No reply — noted CMR/CAB cut-off guidelines (CC)."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSaoAAA=",
+      "fromName": "Ganesh R",
+      "fromAddress": "ganeshr@zeta.tech",
+      "subject": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update",
+      "receivedAt": "2026-09-14T04:31:00Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSaoAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update — Ganesh blast; Deepak on CC.",
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSakAAA=",
@@ -106,7 +126,7 @@
       "receivedAt": "2026-09-13T14:22:59Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAW8QSakAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "PayZapp Ops MIS August 2026 — Rohit to Ramki/Siva; Deepak on CC status blast.",
-      "whyUnsure": "PayZapp Ops MIS August 2026 — Rohit to Ramki/Siva; Deepak on CC status blast."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWyi1W2AAA=",
@@ -116,7 +136,7 @@
       "receivedAt": "2026-09-11T16:10:28Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWyi1W2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "GitHub notification CC on operations-center PR #287 checklist design push — no ask of Deepak.",
-      "whyUnsure": "GitHub notification CC on operations-center PR #287 checklist design push — no ask of Deepak."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWwT-64AAA=",
@@ -126,7 +146,7 @@
       "receivedAt": "2026-09-11T14:05:39Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWwT%2F64AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Pixel Engagement JAS’26 mid-quarter check-in — Sheeba status to HDFC/Zeta; Deepak on CC.",
-      "whyUnsure": "Pixel Engagement JAS’26 mid-quarter check-in — Sheeba status to HDFC/Zeta; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP9AAA=",
@@ -136,7 +156,7 @@
       "receivedAt": "2026-09-11T13:09:48Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "HDFC exception reports snapshot CBU 11 Sep — Ranjith status blast; Deepak on CC, ops owners on To.",
-      "whyUnsure": "HDFC exception reports snapshot CBU 11 Sep — Ranjith status blast; Deepak on CC, ops owners on To."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP7AAA=",
@@ -146,7 +166,7 @@
       "receivedAt": "2026-09-11T12:33:09Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Pixel Operations Monthly Update Aug’26 — Neha to Ramki/Siva; Deepak on CC FYI.",
-      "whyUnsure": "Pixel Operations Monthly Update Aug’26 — Neha to Ramki/Siva; Deepak on CC FYI."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP6AAA=",
@@ -156,7 +176,7 @@
       "receivedAt": "2026-09-11T12:19:35Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Mastercard Readiness High go-live pending — Sandeep directing Laxman/Sanchana on bugs; Deepak on CC.",
-      "whyUnsure": "Mastercard Readiness High go-live pending — Sandeep directing Laxman/Sanchana on bugs; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP1AAA=",
@@ -166,7 +186,7 @@
       "receivedAt": "2026-09-11T10:21:28Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP1AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Prod Issue Bulk Card Replacement — Punytha asking Jai Kumar for update; Deepak on CC.",
-      "whyUnsure": "Prod Issue Bulk Card Replacement — Punytha asking Jai Kumar for update; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP0AAA=",
@@ -176,7 +196,7 @@
       "receivedAt": "2026-09-11T10:10:54Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYP0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Bulk Memo Addition — Punytha confirming Memo UI + console externalization plan with Shreya; Deepak on CC.",
-      "whyUnsure": "Bulk Memo Addition — Punytha confirming Memo UI + console externalization plan with Shreya; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPzAAA=",
@@ -186,7 +206,7 @@
       "receivedAt": "2026-09-11T09:49:11Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPzAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Times Migration API/SFTP — Bharath asking Akanksha/Nikhil on credit-limit field; Deepak on CC.",
-      "whyUnsure": "Times Migration API/SFTP — Bharath asking Akanksha/Nikhil on credit-limit field; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPyAAA=",
@@ -196,7 +216,7 @@
       "receivedAt": "2026-09-11T09:33:25Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Autopay Phase 1 Bug Updates — Kuzhali to Anjali (share early next week); Deepak on CC.",
-      "whyUnsure": "Autopay Phase 1 Bug Updates — Kuzhali to Anjali (share early next week); Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPtAAA=",
@@ -206,7 +226,7 @@
       "receivedAt": "2026-09-11T07:01:15Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPtAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "FD-Based Pixel Account Reconciliation Status 11 Sep — Ranjith status table to many (Deepak on To); no explicit ask of Deepak.",
-      "whyUnsure": "FD-Based Pixel Account Reconciliation Status 11 Sep — Ranjith status table to many (Deepak on To); no explicit ask of Deepak."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPnAAA=",
@@ -216,7 +236,7 @@
       "receivedAt": "2026-09-11T05:51:55Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Authentication success rate analysis | Pixel — Prakash directing Surendradikshith; Deepak on CC.",
-      "whyUnsure": "Authentication success rate analysis | Pixel — Prakash directing Surendradikshith; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPkAAA=",
@@ -226,7 +246,7 @@
       "receivedAt": "2026-09-11T05:28:25Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPkAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Unplug Days heads-up — Pralay closing thread with Dec primary / Oct-Nov secondary plan to L7+ leaders; Deepak on To as FYI, no reply requested.",
-      "whyUnsure": "Unplug Days heads-up — Pralay closing thread with Dec primary / Oct-Nov secondary plan to L7+ leaders; Deepak on To as FYI, no reply requested."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPiAAA=",
@@ -236,7 +256,7 @@
       "receivedAt": "2026-09-11T04:42:14Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPiAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "OpenSearch prod-pay cluster — Sulbha asking Priyanka for ETA from dependent teams; Deepak on CC.",
-      "whyUnsure": "OpenSearch prod-pay cluster — Sulbha asking Priyanka for ETA from dependent teams; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPhAAA=",
@@ -246,17 +266,7 @@
       "receivedAt": "2026-09-11T04:31:51Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPhAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Request to Update NPA date critical — bank/Zeta thread; Deepak on CC, others driving.",
-      "whyUnsure": "Request to Update NPA date critical — bank/Zeta thread; Deepak on CC, others driving."
-    },
-    {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPgAAA=",
-      "fromName": "Ganesh R",
-      "fromAddress": "ganeshr@zeta.tech",
-      "subject": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update",
-      "receivedAt": "2026-09-11T04:31:17Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPgAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update — Ganesh blast; Deepak on CC.",
-      "whyUnsure": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update — Ganesh blast; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPfAAA=",
@@ -266,17 +276,17 @@
       "receivedAt": "2026-09-11T04:22:32Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Tickets raised for Pixel as on 10th Sep — CS MIS daily; Deepak on CC.",
-      "whyUnsure": "Tickets raised for Pixel as on 10th Sep — CS MIS daily; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPeAAA=",
       "fromName": "Microsoft Power Automate",
-      "fromAddress": "powerautomatenoreply@microsoft.com",
+      "fromAddress": "PowerAutomateNoReply@microsoft.com",
       "subject": "1 of your flow(s) have failed",
       "receivedAt": "2026-09-11T03:09:23Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPeAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Power Automate: Deepak’s flow failed once this week — ownership is his, but may be noise; check run history if summaries matter.",
-      "whyUnsure": "Power Automate: Deepak’s flow failed once this week — ownership is his, but may be noise; check run history if summaries matter."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPaAAA=",
@@ -286,7 +296,7 @@
       "receivedAt": "2026-09-10T20:37:57Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Grok Bot Galaxy livestream Sep 15–17 — optional register/invite; no work ask.",
-      "whyUnsure": "Grok Bot Galaxy livestream Sep 15–17 — optional register/invite; no work ask."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPUAAA=",
@@ -296,7 +306,7 @@
       "receivedAt": "2026-09-10T14:35:29Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPUAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Project Office: Shining Star reward credited to Deepak Kumar (VP) but belongs to another Deepak; INC raised with Pralay — FYI/awareness only.",
-      "whyUnsure": "Project Office: Shining Star reward credited to Deepak Kumar (VP) but belongs to another Deepak; INC raised with Pralay — FYI/awareness only."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPTAAA=",
@@ -306,7 +316,7 @@
       "receivedAt": "2026-09-10T12:24:18Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Orion INC-139737 AI reimbursement — Neha escalated; helpdesk update on timeline; Deepak on CC — wait/FYI unless team still blocked.",
-      "whyUnsure": "Orion INC-139737 AI reimbursement — Neha escalated; helpdesk update on timeline; Deepak on CC — wait/FYI unless team still blocked."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPRAAA=",
@@ -316,7 +326,7 @@
       "receivedAt": "2026-09-10T11:20:54Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPRAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Product Hiring IJP + Intern — Hari Om says no immediate internal availability; Deepak on CC.",
-      "whyUnsure": "Product Hiring IJP + Intern — Hari Om says no immediate internal availability; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPNAAA=",
@@ -326,7 +336,7 @@
       "receivedAt": "2026-09-10T09:39:13Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPNAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "HDFC CMR to be Reviewed in CAB Wed 9 Sep — Manishkumar thread; Deepak on CC; date passed.",
-      "whyUnsure": "HDFC CMR to be Reviewed in CAB Wed 9 Sep — Manishkumar thread; Deepak on CC; date passed."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPKAAA=",
@@ -336,7 +346,7 @@
       "receivedAt": "2026-09-10T08:45:52Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPKAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "People Success ‘Scroll Trap / Doomscrolling’ thread — Deepak on CC; soft wellness FYI.",
-      "whyUnsure": "People Success ‘Scroll Trap / Doomscrolling’ thread — Deepak on CC; soft wellness FYI."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPIAAA=",
@@ -346,7 +356,7 @@
       "receivedAt": "2026-09-10T08:06:02Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPIAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "HDFC Weekly Migration Digest 10 Sep — Akanksha status to Ramki/Deepak/leaders; FYI digest, no direct ask.",
-      "whyUnsure": "HDFC Weekly Migration Digest 10 Sep — Akanksha status to Ramki/Deepak/leaders; FYI digest, no direct ask."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPGAAA=",
@@ -356,7 +366,7 @@
       "receivedAt": "2026-09-10T07:56:11Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "1A Customer Golive Plan — Akanksha asking Thirumalai for CMR signoff; Deepak on CC.",
-      "whyUnsure": "1A Customer Golive Plan — Akanksha asking Thirumalai for CMR signoff; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPCAAA=",
@@ -366,7 +376,7 @@
       "receivedAt": "2026-09-10T06:35:42Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYPCAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Automation demo — Arunprasad/HDFC thread; Deepak on CC.",
-      "whyUnsure": "Automation demo — Arunprasad/HDFC thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYO8AAA=",
@@ -376,7 +386,7 @@
       "receivedAt": "2026-09-10T03:18:42Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWqKYO8AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Introduction of “SIT Approved” State in Production Workflow — Naveen thread; Deepak on CC.",
-      "whyUnsure": "Introduction of “SIT Approved” State in Production Workflow — Naveen thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMj9AAA=",
@@ -386,7 +396,7 @@
       "receivedAt": "2026-09-09T14:51:04Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMj9AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "[Important] Mastercard on Pixel/Tachyon Status — Muskan thread; Deepak on CC.",
-      "whyUnsure": "[Important] Mastercard on Pixel/Tachyon Status — Muskan thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMj2AAA=",
@@ -396,7 +406,7 @@
       "receivedAt": "2026-09-09T12:41:10Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMj2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "SC access to debug in PROD — Sandeep asking Sai Prashanth who can grant; Deepak on CC.",
-      "whyUnsure": "SC access to debug in PROD — Sandeep asking Sai Prashanth who can grant; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMjsAAA=",
@@ -406,7 +416,7 @@
       "receivedAt": "2026-09-09T06:52:10Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMjsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "PZ TD Tranx data August 2026 — Manisa thread; Deepak on CC.",
-      "whyUnsure": "PZ TD Tranx data August 2026 — Manisa thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMjlAAA=",
@@ -416,7 +426,7 @@
       "receivedAt": "2026-09-09T05:17:06Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWiAMjlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Billing Cycle Change Gap days logic — Punytha requesting issue closure; Deepak on CC.",
-      "whyUnsure": "Billing Cycle Change Gap days logic — Punytha requesting issue closure; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiMAAA=",
@@ -426,7 +436,7 @@
       "receivedAt": "2026-09-08T13:56:37Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "HINU-4412 Sev-3 Turbo Card View Card Details PZ0310 — Navakanth thread; Deepak on CC.",
-      "whyUnsure": "HINU-4412 Sev-3 Turbo Card View Card Details PZ0310 — Navakanth thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiJAAA=",
@@ -436,7 +446,7 @@
       "receivedAt": "2026-09-08T13:17:50Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiJAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "h/AXON Champion nudge — submission deadline was Fri 11 Sep; deadline passed — check if team submissions done; no concrete ask for Mon 14.",
-      "whyUnsure": "h/AXON Champion nudge — submission deadline was Fri 11 Sep; deadline passed — check if team submissions done; no concrete ask for Mon 14."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiGAAA=",
@@ -446,7 +456,7 @@
       "receivedAt": "2026-09-08T12:08:23Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJiGAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Weekly CAB / Deployment Report draft — Sulbha thread; Deepak on CC.",
-      "whyUnsure": "Weekly CAB / Deployment Report draft — Sulbha thread; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh_AAA=",
@@ -456,7 +466,7 @@
       "receivedAt": "2026-09-08T10:48:16Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh%2BAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Sharath shared “Monthly Pixel Metrics Reporting” — view invite only; no explicit ask.",
-      "whyUnsure": "Sharath shared “Monthly Pixel Metrics Reporting” — view invite only; no explicit ask."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh7AAA=",
@@ -466,17 +476,17 @@
       "receivedAt": "2026-09-08T10:28:52Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh7AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Sharath shared “Elena for Pixel [2nd June] - Copy” — view invite only; no explicit ask.",
-      "whyUnsure": "Sharath shared “Elena for Pixel [2nd June] - Copy” — view invite only; no explicit ask."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh2AAA=",
       "fromName": "Figma",
-      "fromAddress": "comments-2piaec7lv14jqrqrqxkovp@email.figma.com",
+      "fromAddress": "comments-2PIaeC7lV14JqrqrQxkOvp@email.figma.com",
       "subject": "2 new comments in Account Closure Automation",
       "receivedAt": "2026-09-08T08:33:51Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh2AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Figma: 2 new comments in Account Closure Automation (Amit/Poojan) — may or may not need Deepak; ambiguous.",
-      "whyUnsure": "Figma: 2 new comments in Account Closure Automation (Amit/Poojan) — may or may not need Deepak; ambiguous."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh0AAA=",
@@ -486,7 +496,7 @@
       "receivedAt": "2026-09-08T08:25:05Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJh0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "InfoSec/Privacy/BCM Management Review — Rashmi moved meeting to next week (GFF conflict); attendance still expected when rescheduled, no slot yet.",
-      "whyUnsure": "InfoSec/Privacy/BCM Management Review — Rashmi moved meeting to next week (GFF conflict); attendance still expected when rescheduled, no slot yet."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhlAAA=",
@@ -496,7 +506,7 @@
       "receivedAt": "2026-09-08T04:29:09Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhlAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Suprotik shared “Credit Story Deck_Product Showcase-Final - WIP” — edit invite with Sivaram; no explicit ask.",
-      "whyUnsure": "Suprotik shared “Credit Story Deck_Product Showcase-Final - WIP” — edit invite with Sivaram; no explicit ask."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhYAAA=",
@@ -506,7 +516,7 @@
       "receivedAt": "2026-09-07T13:42:37Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhYAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Pixel Webapp 2FA for MyCards — Thirumalai “Noted @Sharath”; Deepak on To but Sharath/others driving, no ask of Deepak.",
-      "whyUnsure": "Pixel Webapp 2FA for MyCards — Thirumalai “Noted @Sharath”; Deepak on To but Sharath/others driving, no ask of Deepak."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhXAAA=",
@@ -516,7 +526,7 @@
       "receivedAt": "2026-09-07T13:41:03Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Tachyon Credit Auraapps Cluster error budget risk — Khushboo to cluster owners; Deepak on CC.",
-      "whyUnsure": "Tachyon Credit Auraapps Cluster error budget risk — Khushboo to cluster owners; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhVAAA=",
@@ -526,7 +536,7 @@
       "receivedAt": "2026-09-07T13:39:52Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Tachyon Credit Ruby Cluster error budget risk — Khushboo to cluster owners; Deepak on CC.",
-      "whyUnsure": "Tachyon Credit Ruby Cluster error budget risk — Khushboo to cluster owners; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhTAAA=",
@@ -536,7 +546,7 @@
       "receivedAt": "2026-09-07T13:38:45Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhTAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "UPI Volume Trend PPI/RuPay/CLoU — Pratik status; Deepak on CC.",
-      "whyUnsure": "UPI Volume Trend PPI/RuPay/CLoU — Pratik status; Deepak on CC."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhAAAA=",
@@ -546,7 +556,7 @@
       "receivedAt": "2026-09-07T10:17:59Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJhAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "FANG COA6 Batch issue — Sanjay thread; Deepak involvement unclear from preview.",
-      "whyUnsure": "FANG COA6 Batch issue — Sanjay thread; Deepak involvement unclear from preview."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJg6AAA=",
@@ -556,7 +566,7 @@
       "receivedAt": "2026-09-07T09:07:07Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJg6AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Issue in Payzapp Login C6754 — Gaurav thread; Deepak involvement unclear / others likely driving.",
-      "whyUnsure": "Issue in Payzapp Login C6754 — Gaurav thread; Deepak involvement unclear / others likely driving."
+      "draftReply": "No reply — review when free."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgrAAA=",
@@ -566,7 +576,7 @@
       "receivedAt": "2026-09-07T06:37:57Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAWXNJgrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Pixel Engagement WSR 04-Sep — Kuzhali thread; Deepak on CC / ambiguous ownership.",
-      "whyUnsure": "Pixel Engagement WSR 04-Sep — Kuzhali thread; Deepak on CC / ambiguous ownership."
+      "draftReply": "No reply — review when free."
     }
   ]
 }
