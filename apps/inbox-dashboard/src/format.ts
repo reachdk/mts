@@ -37,3 +37,25 @@ export function hottestFirst<T extends { heat?: string; rank?: number }>(rows: T
     return (a.rank ?? 99) - (b.rank ?? 99);
   });
 }
+
+// ponytail: read unsure only. ignore[] is thin Title/Why and is not a fallback.
+export function unsureFromTeams<T>(teams: { unsure?: T[]; ignore?: unknown[] }): T[] {
+  return teams.unsure ?? [];
+}
+
+export function teamsMetaLine(opts: {
+  snapshot: string;
+  needReply: number;
+  unsure: number;
+  skipped: number;
+  ignoredCount?: number;
+}): string {
+  const parts = [
+    `snapshot ${opts.snapshot}`,
+    `${opts.needReply} need reply`,
+    `${opts.unsure} unsure`,
+    `${opts.skipped} HIN/HINU skipped`,
+  ];
+  if (opts.ignoredCount != null) parts.push(`${opts.ignoredCount} ignored`);
+  return parts.join(" · ");
+}

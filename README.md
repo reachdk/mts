@@ -26,6 +26,6 @@ Opens at http://localhost:5173. Two tabs: Inbox and Teams. The app only renders 
 
 **Inbox** — mail that needs you, and mail that might. Open links go to Outlook on the web. Drafts stay in the table.
 
-**Teams** — chats that need a reply (hottest first), plus an ignore list. Header shows snapshot time (IST), needs-reply count, ignore count, and skipped HIN/HINU count. Open uses `webUrl` when present.
+**Teams** — chats that need a reply (hottest first), and chats that are unsure. Header shows snapshot time (IST), needs-reply count, unsure count, skipped HIN/HINU count, and ignored count when present. Open uses `webUrl` when present.
 
 Live pulls belong in `data/inbox.live.json` and `data/teams.live.json` (gitignored), not in git.
