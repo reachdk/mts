@@ -22,7 +22,8 @@ type InboxUnsureRow = {
   receivedAt: string;
   webLink: string;
   context: string;
-  whyUnsure: string;
+  whyUnsure?: string;
+  draftReply?: string;
 };
 
 type Inbox = {
