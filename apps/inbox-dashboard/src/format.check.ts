@@ -1,5 +1,12 @@
 import assert from "node:assert/strict";
-import { chatTypeLabel, displayIst, hottestFirst, snapshotWhen } from "./format.ts";
+import {
+  chatTypeLabel,
+  displayIst,
+  hottestFirst,
+  snapshotWhen,
+  teamsMetaLine,
+  unsureFromTeams,
+} from "./format.ts";
 
 assert.equal(chatTypeLabel("oneOnOne"), "1:1");
 assert.equal(chatTypeLabel("group"), "group");
@@ -26,5 +33,43 @@ assert.deepEqual(
   ["a", "b"],
 );
 assert.deepEqual(hottestFirst([]), []);
+
+assert.deepEqual(
+  unsureFromTeams({ unsure: [{ who: "Ada", why_unsure: "ambiguous ask" }] }),
+  [{ who: "Ada", why_unsure: "ambiguous ask" }],
+);
+assert.deepEqual(unsureFromTeams({}), []);
+assert.deepEqual(unsureFromTeams({ unsure: [] }), []);
+assert.deepEqual(
+  unsureFromTeams({
+    unsure: [],
+    ignore: [{ title: "Noise", why: "not for him" }],
+  }),
+  [],
+);
+assert.deepEqual(
+  unsureFromTeams({ ignore: [{ title: "Noise", why: "not for him" }] }),
+  [],
+);
+
+assert.equal(
+  teamsMetaLine({
+    snapshot: "17 Sep, 9:08 am IST",
+    needReply: 13,
+    unsure: 2,
+    skipped: 346,
+  }),
+  "snapshot 17 Sep, 9:08 am IST · 13 need reply · 2 unsure · 346 HIN/HINU skipped",
+);
+assert.equal(
+  teamsMetaLine({
+    snapshot: "17 Sep, 9:08 am IST",
+    needReply: 13,
+    unsure: 0,
+    skipped: 346,
+    ignoredCount: 70,
+  }),
+  "snapshot 17 Sep, 9:08 am IST · 13 need reply · 0 unsure · 346 HIN/HINU skipped · 70 ignored",
+);
 
 console.log("format.check ok");

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import data from "./inbox.json";
 import teamsData from "./teams.json";
-import { chatTypeLabel, displayIst, hottestFirst, snapshotWhen } from "./format";
+import { chatTypeLabel, displayIst, hottestFirst, snapshotWhen, teamsMetaLine, unsureFromTeams } from "./format";
 
 type ActionRow = {
   id: string;
@@ -14,7 +14,7 @@ type ActionRow = {
   draftReply: string;
 };
 
-type UnsureRow = {
+type InboxUnsureRow = {
   id: string;
   fromName: string;
   fromAddress: string;
@@ -29,7 +29,7 @@ type Inbox = {
   generatedAt: string;
   mailbox: string;
   needsAction: ActionRow[];
-  unsure: UnsureRow[];
+  unsure: InboxUnsureRow[];
 };
 
 type NeedReply = {
@@ -45,6 +45,18 @@ type NeedReply = {
   webUrl?: string;
 };
 
+type UnsureRow = {
+  rank?: number;
+  heat?: string;
+  chat_type?: string;
+  title?: string;
+  who?: string;
+  when_ist?: string;
+  what_they_asked?: string;
+  why_unsure?: string;
+  webUrl?: string;
+};
+
 type IgnoreRow = {
   title?: string;
   chat_type?: string;
@@ -54,7 +66,9 @@ type IgnoreRow = {
 type Teams = {
   generated_at?: string;
   needs_reply?: NeedReply[];
+  unsure?: UnsureRow[];
   ignore?: IgnoreRow[];
+  ignored_count?: number;
   skipped_hin_count?: number;
   coverage_notes?: Record<string, unknown>;
 };
@@ -182,15 +196,20 @@ function InboxTab() {
 
 function TeamsTab() {
   const needs = hottestFirst(teams.needs_reply ?? []);
-  const ignore = teams.ignore ?? [];
+  const unsure = hottestFirst(unsureFromTeams(teams));
   const skipped = teams.skipped_hin_count ?? 0;
   const coverage = coverageLine(teams.coverage_notes);
 
   return (
     <>
       <p className="meta">
-        snapshot {snapshotWhen(teams.generated_at)} · {needs.length} need reply · {ignore.length} ignore ·{" "}
-        {skipped} HIN/HINU skipped
+        {teamsMetaLine({
+          snapshot: snapshotWhen(teams.generated_at),
+          needReply: needs.length,
+          unsure: unsure.length,
+          skipped,
+          ignoredCount: teams.ignored_count,
+        })}
       </p>
       {coverage ? <p className="coverage">{coverage}</p> : null}
 
@@ -243,26 +262,40 @@ function TeamsTab() {
       </section>
 
       <section>
-        <h2>Ignore</h2>
+        <h2>Unsure</h2>
         <div className="table-wrap">
-          {ignore.length === 0 ? (
+          {unsure.length === 0 ? (
             <div className="empty">Nothing in this bucket.</div>
           ) : (
             <table>
               <thead>
                 <tr>
-                  <th>Title</th>
-                  <th>Why</th>
+                  <th>Who</th>
+                  <th>Chat</th>
+                  <th>When (IST)</th>
+                  <th>What they asked</th>
+                  <th>Why unsure</th>
+                  <th></th>
                 </tr>
               </thead>
               <tbody>
-                {ignore.map((row, i) => (
-                  <tr key={`${row.title}-${i}`}>
+                {unsure.map((row, i) => (
+                  <tr key={`${row.rank}-${row.who}-${row.when_ist}-${i}`}>
+                    <td className="from">{row.who}</td>
                     <td className="chat">
                       {row.title}
                       <small>{chatTypeLabel(row.chat_type)}</small>
                     </td>
-                    <td className="why">{row.why}</td>
+                    <td className="when">{displayIst(row.when_ist)}</td>
+                    <td className="context">{row.what_they_asked}</td>
+                    <td className="why">{row.why_unsure}</td>
+                    <td>
+                      {row.webUrl ? (
+                        <a className="open" href={row.webUrl} target="_blank" rel="noreferrer">
+                          Open
+                        </a>
+                      ) : null}
+                    </td>
                   </tr>
                 ))}
               </tbody>
