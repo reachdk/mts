@@ -1,6 +1,7 @@
 {
-  "mode": "reply_vs_ignore_snapshot",
+  "mode": "reply_vs_unsure_snapshot",
   "generated_at": "2026-09-17 09:08 IST",
+  "schema_rebuilt_at": "2026-09-17 14:04 IST",
   "signed_in_as": {
     "name": "Deepak Kumar",
     "email": "deepak@zeta.tech",
@@ -178,353 +179,208 @@
       "rank": 13
     }
   ],
-  "ignore": [
+  "unsure": [
     {
-      "title": "Times Migration - Deployments",
+      "heat": "high",
       "chat_type": "group",
-      "why": "Last human is Ankit R; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Closed group - TD Next steps",
-      "chat_type": "group",
-      "why": "Last human message is Deepak's (2026-09-16 10:20 IST). Ball not with him."
-    },
-    {
-      "title": "SIB Demo",
-      "chat_type": "meeting",
-      "why": "Last human is Kirit Parmar; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "19:d629b243-dc5d-4bdd-9649-d96b875cd2f0_",
-      "chat_type": "oneOnOne",
-      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
-    },
-    {
-      "title": "HDFC PRODUCTION - EOD RUNS",
-      "chat_type": "group",
-      "why": "Last human is Ashutosh Bosle; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "SIB Demo PLE Support",
-      "chat_type": "group",
-      "why": "Last human is Sai Naidu; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "ICE - HDFC UAT EOD Issues",
-      "chat_type": "group",
-      "why": "Last human is Adhiraj Bhattacharya; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Pratyush Sinha",
-      "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-09-16 22:05 IST). Ball not with him."
-    },
-    {
-      "title": "Athena HDFC Prod Deployment Plan review ",
-      "chat_type": "meeting",
-      "why": "Last human is Harshvardhan Kalra; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "debit/prepaid readiness for US markets | session 3",
-      "chat_type": "meeting",
-      "why": "Last human is Robert Keil; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Pre-Sales process walkthrough",
-      "chat_type": "meeting",
-      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Pre-Sales process walkthrough w/Gary & Rahul",
-      "chat_type": "group",
-      "why": "Ball with Project Office ('Thanks Rahul , Faina Charmaine - As Shashank has an external'); not waiting on Deepak."
-    },
-    {
-      "title": "OPSM-2597-[Sev-4]-Optum Prod | Nextorbit Banking | Nacha File Generation | Nacha File Generation | NOBSNACHA001 is Impacted",
-      "chat_type": "group",
-      "why": "Last human is Hippo; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Discussion: Pre-sales Process & Prospect Engagement ",
-      "chat_type": "meeting",
-      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Bulk Closure",
-      "chat_type": "group",
-      "why": "Last human is krushev Tirupalli; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Office Hours Topics Finalization Group",
-      "chat_type": "group",
-      "why": "Last human is Mancy M S; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Recent meeting chats (system/empty/ACL)",
-      "chat_type": "meeting",
-      "why": "6 meeting chats with no usable human ask (ACL or empty). No human ask of Deepak."
-    },
-    {
-      "title": "EON Development Group",
-      "chat_type": "group",
-      "why": "Last human is Shah Mazumder; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "HDFC-Domain Migration .com to .bank.in",
-      "chat_type": "group",
-      "why": "Last human is Sudama Srivastava; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "[Weekly] Pixel Metrics Review",
-      "chat_type": "meeting",
-      "why": "Last human is Shah Mazumder; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Understanding Program Rollout Costs & Proposals",
-      "chat_type": "group",
-      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Shashank Mehrotra",
-      "chat_type": "oneOnOne",
-      "why": "FYI from Shashank Mehrotra; no ask."
-    },
-    {
-      "title": "US engagements | bi-weekly pre-sales standup",
-      "chat_type": "meeting",
-      "why": "Stale meeting ping from Shashank Mehrotra (2026-09-15 15:03 IST); window likely passed."
-    },
-    {
-      "title": "PayLater (CLoU) | PnE <> CS Collab",
-      "chat_type": "group",
-      "why": "Last human is Kumar Gaurav; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Director Solutions Engineering Hiring",
-      "chat_type": "group",
-      "why": "Last human is Manali Baruah; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Pixel - CS + Product Collab",
-      "chat_type": "group",
-      "why": "Last human is Priya S; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "DPW Optimisations",
-      "chat_type": "group",
-      "why": "Last human is Chandresh Phirke; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
       "title": "US Sales Exploration Core Group",
-      "chat_type": "group",
-      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
+      "who": "Saroj Javeri",
+      "when_ist": "2026-09-15 13:57 IST",
+      "unread": true,
+      "what_they_asked": "hi Deepak , Neha could you help assign an EO for commercial cards exploration? We will connect with Gary later this week on the progress/overall approach and it would help for the nominated EO to join and align on next steps. Linking the ticket https://zeta-tm.atlassian.net/browse/SAL-32",
+      "why_unsure": "Saroj asked Deepak and Neha to assign an EO for commercial cards exploration; ball may still need Deepak's assignment even though triage put it in ignore.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab1ffbe899d4b4578840f7e39540c8e97%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "EOD RUNS Issues - Ramki + Uttam ",
-      "chat_type": "group",
-      "why": "Last human is Kumar B S; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "[Working Group] Selene Demo to Anjani Rathod",
-      "chat_type": "group",
-      "why": "Last human is Pristan Fernando; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Design Team for GFF",
-      "chat_type": "group",
-      "why": "Last human is Nandini Chandra; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "[Weekly] Eon review",
-      "chat_type": "meeting",
-      "why": "Last human message is Deepak's (2026-09-15 12:32 IST). Ball not with him."
-    },
-    {
-      "title": "Monthly: HDFC I Zeta - Resource Governance",
-      "chat_type": "meeting",
-      "why": "Last human is Rekha Nayak; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "[Working Group] Migration",
-      "chat_type": "group",
-      "why": "Last human is Shubhika Kanoongo; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "HDFC Pitch - Lending to Vyapar Merchants",
-      "chat_type": "group",
-      "why": "Last human message is Deepak's (2026-09-16 11:40 IST). Ball not with him."
-    },
-    {
-      "title": "Nikhil Mangal",
+      "heat": "medium",
       "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-09-07 16:12 IST). Ball not with him."
+      "title": "Shashank Mehrotra",
+      "who": "Shashank Mehrotra",
+      "when_ist": "2026-09-15 16:00 IST",
+      "unread": true,
+      "what_they_asked": "fyi please, thanks Robert Keil tbd please, i spoke to bhavin earlier today and he wanted to meet you first before meeting ramki to understand your document on debit in more detail and where the gaps are and also discuss how he is thinking about the ryze solution and the backlog and what he wants to develop there and how. pre-read can just be your document and any additions / tweaks you want to ...",
+      "why_unsure": "FYI that Bhavin wants to meet Deepak before Robert Keil; plus prior US JDs thread - worth a glance, not a clear overnight reply.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Abc11e11c-e77b-490c-840e-4640bd4007a0_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Neha Gutgutia, Pankaj Sonaiya, Santosh Savanur, Salil Ravindran, Nimisha Bhadran",
+      "heat": "medium",
       "chat_type": "group",
-      "why": "Last human is Nimisha Bhadran; ask not directed at Deepak (no @mention/direct question to him)."
+      "title": "SIB Demo PLE Support",
+      "who": "Sai Naidu",
+      "when_ist": "2026-09-15 23:34 IST",
+      "unread": true,
+      "what_they_asked": "3-4 days right. Can we ask her to fast track stating urgency.",
+      "why_unsure": "Fast-track urgency on PLE support sits next to open SIB Demo Risk needs_reply; may need Deepak eyes even if last ask was not @him.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A6db124a07f6947a7bb5f8fb9c38b9a4f%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Discussion on Platform led solutions & Credit story for GFF(To be showcased in separate hall)",
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "ICE - HDFC UAT EOD Issues",
+      "who": "Jitendra Tomar",
+      "when_ist": "2026-09-15 23:12 IST",
+      "unread": true,
+      "what_they_asked": "Not clear on next steps",
+      "why_unsure": "Thread ends with 'Not clear on next steps' on HDFC UAT EOD - org visibility risk; no direct @Deepak but leadership-relevant.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A60d994e80a3c47259e6ab639dcf99d63%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "HDFC PRODUCTION - EOD RUNS",
+      "who": "Ashutosh Bosle",
+      "when_ist": "2026-09-16 04:34 IST",
+      "unread": true,
+      "what_they_asked": "UCIC reverse handoff got generated",
+      "why_unsure": "Fresh prod EOD status (UCIC reverse handoff); FYI that might need eyes if ownership unclear.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab18054ac71684944975d431082cac3f8%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Times Migration - Deployments",
+      "who": "SANTHOSH CHAKILAM",
+      "when_ist": "2026-09-16 08:56 IST",
+      "unread": true,
+      "what_they_asked": "Navakanth Kanapala Ankit R , this is still not in RFD . Perseus deployment in HDFC UAT",
+      "why_unsure": "Perseus deployment still not in RFD on HDFC UAT; deployment risk FYI, ask directed at Ankit/Navakanth not Deepak.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aee6beef019b9403280d1ff99ba42ba0c%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
+      "chat_type": "group",
+      "title": "Understanding Program Rollout Costs & Proposals",
+      "who": "Shashank Mehrotra",
+      "when_ist": "2026-09-15 16:01 IST",
+      "unread": true,
+      "what_they_asked": "hi Everyone i am continuing my effort to build out the proposal for vervent, hope to have a first outline by EOD tomm US time. Aditya Padmawar do need to discuss outline with you and what i need. thanks.",
+      "why_unsure": "Shashank building Vervent proposal outline - leadership FYI, no direct ask of Deepak.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A8100b9ca1a284c208063f80e777dcda5%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
+      "chat_type": "group",
+      "title": "Pre-Sales process walkthrough w/Gary & Rahul",
+      "who": "Project Office",
+      "when_ist": "2026-09-15 19:14 IST",
+      "unread": true,
+      "what_they_asked": "Thanks Rahul , Faina Charmaine - As Shashank has an external call, keeping him as optional. CC- Neha , Deepak - Calling scheduled for tomorrow 6:30 PM IST -Khushboo",
+      "why_unsure": "Project Office CC'd Deepak on reschedule (Shashank optional); calendar FYI that might need confirm.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aacacaee9b3364864b3dfdd2aeddc12a6%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
       "chat_type": "meeting",
-      "why": "Stale meeting ping from Suprotik Das (2026-09-03 16:08 IST); window likely passed."
+      "title": "Discussion: Pre-sales Process & Prospect Engagement",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-15 18:47 IST",
+      "unread": true,
+      "what_they_asked": "Everyone , updated the link for common Pre-sales collaterals for US Geography as well. Over the last few months if you have created any artefacts that can be re-used in other engagements pls add the artefacts/links in respective folders. Feel free to add new folders if needed.",
+      "why_unsure": "Neha updated US pre-sales collaterals link for everyone; FYI worth a glance, no ask.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_YWEwZDA3ZDktODE4Ni00Yjg3LWFjZjQtZmYyY2EyOWZmNDc0%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Pankaj Sonaiya",
+      "heat": "low",
+      "chat_type": "group",
+      "title": "Director Solutions Engineering Hiring",
+      "who": "Manali Baruah",
+      "when_ist": "2026-09-15 14:44 IST",
+      "unread": true,
+      "what_they_asked": "Shashank Mehrotra Will go through the feedback and fine tune the search accordingly 👍🏻",
+      "why_unsure": "Hiring search fine-tune in flight; Deepak often stakeholders - FYI, ball with Manali/Shashank.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ada1a5ea4f2ad475ab1346685ab61db43%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
       "chat_type": "oneOnOne",
-      "why": "Pankaj Sep 3 afternoon 'called you for 4.30 discussion' window passed. Drop unless he pings a new slot."
-    },
-    {
       "title": "Nishant Sahu",
+      "who": "Nishant Sahu",
+      "when_ist": "2026-09-03 11:05 IST",
+      "unread": false,
+      "what_they_asked": "Yes deepak today or max by tomorrow. I will get back to you.",
+      "why_unsure": "Nishant committed to get back 'today or max by tomorrow' (Sep 3); ball with him but open commitment - glance if still pending.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad629b243-dc5d-4bdd-9649-d96b875cd2f0_d67d0ff4-73ce-4e28-b9a5-6b23073ce873%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
       "chat_type": "oneOnOne",
-      "why": "Ball with Nishant Sahu ('Yes deepak today or max by tomorrow. I will get back to you.'); not waiting on Deepak."
+      "title": "Pratyush Sinha",
+      "who": "Deepak Kumar",
+      "when_ist": "2026-09-15 22:03 IST",
+      "unread": false,
+      "what_they_asked": "Hi Pratyush, for WorkIQ, the sharepoint tools are showing as unavailable. Can you please check?",
+      "why_unsure": "Deepak's last message waiting on Pratyush for WorkIQ SharePoint tools; ball not with Deepak but open work thread.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A22cd96ab-bba4-4592-b21c-ccacfe8027dd_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Dolly Rohira",
+      "heat": "low",
       "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-09-02 11:12 IST). Ball not with him."
-    },
-    {
-      "title": "Zeta Partnerships",
-      "chat_type": "group",
-      "why": "Last human is Priyanshu Upadhyay; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Uttam Rao, Sivaram Kowta",
-      "chat_type": "group",
-      "why": "Last human message is Deepak's (2026-08-31 17:39 IST). Ball not with him."
-    },
-    {
-      "title": "Uttam Rao",
-      "chat_type": "oneOnOne",
-      "why": "Uttam Vyapar.xlsx file drop; delivery only, no remaining question."
-    },
-    {
-      "title": "Anjali Ravindran",
-      "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-08-31 13:04 IST). Ball not with him."
-    },
-    {
-      "title": "Rukmani Vinod",
-      "chat_type": "oneOnOne",
-      "why": "Farewell dinner thank-you; event over."
-    },
-    {
-      "title": "Tony Simon",
-      "chat_type": "oneOnOne",
-      "why": "Ball with Tony Simon ('Will do'); not waiting on Deepak."
-    },
-    {
-      "title": "Nikhil Mangal, Tony Simon, Uttam Rao, Sivaram Kowta, Mithun Kulkarni",
-      "chat_type": "group",
-      "why": "Stale 26 Aug 8.0 immersion attendee-list deadline; no NEW follow-up. Ignore unless they ping again."
-    },
-    {
-      "title": "Shashank Mehrotra, Abhijith Arkalgud",
-      "chat_type": "group",
-      "why": "Last human message is Deepak's (2026-08-17 12:36 IST). Ball not with him."
-    },
-    {
-      "title": "Gireesh Subramaniam, Sivaram Kowta",
-      "chat_type": "group",
-      "why": "Stale Aug UX/Ramki note from Sivaram (2026-08-13 17:00 IST); no overnight follow-up. Ignore unless they ping again."
-    },
-    {
-      "title": "Neha Gutgutia, Shashank Mehrotra, Ramki Gaddipati, Pankaj Sonaiya",
-      "chat_type": "group",
-      "why": "Last human is Shashank Mehrotra; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
       "title": "Sheeba P",
+      "who": "Sheeba P",
+      "when_ist": "2026-08-07 14:17 IST",
+      "unread": false,
+      "what_they_asked": "Hi Deepak Kumar We completed approximately half of the Phase 1 demo during the first session today. The remaining demo is scheduled for 3:00 PM . Given this, I am cancelling our internal catch-up for today . We can use Monday's meeting to review and discuss the Phase 2 plan in detail.",
+      "why_unsure": "Stale Phase 1 demo follow-up (Aug 7) with remaining session; not overnight-actionable but open thread worth a glance.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A6a8c1897-0af4-487d-9d09-873f0cd367f6_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
       "chat_type": "oneOnOne",
-      "why": "Stale FYI/cancel from 2026-08-07 14:17 IST (Sheeba Phase 1 demo / catch-up). Not overnight-actionable."
-    },
-    {
-      "title": "Discussion | Gireesh, Deepak & Mustafa",
-      "chat_type": "meeting",
-      "why": "Last human message is Deepak's (2026-08-03 12:33 IST). Ball not with him."
-    },
-    {
-      "title": "Sharath P, Rajiv Tandon, Kunal Bankapur, Sheeba P, Ganesh R",
-      "chat_type": "group",
-      "why": "Ball with Ganesh R ('Sure Deepak Kumar'); not waiting on Deepak."
-    },
-    {
-      "title": "Mehul Mistry, Ramki Gaddipati, Manoj Machiraju, Sivaram Kowta, Vinay Murthy",
-      "chat_type": "group",
-      "why": "Last human is Manoj Machiraju; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Rajiv Tandon, Nishant Sahu, Varun Kamath, Divya Das",
-      "chat_type": "group",
-      "why": "Last human is Nishant Sahu; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
       "title": "Mithun Kulkarni",
+      "who": "Mithun Kulkarni",
+      "when_ist": "2026-07-15 11:58 IST",
+      "unread": false,
+      "what_they_asked": "EA team confirmed abt Ramki's call getting cancelled tomorrow You and Ankush can join online for 1st batch of evals - from 9.30am - 11am, remaining batch Mustafa and I can do in person",
+      "why_unsure": "Stale Jul eval-panel logistics thread; no overnight action, keep as unsure glance not noise dump.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A8f3ebbf8-9ae4-4a82-b13e-c41ba8c4ec45_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
+      "chat_type": "group",
+      "title": "Zeta Partnerships",
+      "who": "Priyanshu Upadhyay",
+      "when_ist": "2026-09-01 12:32 IST",
+      "unread": false,
+      "what_they_asked": "Signzy NDA is also solved for, we have an in-definite NDA with them that also covers our affiliates, executed via the US Org. CC: Saroj Javeri",
+      "why_unsure": "Scienaptic/Signzy NDA FYI; partnerships deferred - stay watch unless NEW ask.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A9a2da7c935d548e79ce0624b97012b56%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
+    },
+    {
+      "heat": "low",
       "chat_type": "oneOnOne",
-      "why": "Stale open thread from 2026-07-15 11:58 IST (Mithun eval-panel logistics). Not overnight-actionable."
+      "title": "Pankaj Sonaiya",
+      "who": "Pankaj Sonaiya",
+      "when_ist": "2026-09-03 13:14 IST",
+      "unread": false,
+      "what_they_asked": "I called you to check for the first discussion at 4.30?",
+      "why_unsure": "Sep 3 'called you for 4.30 discussion' window passed; drop-unless-ping but leave as unsure glance.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A0d10abbe-d8ab-4a72-ba7d-102bb8ae825a_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Shashank Mehrotra, Neha Gutgutia",
+      "heat": "low",
       "chat_type": "group",
-      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
+      "title": "Sharath P, Rajiv Tandon, Kunal Bankapur, Sheeba P, Ganesh R",
+      "who": "Ganesh R",
+      "when_ist": "2026-07-31 13:09 IST",
+      "unread": false,
+      "what_they_asked": "Sure Deepak Kumar",
+      "why_unsure": "Ganesh acked 'Sure Deepak Kumar' - ball with him; open group thread Deepak was in.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A56aaa6e0f24947a793c412967e33380e%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     },
     {
-      "title": "Neha Gutgutia, Sarvesh Pande",
+      "heat": "low",
       "chat_type": "group",
-      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
-    },
-    {
-      "title": "Kirit Parmar, Sivaram Kowta",
-      "chat_type": "group",
-      "why": "Last human is Sivaram Kowta; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Shashidhar Soppin, Bhavin Turakhia, Sivaram Kowta, Gireesh Subramaniam, Shaik Ali",
-      "chat_type": "group",
-      "why": "Last human is Shaik Ali; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Sharath P, Nishant Sahu, Shreya Sharma, Sheeba P",
-      "chat_type": "group",
-      "why": "Sheeba Pixel deck from June; stale, not overnight-actionable."
-    },
-    {
-      "title": "Khushboo Khandelwal",
-      "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-09-16 11:45 IST). Ball not with him."
-    },
-    {
-      "title": "Nimisha Bhadran, Neha Gutgutia, Saakshi Agarwal, Nandini Chandra, Priyanshu Upadhyay",
-      "chat_type": "group",
-      "why": "Last human is Salil Ravindran; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Rachna Thakurel",
-      "chat_type": "oneOnOne",
-      "why": "Last human message is Deepak's (2026-05-14 14:03 IST). Ball not with him."
-    },
-    {
-      "title": "Guruprasad Dharmaji, Dhruv Shah",
-      "chat_type": "group",
-      "why": "Last human message is Deepak's (2026-04-15 18:42 IST). Ball not with him."
-    },
-    {
-      "title": "Pankaj Sonaiya, Neha Gutgutia, Abhishek Nair",
-      "chat_type": "group",
-      "why": "Last human is Neha Gutgutia; ask not directed at Deepak (no @mention/direct question to him)."
-    },
-    {
-      "title": "Rashmi Aich, Senthil V, Neha Gutgutia, SANTHOSH NAGARAJAN",
-      "chat_type": "group",
-      "why": "No recent human message (bot/system/empty or meeting ACL gap)."
-    },
-    {
-      "title": "Vinayak Das, Sivaram Kowta, Violet Fernandes, Pralay Khan, Rukmani Vinod",
-      "chat_type": "group",
-      "why": "Last human is Rukmani Vinod; ask not directed at Deepak (no @mention/direct question to him)."
+      "title": "Gireesh Subramaniam, Sivaram Kowta",
+      "who": "Sivaram Kowta",
+      "when_ist": "2026-08-13 17:00 IST",
+      "unread": false,
+      "what_they_asked": "Deepak Kumar Gireesh Subramaniam had a discussion with Ramki on UX - he is strongly against any delay and has a very strong view on how UX would evolve Design would disappear as a function and we will have UX product manager - and over time it will be just product manager. we don't have critical design needs right now and the tooling is advanced enough to jump to this now not 9 months later so ...",
+      "why_unsure": "Stale Aug UX/Ramki note from Sivaram; no overnight follow-up but strategic UX thread Deepak was looped on.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A9d6a9d6f89434ae98141a0c311d2171d%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171"
     }
   ],
+  "ignored_count": 51,
+  "ignore": [],
   "skipped_hin_count": 346,
   "skipped_hin_titles": [
     "HIN-425715-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
@@ -579,6 +435,7 @@
     "HINU-4221-[Sev-2]-HDFC LZ UAT | Turbo Card Managem"
   ],
   "webUrl_on_needs_reply": true,
+  "webUrl_on_unsure": true,
   "no_messages_sent": true,
   "coverage_notes": {
     "chats_listed": 1812,
@@ -616,6 +473,12 @@
       "Rajiv_Tandon": "recheck - Sep 8 COA6 EOD UAT weigh-in still open unless answered"
     },
     "message_fetch_error_samples": [],
-    "rate_limit_sleeps": 0
+    "rate_limit_sleeps": 0,
+    "unsure_replaces_ignore": true,
+    "schema_rebuild_ist": "2026-09-17 14:04 IST",
+    "schema_note": "Rebuilt reply_vs_ignore into Inbox-like shape: unsure[] (rich) replaces ignore[]; ignored_count is noise tally only. needs_reply unchanged from 2026-09-17 09:08 IST snap.",
+    "unsure_count": 18,
+    "ignored_count": 51,
+    "source_snap_ist": "2026-09-17 09:08 IST"
   }
 }
