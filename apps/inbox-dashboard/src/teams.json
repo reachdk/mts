@@ -1,6 +1,6 @@
 {
   "mode": "reply_vs_unsure_snapshot",
-  "generated_at": "2026-09-21 09:19 IST",
+  "generated_at": "2026-09-22 09:09 IST",
   "signed_in_as": {
     "name": "Deepak Kumar",
     "email": "deepak@zeta.tech",
@@ -23,6 +23,97 @@
     },
     {
       "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Sivaram Kowta",
+      "who": "Sivaram Kowta",
+      "when_ist": "2026-09-21 21:29 IST",
+      "unread": true,
+      "what_they_asked": "Hey are we on for 9:30 tonight?",
+      "why_needs_him": "1:1 last meaningful message from Sivaram Kowta waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A0fa6dc49-2765-449a-8ca7-18c6a5517226_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 2
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Neha Gutgutia",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-21 19:09 IST",
+      "unread": true,
+      "what_they_asked": "Deepak Kumar",
+      "why_needs_him": "1:1 last meaningful message from Neha Gutgutia waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aaf1d3119-a076-4133-860b-362509ecce68_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 3
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Aditya Padmawar",
+      "who": "Aditya Padmawar",
+      "when_ist": "2026-09-21 17:41 IST",
+      "unread": true,
+      "what_they_asked": "Agree. Will confirm to PP team. Once approved by rewards/bhavin/ramki we will proceed with communication to him",
+      "why_needs_him": "1:1 last meaningful message from Aditya Padmawar waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A6b92ab2a-031a-4709-bd70-35277f3c0a55_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 4
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Suprotik Das",
+      "who": "Suprotik Das",
+      "when_ist": "2026-09-21 15:57 IST",
+      "unread": true,
+      "what_they_asked": "Deepak - https://lnkd.in/p/gS6-Qp55",
+      "why_needs_him": "1:1 last meaningful message from Suprotik Das waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad629b243-dc5d-4bdd-9649-d96b875cd2f0_ee47ab65-2ca5-4f33-bff9-f829c5cbd6d6%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 5
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Manoj Machiraju",
+      "who": "Manoj Machiraju",
+      "when_ist": "2026-09-21 15:04 IST",
+      "unread": false,
+      "what_they_asked": "Unified cards hub - HDFC Leadership Pitch - Story Revised.pptx",
+      "why_needs_him": "1:1 last meaningful message from Manoj Machiraju waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A27fe046a-dede-450e-8416-c3e0b28042d6_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 6
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Dolly Rohira, Sheetal Bhalla, Rachna Thakurel",
+      "who": "Rachna Thakurel",
+      "when_ist": "2026-09-21 12:18 IST",
+      "unread": true,
+      "what_they_asked": "Hey Deepak , hope you're doing well! Quick check on whether you had a chance to validate the skills in this sheet. Do let us know if you need any walkthrough/quick connect for any questions you would have",
+      "why_needs_him": "Unanswered @mention of Deepak.",
+      "suggested_reply_angle": "Share inputs on the skills-repository template / first meta skills collection Rachna asked for.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A7d21dd9328f8408fa151faa772474969%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 7
+    },
+    {
+      "heat": "medium",
+      "chat_type": "oneOnOne",
+      "title": "Ashish Patel",
+      "who": "Ashish Patel",
+      "when_ist": "2026-09-21 11:16 IST",
+      "unread": true,
+      "what_they_asked": "can i use your cabin today in WF ?",
+      "why_needs_him": "1:1 last meaningful message from Ashish Patel waiting on Deepak.",
+      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab0c1f0b6-e7da-4b73-bd77-bf118b6a0164_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "rank": 8
+    },
+    {
+      "heat": "medium",
       "chat_type": "group",
       "title": "Deepak + EA team",
       "who": "Khushboo Khandelwal",
@@ -32,46 +123,7 @@
       "why_needs_him": "Unanswered @mention of Deepak.",
       "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3A0ca6d67f25284a078de9ecf7f27897f5%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 2
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "matrix India leadership ",
-      "who": "Sivaram Kowta",
-      "when_ist": "2026-09-18 18:24 IST",
-      "unread": false,
-      "what_they_asked": "Deepak Kumar Mehul Mistry i spent some time working with claude to put a catalog of ideas for HDFC Bank to take to HDFC Ergo - its only loosely inspired by Optum and instead a fresh look at how a bank partnership can add value to the insurance company. this is the catalog of idea...",
-      "why_needs_him": "Unanswered @mention of Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab4493497915a4c13b0cb515f86af0340%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 3
-    },
-    {
-      "heat": "medium",
-      "chat_type": "oneOnOne",
-      "title": "Manoj Machiraju",
-      "who": "Manoj Machiraju",
-      "when_ist": "2026-09-18 16:31 IST",
-      "unread": false,
-      "what_they_asked": "It's fine Deepak. For some hours should be fine. Wil come back with something by Monday morning",
-      "why_needs_him": "1:1 last meaningful message from Manoj Machiraju waiting on Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A27fe046a-dede-450e-8416-c3e0b28042d6_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 4
-    },
-    {
-      "heat": "medium",
-      "chat_type": "oneOnOne",
-      "title": "Sharath P",
-      "who": "Sharath P",
-      "when_ist": "2026-09-18 14:22 IST",
-      "unread": false,
-      "what_they_asked": "Hi Deepak Kumar we will confirm timeline by which Arun can move.",
-      "why_needs_him": "1:1 last meaningful message from Sharath P waiting on Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A4c395000-9dfd-4995-83a6-bf9ab2d8b1cc_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 5
+      "rank": 9
     },
     {
       "heat": "medium",
@@ -84,20 +136,7 @@
       "why_needs_him": "1:1 last meaningful message from Sheeba P waiting on Deepak.",
       "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3A6a8c1897-0af4-487d-9d09-873f0cd367f6_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 6
-    },
-    {
-      "heat": "medium",
-      "chat_type": "oneOnOne",
-      "title": "Aditya Padmawar",
-      "who": "Aditya Padmawar",
-      "when_ist": "2026-09-18 12:47 IST",
-      "unread": true,
-      "what_they_asked": "as a side note, he can definitely be utilised in a broader role so he also has a chance for further growth in next 2-3 years",
-      "why_needs_him": "1:1 last meaningful message from Aditya Padmawar waiting on Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A6b92ab2a-031a-4709-bd70-35277f3c0a55_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 7
+      "rank": 10
     },
     {
       "heat": "medium",
@@ -110,20 +149,7 @@
       "why_needs_him": "Unanswered @mention of Deepak.",
       "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3Ae16138a256f8465d987dcb1fce04e73f%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 8
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "Project Boost - ACS Perf improvement from 70s to 90s",
-      "who": "Nikhil Sharma",
-      "when_ist": "2026-09-17 16:43 IST",
-      "unread": false,
-      "what_they_asked": "Will check and share the details Deepak Kumar",
-      "why_needs_him": "Unanswered @mention of Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A96b124c3aa8a4e12a5fdda027714ca5e%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 9
+      "rank": 11
     },
     {
       "heat": "medium",
@@ -136,7 +162,7 @@
       "why_needs_him": "1:1 last meaningful message from Mustafa Quilonwala waiting on Deepak.",
       "suggested_reply_angle": "Approve or decline Mustafa's Claude Pro helpdesk ticket when free.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3Aa7f6b95d-4c01-4c5e-ab1f-ac302cd64926_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 10
+      "rank": 12
     },
     {
       "heat": "medium",
@@ -149,20 +175,7 @@
       "why_needs_him": "1:1 last meaningful message from Sayandip Bagchi waiting on Deepak.",
       "suggested_reply_angle": "Reply to Sayandip on Meridian IJP/hiring 2x PM1/PM2 (Prasoon replacement + second).",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3A497711ee-b702-4a4e-ba8c-bfbf21f8cb62_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 11
-    },
-    {
-      "heat": "medium",
-      "chat_type": "oneOnOne",
-      "title": "Sivaram Kowta",
-      "who": "Sivaram Kowta",
-      "when_ist": "2026-09-07 19:51 IST",
-      "unread": false,
-      "what_they_asked": "Yes coming",
-      "why_needs_him": "1:1 last meaningful message from Sivaram Kowta waiting on Deepak.",
-      "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A0fa6dc49-2765-449a-8ca7-18c6a5517226_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 12
+      "rank": 13
     },
     {
       "heat": "medium",
@@ -175,19 +188,6 @@
       "why_needs_him": "1:1 last meaningful message from Dhruv Shah waiting on Deepak.",
       "suggested_reply_angle": "Acknowledge and answer the open ask, or say when you'll get to it.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad629b243-dc5d-4bdd-9649-d96b875cd2f0_d8dd7798-d6b8-436b-ac4b-c98f924b2fb2%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "rank": 13
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "Rachna Thakurel, Sheetal Bhalla, Dolly Rohira",
-      "who": "Rachna Thakurel",
-      "when_ist": "2026-09-03 16:00 IST",
-      "unread": false,
-      "what_they_asked": "Hi Deepak , here's the updated template for the skills repository building exercise. Would be very helpful if you could share your inputs towards first collecting the meta skills/focus areas.",
-      "why_needs_him": "Unanswered @mention/direct ask of Deepak.",
-      "suggested_reply_angle": "Share inputs on the skills-repository template / first meta skills collection Rachna asked for.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A7d21dd9328f8408fa151faa772474969%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
       "rank": 14
     },
     {
@@ -219,68 +219,35 @@
     {
       "heat": "medium",
       "chat_type": "group",
-      "title": "[Working Group] Migration",
-      "who": "Pranay Biswas",
-      "when_ist": "2026-09-21 09:06 IST",
+      "title": "Commercial Card Discovery Engagement",
+      "who": "Shashank Mehrotra",
+      "when_ist": "2026-09-22 07:44 IST",
       "unread": true,
-      "what_they_asked": "Shubham Goyal as informed, currently HAPS onboarding is not working 1. Record length 5030 is getting filtered out. ( Due to latest deployment on network identifier 1C) 2. With record length 5034, getting Mars exception, application id was DMed. Its blocker for processing HAPS, pl...",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A3a44b0652a9541d9895b14d374fb7d00%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Leadership-relevant FYI (Pranay Biswas); ask not clearly @Deepak but may need eyes."
+      "what_they_asked": "Hanoi",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A28b0f24896654baaa3347fa39dfdc0a4%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
     },
     {
       "heat": "medium",
       "chat_type": "group",
       "title": "HDFC PRODUCTION - EOD RUNS",
-      "who": "Sajeed Shaik",
-      "when_ist": "2026-09-21 04:39 IST",
+      "who": "Ashutosh Bosle",
+      "when_ist": "2026-09-22 04:32 IST",
       "unread": true,
-      "what_they_asked": "UcicReverseHandoff got generated.",
+      "what_they_asked": "UCIC reverse handoff got generated",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab18054ac71684944975d431082cac3f8%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
       "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
     },
     {
       "heat": "medium",
       "chat_type": "meeting",
-      "title": "SIB Demo",
-      "who": "Shashidhar Soppin",
-      "when_ist": "2026-09-20 18:00 IST",
+      "title": "debit/prepaid readiness for US markets | session 3",
+      "who": "Robert Keil",
+      "when_ist": "2026-09-22 03:17 IST",
       "unread": true,
-      "what_they_asked": "FYI",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_MzBjM2UxM2ItNGJmZS00ZDM2LWEzOGUtZmMzMzU0YmM0Mzk1%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Named priority chat; last from Shashidhar Soppin not a clear overnight reply - borderline."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "US Sales Exploration Core Group",
-      "who": "Neha Gutgutia",
-      "when_ist": "2026-09-18 21:50 IST",
-      "unread": true,
-      "what_they_asked": "Retail credit card. There is a seperate thread for commercial cards",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab1ffbe899d4b4578840f7e39540c8e97%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Leadership-relevant FYI (Neha Gutgutia); ask not clearly @Deepak but may need eyes."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "Metabase Issue Tracker - Ops/DBRE HDFC PROD",
-      "who": "Prajakta Kadam",
-      "when_ist": "2026-09-18 21:46 IST",
-      "unread": true,
-      "what_they_asked": "Yes we have received the query output",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Accaeb41a9d014ac8851a38f5aac384c3%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "meeting",
-      "title": "Discussion: Pre-sales Process & Prospect Engagement ",
-      "who": "Project Office",
-      "when_ist": "2026-09-18 20:11 IST",
-      "unread": true,
-      "what_they_asked": "Neha access shared to Matrix India pre sales folder Matrix India - Pre Sales kindly confirm if the reference is to this.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_YWEwZDA3ZDktODE4Ni00Yjg3LWFjZjQtZmYyY2EyOWZmNDc0%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+      "what_they_asked": "In the Fintech universe there are some popular card production providers such as Perfect Plastic and Thales. Sometimes that is due to better SLA when it comes to higher guaranteed output, sometimes it is better performance on POD etc. If we limit ourselves to supporting Metro/CPI...",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_ODM1ZDZkNTMtM2NkYS00MjU4LWJiZTktOWM5MTNjZjA2NWQ1%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Leadership-relevant FYI (Robert Keil); ask not clearly @Deepak but may need eyes."
     },
     {
       "heat": "medium",
@@ -295,14 +262,124 @@
     },
     {
       "heat": "medium",
-      "chat_type": "group",
-      "title": "Neha Gutgutia, Vinay Kulkarni, Bharathi Shekar, Project Office",
+      "chat_type": "meeting",
+      "title": "US engagements | bi-weekly pre-sales standup",
       "who": "Neha Gutgutia",
-      "when_ist": "2026-09-18 18:12 IST",
+      "when_ist": "2026-09-21 18:20 IST",
       "unread": true,
-      "what_they_asked": "you can call me once free",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A9c912b88e5d94bc09554080cfcfd552d%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "what_they_asked": "Saroj, can you pls make the change?",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_NjQ5Nzg1MzItNTc5Yi00NGZjLWFhY2MtYzIyMjNhYzNiZDM1%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "meeting",
+      "title": "Athena HDFC Prod Deployment Plan review ",
+      "who": "Muskan Mehrotra",
+      "when_ist": "2026-09-21 17:39 IST",
+      "unread": true,
+      "what_they_asked": "Deboday Shome Aditya Jaiswal If we are planning to deploy MID/TID automation by Thursday, please close the CMR creation and manager approval before 4pm tomorrow, so that it can be considered in the standard deployment window of Thursday as per the release team's process.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_NThiNmVkOWQtOWUyZi00NTlmLWEyNmYtNDI2MDI5ZjBhMjA3%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Leadership-relevant FYI (Muskan Mehrotra); ask not clearly @Deepak but may need eyes."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "ICE - HDFC UAT EOD Issues",
+      "who": "Srinivas Kappati",
+      "when_ist": "2026-09-21 17:20 IST",
+      "unread": true,
+      "what_they_asked": "Rishabh Khandelwal FYI., Received Alert for this subscription, but no Events found in DLQ and no logs even. So assuming these as False alerts and not able to reprocess them as cbu_date isn't available account_summary_sv_hdfcuat_COAIN002001 alert - https://zeta-tm.atlassian.net/ji...",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A60d994e80a3c47259e6ab639dcf99d63%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "meeting",
+      "title": "SIB Demo",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-21 17:15 IST",
+      "unread": true,
+      "what_they_asked": "We spoke. Chandan will help with responses",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_MzBjM2UxM2ItNGJmZS00ZDM2LWEzOGUtZmMzMzU0YmM0Mzk1%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
       "why_unsure": "Named priority chat; last from Neha Gutgutia not a clear overnight reply - borderline."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "meeting",
+      "title": "[Fortnightly] Pre-sales continuous improvement",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-21 15:52 IST",
+      "unread": true,
+      "what_they_asked": "Training Meetings with L7 & L8 Team Bot -- Like Hippo Agent Fluency",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_ZmU2NmY5NDMtNjFlMC00MThlLWE1NzMtN2I0YmNjNWI3MTVl%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Times Migration - Deployments",
+      "who": "Arya S",
+      "when_ist": "2026-09-21 15:54 IST",
+      "unread": true,
+      "what_they_asked": "you can coordinate with Arshia Aggarwal",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aee6beef019b9403280d1ff99ba42ba0c%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "meeting",
+      "title": "Discussion: Pre-sales Process & Prospect Engagement ",
+      "who": "Project Office",
+      "when_ist": "2026-09-21 15:47 IST",
+      "unread": true,
+      "what_they_asked": "Everyone - Access given, pls confirm if you received the same -Khushboo",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_YWEwZDA3ZDktODE4Ni00Yjg3LWFjZjQtZmYyY2EyOWZmNDc0%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "meeting",
+      "title": "Process to track delay in EOD Processing",
+      "who": "Navakanth Kanapala",
+      "when_ist": "2026-09-21 15:07 IST",
+      "unread": true,
+      "what_they_asked": "Hi Chandresh Phirke , 25th is the biggest cycle; Can we target to do these changes by 23 [Before EOD] so that we can track monitor for 2 regular runs followed by a Big one ? CC: Aankesh Rajshekar Mayank Singh",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_MTM2MDRkZTAtNDk0Zi00MTc4LTkzYzYtM2E4ZTQ4OTQ3NDQy%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Leadership-relevant FYI (Navakanth Kanapala); ask not clearly @Deepak but may need eyes."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "Metabase Issue Tracker - Ops/DBRE HDFC PROD",
+      "who": "Sahithi Meesala",
+      "when_ist": "2026-09-21 14:30 IST",
+      "unread": true,
+      "what_they_asked": "Vinod Kadam This issue is occurring due to abusive queries from the ReportCenter user. From our end, we will enforce query timeouts for this user to prevent such queries from impacting replication.",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Accaeb41a9d014ac8851a38f5aac384c3%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "[Critical] Bug Governance",
+      "who": "Divya D",
+      "when_ist": "2026-09-17 11:37 IST",
+      "unread": true,
+      "what_they_asked": "Rahul Avaghan Please review and prioritise the 5 P1 and 2 P2 items in Prod under your name",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ad9d378219e4846bf81b974f938958c0c%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Leadership-relevant FYI (Divya D); ask not clearly @Deepak but may need eyes."
+    },
+    {
+      "heat": "medium",
+      "chat_type": "group",
+      "title": "US Sales Exploration Core Group",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-18 21:50 IST",
+      "unread": true,
+      "what_they_asked": "Retail credit card. There is a seperate thread for commercial cards",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ab1ffbe899d4b4578840f7e39540c8e97%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Leadership-relevant FYI (Neha Gutgutia); ask not clearly @Deepak but may need eyes."
     },
     {
       "heat": "medium",
@@ -318,28 +395,6 @@
     {
       "heat": "medium",
       "chat_type": "meeting",
-      "title": "Athena HDFC Prod Deployment Plan review ",
-      "who": "SHUBHAM YADAV",
-      "when_ist": "2026-09-18 17:06 IST",
-      "unread": true,
-      "what_they_asked": "this SRE can confirm",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_NThiNmVkOWQtOWUyZi00NTlmLWEyNmYtNDI2MDI5ZjBhMjA3%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "Pixel - CS + Product Collab",
-      "who": "Priya S",
-      "when_ist": "2026-09-18 15:27 IST",
-      "unread": false,
-      "what_they_asked": "i see statement generation is restricted, do we also not allow downloading on past statements ?",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3A439e10a39eb74f058826cf6d49da8c46%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "meeting",
       "title": "[Monthly] Pixel Run Governance",
       "who": "Khushboo Mehla",
       "when_ist": "2026-09-18 11:41 IST",
@@ -349,48 +404,15 @@
       "why_unsure": "Leadership-relevant FYI (Khushboo Mehla); ask not clearly @Deepak but may need eyes."
     },
     {
-      "heat": "medium",
-      "chat_type": "meeting",
-      "title": "Product / Org Development Discussion Forum - Fortnightly",
-      "who": "Apurva Jaiswal",
-      "when_ist": "2026-09-18 11:37 IST",
-      "unread": true,
-      "what_they_asked": "Aditya Padmavar",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Ameeting_ZWM5MDlhMjMtY2ExMi00NWE4LTgxMzgtMDg3MThjOTMwZDZj%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
-    },
-    {
-      "heat": "medium",
-      "chat_type": "group",
-      "title": "Times Migration - Deployments",
-      "who": "Atishya Jain",
-      "when_ist": "2026-09-18 11:14 IST",
-      "unread": true,
-      "what_they_asked": "Akanksha Raj the issue is resolved, thanks!",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aee6beef019b9403280d1ff99ba42ba0c%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Recent thread in leadership-relevant chat; not @Deepak but worth a glance."
-    },
-    {
       "heat": "low",
       "chat_type": "oneOnOne",
       "title": "Pratyush Sinha",
-      "who": "Deepak Kumar",
-      "when_ist": "2026-09-19 23:16 IST",
+      "who": "Pratyush Sinha",
+      "when_ist": "2026-09-21 13:09 IST",
       "unread": false,
-      "what_they_asked": "Need Microsoft Graph delegated Sites.Read.All and Files.Read.All permissions on the monitoringTheSituation app",
+      "what_they_asked": "This is done.",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3A22cd96ab-bba4-4592-b21c-ccacfe8027dd_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Deepak's last message on open thread; ball not with him but work may still be pending - glance."
-    },
-    {
-      "heat": "low",
-      "chat_type": "oneOnOne",
-      "title": "Neha Gutgutia",
-      "who": "Neha Gutgutia",
-      "when_ist": "2026-09-18 19:15 IST",
-      "unread": false,
-      "what_they_asked": "Ok. SJ is anyways a little difficult to deal with. I have aligned Bharathi on Comm Cards. Added him to the call with Gary today.",
-      "webUrl": "https://teams.microsoft.com/l/chat/19%3Aaf1d3119-a076-4133-860b-362509ecce68_d629b243-dc5d-4bdd-9649-d96b875cd2f0%40unq.gbl.spaces/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
-      "why_unsure": "Ball with Neha Gutgutia ('Ok. SJ is anyways a little difficult to deal with. I have al'); not waiting on Deepak. Leave as unsure glance."
+      "why_unsure": "Work IQ MCP; Pratyush will check Graph app-registration and get back - waiting on him. No new ask overnight. Leave as unsure glance."
     },
     {
       "heat": "low",
@@ -461,7 +483,7 @@
     {
       "heat": "low",
       "chat_type": "group",
-      "title": "Uttam Rao, Sivaram Kowta",
+      "title": "Sivaram Kowta, Uttam Rao",
       "who": "Deepak Kumar",
       "when_ist": "2026-08-31 17:39 IST",
       "unread": false,
@@ -494,7 +516,7 @@
     {
       "heat": "low",
       "chat_type": "group",
-      "title": "Nikhil Mangal, Ramesh Javvaji, Mithun Kulkarni, Sivaram Kowta, Tony Simon",
+      "title": "Sivaram Kowta, Uttam Rao, Ramesh Javvaji, Mithun Kulkarni, Tony Simon",
       "who": "Tony Simon",
       "when_ist": "2026-08-26 12:28 IST",
       "unread": false,
@@ -516,7 +538,7 @@
     {
       "heat": "low",
       "chat_type": "group",
-      "title": "Gireesh Subramaniam, Sivaram Kowta",
+      "title": "Sivaram Kowta, Gireesh Subramaniam",
       "who": "Sivaram Kowta",
       "when_ist": "2026-08-13 17:00 IST",
       "unread": false,
@@ -538,7 +560,7 @@
     {
       "heat": "low",
       "chat_type": "group",
-      "title": "Kunal Bankapur, Sharath P, Ganesh R, Sheeba P, Rajiv Tandon",
+      "title": "Kunal Bankapur, Sheeba P, Sharath P, Rajiv Tandon, Ganesh R",
       "who": "Ganesh R",
       "when_ist": "2026-07-31 13:09 IST",
       "unread": false,
@@ -560,7 +582,7 @@
     {
       "heat": "low",
       "chat_type": "group",
-      "title": "Sheeba P, Shreya Sharma, Sharath P, Nishant Sahu",
+      "title": "Nishant Sahu, Sharath P, Sheeba P, Shreya Sharma",
       "who": "Sheeba P",
       "when_ist": "2026-06-01 17:29 IST",
       "unread": false,
@@ -582,6 +604,17 @@
     {
       "heat": "low",
       "chat_type": "group",
+      "title": "Neha Gutgutia, Mehul Mistry, Mohit Srivastava, Manoj Machiraju, Sidhant Jain",
+      "who": "Deepak Kumar",
+      "when_ist": "2026-04-20 15:31 IST",
+      "unread": false,
+      "what_they_asked": "Hop on folks",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3Af4dc3d090adb4a369d06309d6315f83e%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Deepak's last message on open thread; ball not with him but work may still be pending - glance."
+    },
+    {
+      "heat": "low",
+      "chat_type": "group",
       "title": "Dhruv Shah, Guruprasad Dharmaji",
       "who": "Deepak Kumar",
       "when_ist": "2026-04-15 18:42 IST",
@@ -589,6 +622,17 @@
       "what_they_asked": "HDFC-DCMS-Scope-Queries",
       "webUrl": "https://teams.microsoft.com/l/chat/19%3A46a0740405d144f499d5714a860d68ba%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
       "why_unsure": "Deepak's last message on open thread; ball not with him but work may still be pending - glance."
+    },
+    {
+      "heat": "low",
+      "chat_type": "group",
+      "title": "Bharathi Shekar, Vinay Kulkarni, Neha Gutgutia, Project Office",
+      "who": "Neha Gutgutia",
+      "when_ist": "2026-09-18 18:12 IST",
+      "unread": true,
+      "what_they_asked": "you can call me once free",
+      "webUrl": "https://teams.microsoft.com/l/chat/19%3A9c912b88e5d94bc09554080cfcfd552d%40thread.v2/0?tenantId=b25c2f79-a125-4c52-8ec7-b732cb121171",
+      "why_unsure": "Named priority chat (Neha Gutgutia); no clear overnight ask - unsure glance."
     },
     {
       "heat": "low",
@@ -602,23 +646,25 @@
       "why_unsure": "Named priority chat (Shashank Mehrotra); no clear overnight ask - unsure glance."
     }
   ],
-  "ignored_count": 48,
+  "ignored_count": 58,
   "skipped_hin_count": 339,
   "skipped_hin_titles": [
-    "HINU-4548-[Sev-2]-HDFC LZ UAT | OpsCenter | Ops Ce",
-    "HIN-425715-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
+    "HIN-626386-[Sev-4]-HDFC LZ Prod | Pixel | Repaymen",
+    "HIN-600762-[Sev-1]-HDFC LZ Prod | Pixel | Payments",
+    "HIN-615890-[Sev-3]-HDFC LZ Prod | Pixel | Card Man",
     "HINU-4368-[Sev-2]-HDFC LZ UAT | Turbo Repayments |",
+    "HIN-425715-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
+    "HINU-4548-[Sev-2]-HDFC LZ UAT | OpsCenter | Ops Ce",
     "HINU-4328-[Sev-2]-HDFC LZ UAT | Turbo Repayments |",
+    "HIN-614597-[Sev-1]-HDFC LZ Prod | Tachyon Credit |",
+    "HINU-4271-[Sev-3]-HDFC LZ UAT | Tachyon Credit | R",
     "HIN-609346-[Sev-2]-HDFC LZ Prod | Cipher ACS | Car",
     "HIN-617793-[Sev-1]-HDFC LZ Prod | Pixel | Card and",
-    "HIN-600762-[Sev-1]-HDFC LZ Prod | Pixel | Payments",
-    "HIN-614597-[Sev-1]-HDFC LZ Prod | Tachyon Credit |",
     "HINU-4564-[Sev-4]-HDFC LZ UAT | Pixel | rewards | ",
     "HIN-580059-[Sev-2]-HDFC LZ Prod | PayZapp | Others",
     "HIN-609345-[Sev-4]-HDFC LZ Prod | Tachyon Credit |",
     "HINU-4526-[Sev-2]-HDFC LZ UAT | Operation Center A",
     "Incident Discussion - HINU-4548",
-    "HIN-615890-[Sev-3]-HDFC LZ Prod | Pixel | Card Man",
     "HINU-4374-[Sev-2]-HDFC LZ UAT | Tachyon Credit | O",
     "HIN-560936-[Sev-1]-HDFC LZ Prod | PayZapp | Card P",
     "HIN-465167-[Sev-3]-HDFC LZ Prod | Tachyon ITP | Ca",
@@ -631,7 +677,6 @@
     "HIN-607866-[Sev-2]-HDFC LZ Prod | Pixel | Card and",
     "Zeta 8.0 -| AMA - Ask Me Anything & Hyd Leadership",
     "HINU-4528-[Sev-3]-HDFC LZ UAT | Tachyon Prepaid | ",
-    "HIN-626386-[Sev-4]-HDFC LZ Prod | Pixel | Repaymen",
     "Zeta 8.0 -| AMA - Ask Me Anything & Mumbai Leaders",
     "HIN-631365-[Sev-4]-HDFC LZ Prod | PayZapp | Bill P",
     "HIN-483632-[Sev-1]-HDFC LZ Prod | Pixel | Card and",
@@ -653,24 +698,23 @@
     "Zeta 8.0 -| AMA - Ask Me Anything (@DD) [In-person",
     "HIN-502287-[Sev-4]-HDFC LZ Prod | Orcus | Case Man",
     "HINU-4306-[Sev-2]-HDFC LZ UAT | Tachyon Credit | E",
-    "HINU-4151-[Sev-1]-HDFC LZ UAT | Tachyon Credit | E",
-    "HIN-591803-[Sev-2]-HDFC LZ Prod | Cipher IAM | Acc"
+    "HINU-4151-[Sev-1]-HDFC LZ UAT | Tachyon Credit | E"
   ],
   "webUrl_on_needs_reply": true,
   "webUrl_on_unsure": true,
   "no_messages_sent": true,
   "coverage_notes": {
-    "chats_listed": 1812,
+    "chats_listed": 1814,
     "chats_cap_pages": 80,
     "page_size_requested": 50,
     "nextLink_remaining": true,
-    "chats_scanned_messages": 102,
+    "chats_scanned_messages": 118,
     "message_fetch_errors": 0,
-    "cutoff_utc": "2026-09-18T03:30:00Z",
-    "last_snapshot_ist": "2026-09-18 09:10 IST",
+    "cutoff_utc": "2026-09-19T03:30:00Z",
+    "last_snapshot_ist": "2026-09-21 09:19 IST",
     "api_gaps": [
       "Skipped channel APIs as instructed (they 403 without Channel.ReadBasic.All). Chats only.",
-      "GET /me/chats?$expand=members,lastMessagePreview&$top=50; pages=80, listed=1812, nextLink_remaining=True.",
+      "GET /me/chats?$expand=members,lastMessagePreview&$top=50; pages=80, listed=1814, nextLink_remaining=True.",
       "HIN/HINU skip is title-based across the listing (339 chats)."
     ],
     "webUrl_on_needs_reply": true,
@@ -681,7 +725,7 @@
       "HDFC_Pitch_Vyapar": "stay ignore unless NEW Deepak ask",
       "Pratyush_Sinha": "recheck - Work IQ / SharePoint tools thread",
       "Nishant_Sahu": "recheck - Claude Max vs Copilot commitment",
-      "Neha_Gutgutia": "recheck overnight asks",
+      "Neha_Gutgutia": "REOPENED needs_reply - 1:1 last meaningful message from Neha Gutgutia waiting on Deepak.",
       "Deepak_EA_team": "REOPENED needs_reply - Unanswered @mention of Deepak.",
       "Rukmani_Vinod": "closed - farewell thank-you; event over",
       "Pankaj_Sonaiya": "stay ignore unless NEW ping",
@@ -696,8 +740,8 @@
     "message_fetch_error_samples": [],
     "rate_limit_sleeps": 0,
     "unsure_replaces_ignore": true,
-    "unsure_count": 36,
-    "ignored_count": 48,
+    "unsure_count": 40,
+    "ignored_count": 58,
     "schema_note": "Inbox-like shape: needs_reply[] + unsure[] (rich) + ignored_count; no thin ignore[] in push snapshot."
   }
 }
