@@ -1,20 +1,50 @@
 {
-  "generatedAt": "2026-09-24T03:50:45Z",
+  "generatedAt": "2026-09-25T03:46:51Z",
   "mailbox": "deepak@zeta.tech",
-  "unreadFolderCount": 46,
-  "fetchedCount": 46,
-  "conversationDedupedCount": 28,
-  "ignoredCount": 12,
+  "unreadFolderCount": 71,
+  "fetchedCount": 71,
+  "conversationDedupedCount": 43,
+  "ignoredCount": 19,
   "needsAction": [
     {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYB1LiAAAA=",
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCx0AAA=",
       "fromName": "Neo Tasket",
       "fromAddress": "notifications@neo.work",
       "subject": "3 Tasks, 0 Intake, 0 Update in Tasket",
-      "receivedAt": "2026-09-24T02:17:06Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYB1LiAAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Neo Tasket digest (24 Sep 07:47 IST) still shows 3 open tasks assigned to Deepak: respond to Gajendra questions (~1mo), submit documents to Gajendra (~1mo), check CRM on firm tax filing (~1mo).",
+      "receivedAt": "2026-09-25T02:16:59Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCx0AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Neo Tasket digest (25 Sep 07:46 IST) still shows 3 open tasks assigned to Deepak: respond to Gajendra questions (~1mo), submit documents to Gajendra (~1mo), check CRM on firm tax filing (~1mo).",
       "draftReply": "No reply — Complete or update the 3 open Tasket items (Gajendra questions, documents, CRM tax filing) in Neo."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxmAAA=",
+      "fromName": "Nikhil Mangal",
+      "fromAddress": "nikhilmangal@zeta.tech",
+      "subject": "Re: Dedicated Demo Environment and Pre-Sales Support",
+      "receivedAt": "2026-09-24T11:43:43Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxmAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Nikhil (24 Sep ~17:13 IST) asks Deepak to present Dedicated Demo Environment / Pre-Sales Support case to ERC TODAY (Fri 25 Sep) with budget; assumes Shashank & Mehul sponsor.",
+      "draftReply": "Hi Nikhil — Will present the dedicated demo env / pre-sales support case at ERC today with budget assumption (Shashank + Mehul sponsors). Flag if slot moved. Regards, Deepak"
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxnAAA=",
+      "fromName": "Sheetal Bhalla",
+      "fromAddress": "sheetalbh@zeta.tech",
+      "subject": "Solution Engineering: Next Steps for US Hiring",
+      "receivedAt": "2026-09-24T12:01:50Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxnAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sheetal Bhalla (TO Deepak + Sivaram) seeks alignment on retaining Solution Engineering as Product sub-chapter for US pre-sales SE hire; alignment requested by 30 Sep.",
+      "draftReply": "Hi Sheetal — Aligned: keep Solution Engineering as Product sub-chapter; US SE hire joins that ladder (client-facing, no Product ownership). Happy to confirm on the attached note. Regards, Deepak"
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxjAAA=",
+      "fromName": "Minerva",
+      "fromAddress": "noreply@myabsorb.com",
+      "subject": "Course past due notification for Understanding & Managing Unconscious Bias",
+      "receivedAt": "2026-09-24T10:43:24Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxjAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Minerva past-due reminder (24 Sep ~16:13 IST): Understanding & Managing Unconscious Bias still incomplete — compliance training overdue.",
+      "draftReply": "No reply — Complete Minerva course “Understanding & Managing Unconscious Bias” (past due) ASAP."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ydAAA=",
@@ -33,20 +63,100 @@
       "subject": "Digital Personal Loans Report, Jun 2026",
       "receivedAt": "2026-09-23T10:56:31Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR10AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "FACE (Monami) shared draft Digital Personal Loans Report Jun 2026 for members-only review; feedback requested by Friday 25 Sep IST.",
-      "draftReply": "Hi Monami — Thanks for the Digital Personal Loans draft (Jun 2026). Will review and share feedback by Fri 25 Sep. Regards, Deepak"
+      "context": "FACE (Monami) shared draft Digital Personal Loans Report Jun 2026 for members-only review; feedback requested by Friday 25 Sep IST (TODAY).",
+      "draftReply": "Hi Monami — Thanks for the Digital Personal Loans draft (Jun 2026). Sharing feedback today (Fri 25 Sep). Regards, Deepak"
     }
   ],
   "unsure": [
     {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ygAAA=",
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxyAAA=",
       "fromName": "Automation for Jira (Jira)",
       "fromAddress": "jira@zeta-saas.atlassian.net",
       "subject": "[JIRA] (SPB-16273) Autopay CASA -  vault properties are not being injected in prod",
-      "receivedAt": "2026-09-23T18:37:36Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ygAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Jira automation update on SPB-16273 Autopay CASA vault properties in prod — Deepak ownership/action unclear; awareness.",
-      "draftReply": "No reply — Skim SPB-16273 update; ping owners only if Autopay CASA prod injection still blocked."
+      "receivedAt": "2026-09-24T18:38:17Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxyAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Jira automation ageing update on SPB-16273 Autopay CASA vault properties in prod (84→85 days) — Deepak ownership/action unclear; awareness.",
+      "draftReply": "No reply — Skim SPB-16273 ageing update; ping owners only if Autopay CASA prod injection still blocked."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxxAAA=",
+      "fromName": "Ankit R",
+      "fromAddress": "ankitr@zeta.tech",
+      "subject": "Re: Action Required: Timely CMR Review and Approval (23rd Sep 2026)",
+      "receivedAt": "2026-09-24T16:03:38Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxxAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "CMR timely review thread: Ankit confirms CMR approved and planned for 24 Sep deployment — Deepak on Cc; FYI/stakeholder.",
+      "draftReply": "No reply — Note CMR approved for deployment; escalate only if today’s change fails."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxsAAA=",
+      "fromName": "Siddhesh Dhumal",
+      "fromAddress": "siddheshdh@zeta.tech",
+      "subject": "HDFC exception reports snapshot: CBU- 23rd Sept 2026",
+      "receivedAt": "2026-09-24T15:10:48Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxsAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "HDFC exception reports snapshot CBU 23 Sep — FYI ops digest; PSS asked for lines 52–57; Deepak ownership unclear.",
+      "draftReply": "No reply — Skim CBU 23 Sep exception snapshot; follow up only on open Sev items if any."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxrAAA=",
+      "fromName": "Manikandan Padma Subramanian",
+      "fromAddress": "manikandanpadma.subramanian@hdfc.bank.in",
+      "subject": "Re: Available Credit Limit: Formulae Update for immediate release on Repayment Done during EOD",
+      "receivedAt": "2026-09-24T14:52:32Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxrAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Available Credit Limit formulae update for EOD repayment: Mani asks Ginni/Rishik to apply discussed changes — Deepak on Cc.",
+      "draftReply": "No reply — Track ACL formulae change; intervene only if release slips or risks Pixel/HDFC."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxfAAA=",
+      "fromName": "THIRUMALAI DEVI PRASAD A N",
+      "fromAddress": "thirumalaideviprasad.an@hdfc.bank.in",
+      "subject": "RE: Request to Update  NPA date- Critical issue",
+      "receivedAt": "2026-09-24T09:33:25Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "NPA date critical issue: Prasad thanks Karthik and asks to be notified when ready for UAT — Deepak on Cc.",
+      "draftReply": "No reply — Track NPA date UAT readiness; escalate only if critical path slips."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxcAAA=",
+      "fromName": "Anjali Ravindran",
+      "fromAddress": "anjalir@zeta.tech",
+      "subject": "Re: Pixel Webapp 2FA for MyCards Integration",
+      "receivedAt": "2026-09-24T09:16:26Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxcAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Pixel Webapp 2FA for MyCards: Anjali notes demo scheduled 16:30 — Deepak on Cc; no direct ask.",
+      "draftReply": "No reply — Note Pixel 2FA demo at 16:30; join only if Anjali/program flags need."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxbAAA=",
+      "fromName": "Sameer Bajaj",
+      "fromAddress": "sameerb@zeta.tech",
+      "subject": "Re: Axon Support Handover",
+      "receivedAt": "2026-09-24T08:48:08Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxbAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "Sameer asks to align on Axon Support Handover (multiple open tickets/initiatives); Kirit notes ownership now under Uttam & Dhruv — Deepak on To.",
+      "draftReply": "Hi Sameer — Noted. Suggest sync with Uttam + Dhruv (current owners per Kirit) to close open Axon tickets/initiatives; happy to join if helpful. Regards, Deepak"
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxVAAA=",
+      "fromName": "Monami Dasgupta",
+      "fromAddress": "monami.dasgupta@faceofindia.org",
+      "subject": "Requesting feedback on the consultation paper by IRDAI, 2026",
+      "receivedAt": "2026-09-24T06:57:11Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxVAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "FACE (Monami) invites member feedback on IRDAI Consultation paper on Insurance Distribution Reforms; share to Monami by 15-Oct-2026 if any.",
+      "draftReply": "Hi Monami — Thanks for the IRDAI insurance-distribution consultation. Will review and share any Zeta member inputs before 15-Oct-2026. Regards, Deepak"
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxMAAA=",
+      "fromName": "Ganesh R",
+      "fromAddress": "ganeshr@zeta.tech",
+      "subject": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update",
+      "receivedAt": "2026-09-24T04:31:19Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAYDxCxMAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "[STAKEHOLDER INFO] Pixel Problem Ticket Daily & Weekly Update from Ganesh — Deepak on Cc; awareness digest.",
+      "draftReply": "No reply — Skim Pixel problem-ticket pain points; act only on items owned by your teams."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yfAAA=",
@@ -55,38 +165,8 @@
       "subject": "Re: Meridian 8.0 - full list of people, engagement, roles",
       "receivedAt": "2026-09-23T16:57:06Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yfAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Meridian 8.0 people/roles list: Nikhil notes ERC this Friday; Deepak on To — may need to attend/review Trellis data.",
-      "draftReply": "Hi Nikhil — Noted ERC this Friday for Meridian 8.0. I’ll review the Trellis list ahead of the slot. Regards, Deepak"
-    },
-    {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ycAAA=",
-      "fromName": "THIRUMALAI DEVI PRASAD A N",
-      "fromAddress": "thirumalaideviprasad.an@hdfc.bank.in",
-      "subject": "RE: Action Required: Timely CMR Review and Approval (23rd Sep 2026)",
-      "receivedAt": "2026-09-23T14:19:19Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ycAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "HDFC CMR timely review/approval thread (23 Sep): Prasad flags missing Jira access — IT/BSG approvers; Deepak stakeholder/CC pattern.",
-      "draftReply": "No reply — Track CMR approval friction (Jira access); escalate only if program needs leadership push."
-    },
-    {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ybAAA=",
-      "fromName": "Bharath Krishnan1",
-      "fromAddress": "bharath.krishnan1@hdfc.bank.in",
-      "subject": "Re: Pixel Webapp 2FA for MyCards Integration",
-      "receivedAt": "2026-09-23T14:06:41Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913ybAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Pixel Webapp 2FA for MyCards: Bharath asks Anjali to schedule walkthrough tomorrow — Deepak on Cc; no direct ask.",
-      "draftReply": "No reply — Note Pixel 2FA walkthrough ask for tomorrow; join only if Anjali/program flags need."
-    },
-    {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yaAAA=",
-      "fromName": "Siddhesh Dhumal",
-      "fromAddress": "siddheshdh@zeta.tech",
-      "subject": "HDFC exception reports snapshot: CBU- 22nd Sept 2026",
-      "receivedAt": "2026-09-23T14:01:30Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yaAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "HDFC exception reports snapshot CBU 22 Sep — FYI ops digest; review expectation unclear.",
-      "draftReply": "No reply — Skim CBU 22 Sep exception snapshot; follow up only on open Sev items if any."
+      "context": "Meridian 8.0 people/roles: Nikhil notes ERC this Friday (TODAY); Deepak on To — may need to attend/review Trellis data.",
+      "draftReply": "Hi Nikhil — Noted Meridian 8.0 on ERC today. I’ll review the Trellis list ahead of the slot. Regards, Deepak"
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yXAAA=",
@@ -95,7 +175,7 @@
       "subject": "Major version upgrade | PG14 to PG17 | HDFC UAT",
       "receivedAt": "2026-09-23T13:37:16Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX913yXAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "DRE PG14→PG17 major upgrade for HDFC UAT planned 28 Sep 2026 22:00 IST — overlaps freeze window context; awareness for dependent teams.",
+      "context": "DRE PG14→PG17 major upgrade for HDFC UAT planned 28 Sep 2026 22:00 IST — awareness for dependent teams.",
       "draftReply": "No reply — Note HDFC UAT PG14→PG17 window 28 Sep 22:00 IST; confirm no conflicting UAT critical path."
     },
     {
@@ -126,7 +206,7 @@
       "receivedAt": "2026-09-23T12:13:59Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX7PdAHAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Automation demo: Arun asks Ashish for Allure UAT reports by tomorrow — Deepak on Cc; owners are QA/program.",
-      "draftReply": "No reply — Note Allure UAT report ask due tomorrow; intervene only if Ashish/Sandeep escalate."
+      "draftReply": "No reply — Note Allure UAT report ask; intervene only if Ashish/Sandeep escalate."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR17AAA=",
@@ -135,18 +215,8 @@
       "subject": "Re: Mastercard 3DS Operator Newsletter - August 2026",
       "receivedAt": "2026-09-23T11:36:29Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR17AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Dhruv ++Deepak on Mastercard 3DS Operator Newsletter / 2.2.0 sunset & 2.3.1.1 upgrade path — FYI awareness, no immediate ask.",
-      "draftReply": "No reply — Note 3DS 2.2.0 sunset path (LoA renew by Jul 2027); confirm Debjyoti owns upgrade track."
-    },
-    {
-      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR16AAA=",
-      "fromName": "Amol Shinde7",
-      "fromAddress": "amol.shinde7@hdfc.bank.in",
-      "subject": "Re: Critical : SecurNXT Go-live before 30th September",
-      "receivedAt": "2026-09-23T11:32:00Z",
-      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR16AAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
-      "context": "Critical SecurNXT go-live before 30 Sep: Amol approving for tonight push — Deepak on Cc; approvals in flight.",
-      "draftReply": "No reply — Track SecurNXT go-live before 30 Sep; ping Muskan/Ankit only if tonight’s change slips."
+      "context": "Dhruv ++Deepak on Mastercard 3DS Operator Newsletter / 2.2.0 sunset & 2.3.1.1 upgrade path — FYI awareness; PLE to own LoA renewal.",
+      "draftReply": "No reply — Note 3DS 2.2.0 LoA renew-by Jul 2027 / 2.3.1.1 path; confirm Debjyoti/PLE own upgrade track."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1uAAA=",
@@ -156,7 +226,7 @@
       "receivedAt": "2026-09-23T10:03:24Z",
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1uAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Neha → Nikhil (Deepak Cc): confirm whether UPI credit-card repayment limit is ₹5L (NPCI) or still capped at ₹2L — action on Nikhil.",
-      "draftReply": "No reply — Wait for Nikhil’s confirmation on UPI CC repayment limit (₹5L vs ₹2L); chase if unanswered by EOD."
+      "draftReply": "No reply — Wait for Nikhil’s confirmation on UPI CC repayment limit (₹5L vs ₹2L); chase if unanswered."
     },
     {
       "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1qAAA=",
@@ -167,6 +237,16 @@
       "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1qAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
       "context": "Pixel Engagement WSR: Shreya lists de-prioritized SSOT items to Vijaya — Deepak likely stakeholder; no direct ask.",
       "draftReply": "No reply — Skim Pixel WSR de-prioritized list; comment only if any SPI should stay in scope."
+    },
+    {
+      "id": "AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM_ppQY5fjv6dNUH_BwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1nAAA=",
+      "fromName": "L Sanjay",
+      "fromAddress": "sanjayl@zeta.tech",
+      "subject": "Re: FANG COA6 Batch issue",
+      "receivedAt": "2026-09-23T09:30:07Z",
+      "webLink": "https://outlook.office365.com/owa/?ItemID=AAMkADZkOTQ1YmFhLWI0NmItNGU5Zi05ZjkwLWZhN2Y0MTZlMzc4NQBGAAAAAAAOwjWWM%2BppQY5fjv6dNUH%2BBwDuoCuqesT1TZMziiMd4x32AAAAAAEMAADuoCuqesT1TZMziiMd4x32AAX0sR1nAAA%3D&exvsurl=1&viewmodel=ReadMessageItem",
+      "context": "FANG COA6 Batch issue: Sanjay confirms COA6 in sync with current date 23 Sep ACTIVE — Deepak on Cc; FYI.",
+      "draftReply": "No reply — Note FANG COA6 now ACTIVE/in sync; escalate only if batch still broken."
     }
   ]
 }
